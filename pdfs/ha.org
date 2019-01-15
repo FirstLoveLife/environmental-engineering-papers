@@ -1,0 +1,836 @@
+<<fb-root>>
+
+Toggle navigation
+[[/][[[/bs/i/made-how.png]] [[/bs/i/made-how-sm.png]]]]
+
+<<navbar>>
+
+- [[http://www.city-data.com/forum/science-technology/][ Forum]]
+
+<<body>>
+
+1. [[/index.html][Made How]]
+2. [[file:index.html][Volume 2]]
+3. Paper
+
+* Paper
+  :PROPERTIES:
+  :CUSTOM_ID: paper
+  :END:
+
+--------------
+
+--------------
+
+** Background
+   :PROPERTIES:
+   :CUSTOM_ID: background
+   :END:
+
+Formed from wood pulp or plant fiber, paper is chiefly used for written
+communication. The earliest paper was papyrus, made from reeds by the
+ancient Egyptians. Paper was made by the Chinese in the second century,
+probably by a Chinese court official named Cai Lun. His paper was made
+from such things as tree bark and old fish netting. Recognized almost
+immediately as a valuable secret, it was 500 years before the Japanese
+acquired knowledge of the method. Papermaking was known in the Islamic
+world from the end of the eighth century A.D.
+
+Knowledge of papermaking eventually moved westward, and the first
+European paper mill was built at Jativa, in the province of Valencia,
+Spain, in about 1150. By the end of the 15th century, paper mills
+existed in Italy, France, Germany, and England, and by the end of the
+16th century, paper was being made throughout Europe.
+
+Paper, whether produced in the modern factory or by the most careful,
+delicate hand methods, is made up of connected fibers. The fibers can
+come from a number of sources including cloth rags, cellulose fibers
+from plants, and, most notably, trees. The use of cloth in the process
+has always produced high-quality paper. Today, a large proportion of
+cotton and linen fibers in the mix create many excellent papers for
+special uses, from wedding invitation paper stock to special paper for
+pen and ink drawings.
+
+The method of making paper is essentially a simple one---mix up
+vegetable fibers, and cook them in hot water until the fibers are soft
+but not dissolved. The hot water also contains a base chemical such as
+lye, which softens the fibers as they are cooking. Then, pass a
+screen-like material through the mixture, let the water drip off and/or
+evaporate, and then squeeze or blot out additional water. A layer of
+paper is left behind. Essential to the process are the fibers, which are
+never totally destroyed, and, when mixed and softened, form an
+interlaced pattern within the paper itself. Modern papermaking methods,
+although significantly more complicated than the older ways, are
+developmental improvements rather than entirely new methods of making
+paper.
+
+** Raw Materials
+   :PROPERTIES:
+   :CUSTOM_ID: raw-materials
+   :END:
+
+Probably half of the fiber used for paper today comes from wood that has
+been purposely harvested. The remaining material comes from wood fiber
+from sawmills, recycled *newspaper,* some vegetable matter, and recycled
+cloth. Coniferous trees, such as spruce and fir, used to be preferred
+for papermaking because the cellulose fibers in the pulp of these
+species are longer, therefore making for stronger paper. These trees are
+called "softwood" by the paper industry. Deciduous trees (leafy trees
+such as poplar and elm) are called "hardwood." Because of increasing
+demand for paper, and improvements in pulp processing technology, almost
+any species of tree can now be harvested for paper.
+
+Some plants other than trees are suitable for paper-making. In areas
+without significant forests, bamboo has been used for paper pulp, as has
+straw and sugarcane. Flax,
+
+[[../images/hpm_0000_0002_0_img0155.jpg]]
+
+Most paper is made by a mechanical or chemical process.
+
+hemp, and jute fibers are commonly used for textiles and
+rope making, but they can also be used for
+paper. Some high-grade cigarette paper
+is made from flax.
+Cotton and linen rags are used in fine-grade papers such as letterhead
+and resume paper, and for bank notes and security certificates. The rags
+are usually cuttings and waste from textile and garment mills. The rags
+must be cut and cleaned, boiled, and beaten before they can be used by
+the paper mill.
+
+Other materials used in paper manufacture include bleaches and dyes,
+fillers such as chalk, clay, or titanium oxide, and sizings such as
+rosin, gum, and starch.
+
+** The Manufacturing\\
+Process
+   :PROPERTIES:
+   :CUSTOM_ID: the-manufacturing-process
+   :END:
+
+*** /Making pulp/
+    :PROPERTIES:
+    :CUSTOM_ID: making-pulp
+    :END:
+
+- 1 Several processes are commonly used to convert logs to wood pulp. In
+  the mechanical process, logs are first tumbled in drums to remove the
+  bark. The logs are then sent to grinders, which break the wood down
+  into pulp by pressing it between huge revolving slabs. The pulp is
+  filtered to remove foreign objects. In the chemical process, wood
+  chips from de-barked logs are cooked in a chemical solution. This is
+  done in huge vats called digesters. The chips are fed into the
+  digester, and then boiled at high pressure in a solution of
+
+  [[../images/hpm_0000_0002_0_img0156.jpg]]
+
+  sodium hydroxide and sodium sulfide. The chips dissolve into pulp in
+  the solution. Next the pulp is sent through filters. *Bleach* may be
+  added at this stage, or colorings. The pulp is sent to the paper
+  plant.
+
+*** /Beating/
+    :PROPERTIES:
+    :CUSTOM_ID: beating
+    :END:
+
+- 2 The pulp is next put through a pounding and squeezing process
+  called, appropriately enough, beating. Inside a large tub, the pulp is
+  subjected to the effect of machine beaters. At this point, various
+  filler materials can be added such as chalks, clays, or chemicals such
+  as titanium oxide. These additives will influence the opacity and
+  other qualities of the final product. Sizings are also added at this
+  point. Sizing affects the way the paper will react with various inks.
+  Without any sizing at all, a paper will be too absorbent for most uses
+  except as a desk blotter. A sizing such as starch makes the paper
+  resistant to water-based ink (inks actually sit on top of a sheet of
+  paper, rather than sinking in). A variety of sizings, generally rosins
+  and gums, is available depending on the eventual use of the paper.
+  Paper that will receive a printed design, such as gift wrapping,
+  requires a particular formula of sizing that will make the paper
+  accept the printing properly.
+
+*** /Pulp to paper/
+    :PROPERTIES:
+    :CUSTOM_ID: pulp-to-paper
+    :END:
+
+- 3 In order to finally turn the pulp into paper, the pulp is fed or
+  pumped into giant, automated machines. One common type is called the
+  Fourdrinier machine, which was invented in England in 1807. Pulp is
+  fed into the Fourdrinier machine on a moving belt of fine mesh
+  screening. The pulp is squeezed through a series of rollers, while
+  suction devices below the belt drain off water. If the paper is to
+  receive a water-mark, a device called a dandy moves across the sheet
+  of pulp and presses a design into it.
+
+  The paper then moves onto the press section of the machine, where it
+  is pressed between rollers of wool felt. The paper then passes over a
+  series of steam-heated cylinders to remove the remaining water. A
+  large machine may have from 40 to 70 drying cylinders.
+
+*** /Finishing/
+    :PROPERTIES:
+    :CUSTOM_ID: finishing
+    :END:
+
+- 4 Finally, the dried paper is wound onto large reels, where it will be
+  further processed depending on its ultimate use. Paper is smoothed and
+  compacted further by passing through metal rollers called calendars. A
+  particular finish, whether soft and dull or hard and shiny, can be
+  imparted by the calendars.
+
+  The paper may be further finished by passing through a vat of sizing
+  material. It may also receive a coating, which is either brushed on or
+  rolled on. Coating adds chemicals or pigments to the paper's surface,
+  supplementing the sizings and fillers from earlier in the process.
+  Fine clay is often used as a coating. The paper may next be
+  supercalendered, that is, run through extremely smooth calendar
+  rollers, for a final time. Then the paper is cut to the desired size.
+
+** Environmental Concerns
+   :PROPERTIES:
+   :CUSTOM_ID: environmental-concerns
+   :END:
+
+The number of trees and other vegetation cut down in order to make paper
+is enormous. Paper companies insist that they plant as many new trees as
+they cut down. Environmentalists contend that the new growth trees, so
+much younger and smaller than what was removed, cannot replace the value
+of older trees. Efforts to recycle used paper (especially newspapers)
+have been effective in at least partially mitigating the need for
+destruction of woodlands, and recycled paper is now an important
+ingredient in many types of paper production.
+
+The chemicals used in paper manufacture, including dyes, inks, bleach,
+and sizing, can also be harmful to the environment when they are
+released into water supplies and nearby land after use. The industry
+has, sometimes with government prompting, cleared up a large amount of
+pollution, and federal requirements now demand pollutionfree paper
+production. The cost of such clean-up efforts is passed on to the
+consumer.
+
+** Where To Learn More
+   :PROPERTIES:
+   :CUSTOM_ID: where-to-learn-more
+   :END:
+
+*** /Books/
+    :PROPERTIES:
+    :CUSTOM_ID: books
+    :END:
+
+Biermann, Christopher J. /Essentials of Pulping & Papermaking./ Academic
+Press, 1993.
+
+Bell, Lilian A. /Plant Fibers for Papermaking./ Liliaceae Press, 1992.
+
+Ferguson, Kelly, ed. /New Trends and Developments in Papermaking./
+Miller Freeman, Inc., 1994.
+
+Munsell, Joel. /Chronology and Process of Papermaking, 1876-1990./
+Albert Saifer Publisher, 1992.
+
+*** /Periodicals/
+    :PROPERTIES:
+    :CUSTOM_ID: periodicals
+    :END:
+
+deGrassi, Jennifer. "Primitive Papermaking." /Schools Arts,/ February
+1981, pp. 32-33.
+
+Kleiner, Art. "Making Paper." /Co-Evolution Quarterly,/ Winter 1980, p.
+138.
+
+Lamb, Lynette. "Tree-Free Paper." /Utne Reader,/ March-April 1994, p.
+40.
+
+Saddington, Marrianne. "How to Make Homemade Paper." /Mother Earth
+News,/ December-January 1993, p. 30+.
+
+Sessions, Larry. "Making Paper." /Family Explorer,/ October 1994.
+
+--- /Lawrence/ /H./ /Berlow/
+
+<<wl>>
+Also read article about [[/knowledge/Paper.html][*Paper*]] from
+Wikipedia
+
+<<Comments_section>>
+** User Contributions:
+   :PROPERTIES:
+   :CUSTOM_ID: user-contributions
+   :END:
+
+[[/Volume-2/Paper.html#Comments_1][1]]
+
+ankit dixit
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Aug 8, 2006 @ 1:13 pm
+
+should cover more mathematical part also...like kinetics and design of
+digestors etc..
+
+[[/Volume-2/Paper.html#Comments_2][2]]
+
+Muhammad Iqbal
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+May 23, 2007 @ 2:02 am
+
+Concerning environment protection, it is necessary that for one older
+tree, ten plants should be planted and the older tree should be cut down
+atleast after three years when planting new plants.
+
+[[/Volume-2/Paper.html#Comments_3][3]]
+
+amalynn
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jul 23, 2007 @ 9:09 am
+
+Paper is essential in our life and as equally important as to computer.
+Deforestation is a must in order to cater the needs for manufacturing
+papers worldwide...Though stating the fact to plant trees, how much time
+for a tree to grow? In case you don't know it takes up to at least
+10++years. Gosh imagine how many trees been cut down during the period!
+Only god knows how to stop it (unless you have a better idea on this
+serious issue). It's serious isn;t it? Trees has been protecting the
+earth from the Sun and avoiding the light from overheating the surface
+of the Earth. Undoubtedly which is a factor towards the GLOBAL WARMING
+issue nowadays.\\
+\\
+Having said all that, am currently researching on the related
+environmental issue. Therefore, would it be better to provide a video
+clip on the manufacturing of paper? I must agree that video explains
+more. Thanks and sorry if i offended any parties. Have a nice day!
+
+[[/Volume-2/Paper.html#Comments_4][4]]
+
+[[mailto:Johan%20%5Bat%5D%20miosa%20%5Bdot%5D%20co%20%5Bdot%5D%20za][Johan]]
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Dec 7, 2010 @ 12:12 pm
+
+I would like to know if I can use saw dust to manufacture a reasonable
+grade of paper? If any body would like to answer me I would rely
+appreciate it.\\
+\\
+Regards
+
+[[/Volume-2/Paper.html#Comments_5][5]]
+
+[[mailto:danielleclayton_512%20%5Bat%5D%20yahoo%20%5Bdot%5D%20com][Danielle
+Clayton]]
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Aug 31, 2011 @ 9:09 am
+
+this is awesome, i like the way they explain every step and proccess
+that is shows. this is very good and very helpful.thanks
+
+[[/Volume-2/Paper.html#Comments_6][6]]
+
+[[mailto:ketanpatel101084%20%5Bat%5D%20yahoo%20%5Bdot%5D%20in][ketan]]
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Sep 3, 2011 @ 1:01 am
+
+SIR\\
+CALCIUM CARBONATE (CACO3) USE IN MANUFACTURING OF PAPER
+
+[[/Volume-2/Paper.html#Comments_7][7]]
+
+Bennett Evan Robbins
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jun 2, 2016 @ 12:12 pm
+
+Johan...Sawdust is a key component in paper making if there is a wood
+mill around. All the sawdust is captured in trucks or railroad cars and
+is sent to the paper mill. Once there a rotary dumper picks up the train
+car and turns it over to dump out the sawdust into bins that will be
+used as the paper is being made.
+
+[[/Volume-2/Paper.html#Comments_8][8]]
+
+bruno
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jan 14, 2019 @ 11:11 am
+
+how did 911 affect the production of paper? besides the lack of this
+essential info, very well formed article
+
+[[/Volume-2/Paper.html#Comments_9][9]]
+
+kiana p.
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jan 14, 2019 @ 12:12 pm
+
+How can you see into my eyes like open doors?\\
+Leading you down into my core where I've become so numb\\
+Without a soul my spirit's sleeping somewhere cold\\
+Until you find it there and lead it back home\\
+\\
+(Wake me up)\\
+Wake me up inside\\
+(I can't wake up)\\
+Wake me up inside\\
+(Save me)\\
+Call my name and save me from the dark\\
+(Wake me up)\\
+Bid my blood to run\\
+(I can't wake up)\\
+Before I come undone\\
+(Save me)\\
+Save me from the nothing I've become\\
+\\
+Now that I know what I'm without\\
+You can't just leave me\\
+Breathe into me and make me real\\
+Bring me to life\\
+\\
+(Wake me up)\\
+Wake me up inside\\
+(I can't wake up)\\
+Wake me up inside\\
+(Save me)\\
+Call my name and save me from the dark\\
+(Wake me up)\\
+Bid my blood to run\\
+(I can't wake up)\\
+Before I come undone\\
+(Save me)\\
+Save me from the nothing I've become\\
+\\
+Bring me to life\\
+(I've been living a lie, there's nothing inside)\\
+Bring me to life\\
+\\
+Frozen inside without your touch\\
+Without your love, darling\\
+Only you are the life among the dead\\
+\\
+All this time I can't believe I couldn't see\\
+Kept in the dark but you were there in front of me\\
+I've been sleeping a thousand years it seems\\
+Got to open my eyes to everything\\
+Without a thought, without a voice, without a soul\\
+Don't let me die here\\
+There must be something more\\
+Bring me to life\\
+\\
+(Wake me up)\\
+Wake me up inside\\
+(I can't wake up)\\
+Wake me up inside\\
+(Save me)\\
+Call my name and save me from the dark\\
+(Wake me up)\\
+Bid my blood to run\\
+(I can't wake up)\\
+Before I come undone\\
+(Save me)\\
+Save me from the nothing I've become\\
+\\
+Bring me to life\\
+(I've been living a lie, there's nothing inside)\\
+Bring me to life
+
+[[/Volume-2/Paper.html#Comments_10][10]]
+
+nunison
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jan 14, 2019 @ 12:12 pm
+
+Hello everyone i just wanted to say that i have cancer, from eating too
+much paper
+
+[[/Volume-2/Paper.html#Comments_11][11]]
+
+nuno
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jan 14, 2019 @ 12:12 pm
+
+just take the paper roll some nuno and your gone that's how paper should
+be used
+
+[[/Volume-2/Paper.html#Comments_12][12]]
+
+big chungus
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jan 15, 2019 @ 10:10 am
+
+big chungus says "big chungus" big chungus says "big chungus" big
+chungus says "big chungus" big chungus says "big chungus" big chungus
+says "big chungus" big chungus says "big chungus" big chungus says "big
+chungus" big chungus says "big chungus" big chungus says "big chungus"
+big chungus says "big chungus" big chungus says "big chungus" big
+chungus says "big chungus" big chungus says "big chungus" big chungus
+says "big chungus" big chungus says "big chungus" big chungus says "big
+chungus" big chungus says "big chungus" big chungus says "big chungus"
+big chungus says "big chungus" big chungus says "big chungus"
+
+[[/Volume-2/Paper.html#Comments_13][13]]
+
+The Bee Movie
+
+[[javascript:void(0);][[[/images/comment.moderate.gif]]]]
+
+Jan 15, 2019 @ 10:10 am
+
+Bee Movie Script\\
+\\
+\\
+According to all known laws\\
+of aviation,\\
+\\
+\\
+there is no way a bee\\
+should be able to fly.\\
+\\
+\\
+Its wings are too small to get\\
+its fat little body off the ground.\\
+\\
+\\
+The bee, of course, flies anyway\\
+\\
+\\
+because bees don't care\\
+what humans think is impossible.\\
+\\
+\\
+Yellow, black. Yellow, black.\\
+Yellow, black. Yellow, black.\\
+\\
+\\
+Ooh, black and yellow!\\
+Let's shake it up a little.\\
+\\
+\\
+Barry! Breakfast is ready!\\
+\\
+\\
+Ooming!\\
+\\
+\\
+Hang on a second.\\
+\\
+\\
+Hello?\\
+\\
+\\
+- Barry?\\
+- Adam?\\
+\\
+\\
+- Oan you believe this is happening?\\
+- I can't. I'll pick you up.\\
+\\
+\\
+Looking sharp.\\
+\\
+\\
+Use the stairs. Your father\\
+paid good money for those.\\
+\\
+\\
+Sorry. I'm excited.\\
+\\
+\\
+Here's the graduate.\\
+We're very proud of you, son.\\
+\\
+\\
+A perfect report card, all B's.\\
+\\
+\\
+Very proud.\\
+\\
+\\
+Ma! I got a thing going here.\\
+\\
+\\
+- You got lint on your fuzz.\\
+- Ow! That's me!\\
+\\
+\\
+- Wave to us! We'll be in row 118,000.\\
+- Bye!\\
+\\
+\\
+Barry, I told you,\\
+stop flying in the house!\\
+\\
+\\
+- Hey, Adam.\\
+- Hey, Barry.\\
+\\
+\\
+- Is that fuzz gel?\\
+- A little. Special day, graduation.\\
+\\
+\\
+Never thought I'd make it.\\
+\\
+\\
+Three days grade school,\\
+three days high school.\\
+\\
+\\
+Those were awkward.\\
+\\
+\\
+Three days college. I'm glad I took\\
+a day and hitchhiked around the hive.\\
+\\
+\\
+You did come back different.\\
+\\
+\\
+- Hi, Barry.\\
+- Artie, growing a mustache? Looks good.\\
+\\
+\\
+- Hear about Frankie?\\
+- Yeah.\\
+\\
+\\
+- You going to the funeral?\\
+- No, I'm not going.\\
+\\
+\\
+Everybody knows,\\
+sting someone, you die.\\
+\\
+\\
+Don't waste it on a squirrel.\\
+Such a hothead.\\
+\\
+\\
+I guess he could have\\
+just gotten out of the way.\\
+\\
+\\
+I love this incorporating\\
+an amusement park into our day.\\
+\\
+\\
+That's why we don't need vacations.\\
+\\
+\\
+Boy, quite a bit of pomp...\\
+under the circumstances.\\
+\\
+\\
+- Well, Adam, today we are men.\\
+- We are!\\
+\\
+\\
+- Bee-men.\\
+- Amen!\\
+\\
+\\
+Hallelujah!\\
+\\
+\\
+Students, faculty, distinguished bees,\\
+\\
+\\
+please welcome Dean Buzzwell.\\
+\\
+\\
+Welcome, New Hive Oity\\
+graduating class of...\\
+\\
+\\
+...9:15.\\
+\\
+\\
+That concludes our ceremonies.\\
+\\
+\\
+And begins your career\\
+at Honex Industries!\\
+\\
+\\
+Will we pick ourjob today?\\
+\\
+\\
+I heard it's just orientation.\\
+\\
+\\
+Heads up! Here we go.\\
+\\
+\\
+Keep your hands and antennas\\
+inside the tram at all times.\\
+\\
+\\
+- Wonder what it'll be like?\\
+- A little scary.\\
+\\
+\\
+Welcome to Honex,\\
+a division of Honesco\\
+\\
+\\
+and a part of the Hexagon Group.\\
+\\
+\\
+This is it!\\
+\\
+\\
+Wow.\\
+\\
+\\
+Wow.\\
+\\
+\\
+We know that you, as a bee,\\
+have worked your whole life\\
+\\
+\\
+to get to the point where you\\
+can work for your whole life.\\
+\\
+\\
+Honey begins when our valiant Pollen\\
+Jocks bring the nectar to the hive.\\
+\\
+\\
+Our top-secret formula\\
+\\
+\\
+is automatically color-corrected,\\
+scent-adjusted and bubble-contoured\\
+\\
+\\
+into this soothing sweet syrup\\
+\\
+\\
+with its distinctive\\
+golden glow you know as...\\
+\\
+\\
+Honey!\\
+\\
+\\
+- That girl was hot.\\
+- She's my cousin!\\
+\\
+\\
+- She is?\\
+- Yes, we're all cousins.\\
+\\
+\\
+- Right. You're right.\\
+- At Honex, we constantly strive\\
+\\
+\\
+to improve every aspect\\
+of bee existence.\\
+\\
+\\
+These bees are stress-testing\\
+a new helmet technology.\\
+\\
+\\
+- What do you think he makes?\\
+- Not enough.\\
+\\
+\\
+Here we have our latest advancement,\\
+the Krelman.\\
+\\
+\\
+- What does that do?\\
+- Oatches that little strand of honey\\
+\\
+\\
+that hangs after you pour it.\\
+Saves us millions.\\
+\\
+\\
+Oan anyone work on the Krelman?\\
+\\
+\\
+Of course. Most bee jobs are\\
+small ones. But bees know\\
+\\
+- Hi, bee.\\
+- He's back here!
+
+<<Comments_form>>
+**** Comment about this article, ask questions, or add new information
+about this topic:
+     :PROPERTIES:
+     :CUSTOM_ID: comment-about-this-article-ask-questions-or-add-new-information-about-this-topic
+     :END:
+
+<<Comments_gname>>
+Name:
+
+<<Comments_gmail>>
+E-mail:
+
+Show my email publicly
+
+<<Comments_gcaptcha>>
+Type the code shown:
+
+[[/mtc.class.php?Comments%5Bdo%5D=captcha&Comments%5Bcaptcha%5D=%266%2C%28]]
+
+<<Comments_gtext>>
+Public Comment: (50-4000 characters)
+
+Send comment
+
+*** Other articles you might like:
+    :PROPERTIES:
+    :CUSTOM_ID: other-articles-you-might-like
+    :END:
+
+*** Follow City-Data.com Founder\\
+on our
+[[http://www.city-data.com/forum/search.php?do=finduser&u=2173187][Forum]]
+or [[https://twitter.com/LechMazur/][Twitter]]
+    :PROPERTIES:
+    :CUSTOM_ID: follow-city-data.com-founder-on-our-forum-or-twitter
+    :style: color:white;margin-top:2em;margin-left:2em;
+    :END:
+
+[[https://twitter.com/LechMazur?ref_src=twsrc%5Etfw][Tweets by
+LechMazur]]
+
+\\
+
+[[/forum/][Paper forum]]
+
+<<interlink_nav>>
+[[file:Paddle.html][ Paddle]] [[file:Pasta.html][Pasta ]]
+
+<<bottom>>
+
+© 2019 Advameg, Inc.
+
+

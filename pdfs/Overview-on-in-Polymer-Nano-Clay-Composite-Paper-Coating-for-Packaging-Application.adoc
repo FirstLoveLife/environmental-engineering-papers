@@ -1,0 +1,876 @@
+[#1]#Page 1#
+
+Overview on in Polymer-Nano Clay Composite Paper Coating for +
+Packaging Application +
+Gaikwad KK* and Seonghyuk Ko +
+Department of Packaging, Yonsei University, Wonju, 220-710, South
+Korea +
+
+Abstract +
+
+This is a review of the existing studies on the Polymer/ clay nano
+composite used for improving water and moisture +
+barrier in coating. Clays have been and continue to be one of the more
+important industrial minerals. Research and +
+development activities by clay scientists in academia, government, and
+industry are continually resulting in new and +
+innovative clay products many of these new applications are the result
+of improved processing which provides clays +
+of higher purity, more precise particle size and distribution, whiter
+and brighter color, modified surface chemistry, and +
+other physical and chemical modifications. Some new and improved clay
+products include tailored or engineered +
+paper coating kaolins, nanocomposites for plastics etc. The use of
+mineral pigments in coating to provide improved +
+barrier properties has recently gaining increased attention. I described
+the use of Polymer nano clay for improving the +
+barrier properties of the coated paper studied by several researchers. +
+
+Keywords: Paper coating; Polymer/clay nanocomposite; Moisture +
+barriers +
+
+Introduction +
+
+The paper packaging industry is one of the growing industries +
+due to an increasing demand for packaging products in the market. +
+In addition, market competition often forces companies, especially +
+in market of consumer products, to enhance the packaging in order +
+to improve the image of their products and by this attract more +
+consumers to buy them. Paper coating, which is one way to enhance +
+the packaging, is a process where a coating film is applied onto paper +
+to impart certain qualities to the paper, including weight, surface
+gloss, +
+smoothness and protection. The coating materials widely used are thin +
+laminated-plastic films or liquid polymeric coat. Without coatings, +
+paper does not have the strength, gloss, printability or resistance to +
+grease and moisture that is required in most of these growth areas
+[1]. +
+The term “clay” refers to a naturally occurring material composed +
+primarily of fine-grained minerals, which is generally appropriate +
+water contents and will harden with dried or fired. Although clay +
+usually contains phyllosilicates, it may contain other materials that +
+impart plasticity and harden when dried or fired [2]. Associated
+phases +
+in clay may include materials that do not impart plasticity and
+organic +
+matter. Clays have been and continue to be one of the more important +
+industrial minerals. Clays and clay minerals are widely utilized in +
+many facets of our society. They are important in geology,
+agriculture, +
+construction, engineering, process industries, and environmental +
+applications. Traditional applications are many. Some of the more +
+important include ceramics, paper, paint, plastics, drilling fluids, +
+foundry bondants, chemical carriers, liquid barriers, decolorization, +
+and catalysis Kaolin is one of the most widely used pigments in paper +
+industry and exploited in a large range of coating applications [3].
+Fine +
+secondary kaolin’s are used for good gloss because of their smaller +
+particle size. In general, platy kaolin particles carry out good
+coating +
+opacity and printability [4,5] Kaolin has a layered structure, which
+is +
+composed so that (0 0 1) crystal plane is parallel to the surface of
+kaolin +
+particle (Table 1). +
+Nanocomposite Properties +
+
+Polymer composites are mixtures of polymers with inorganic or +
+organic additives having certain geometries (fibers, flakes, spheres, +
+
+particulates). The use of nanoscale fillers is leading to the
+development +
+of polymer nanocomposites and represents a radical alternative to +
+these conventional polymer composites [6-8]. This new generation +
+of composites exhibits significant +
+in modulus, +
+dimensional stability and solvent or gas resistance with respect to
+the +
+pristine polymer. Nanocomposites also offer extra benefits like low +
+density, good flow, better surface properties and recyclability. It is +
+worth recalling that all these improvements are obtained at very low +
+filler contents (generally lower than 5%) [6]. +
+
+improvements +
+
+The enhancement of many properties resides in the fundamental +
+length scales dominating the morphology and properties of these +
+
+Kaolin +
+l:llayer +
+White or near white +
+
+Little substitution +
+
+Minimal layer charge +
+
+Smectite +
+2:llayer +
+Tan, olive green, gray. +
+or white +
+Octahedral and +
+tetrahedral substitutions +
+High layer charge +
+
+Palygorskite +
+2:1 layer invetted +
+Light tan or gray +
+
+Octahedral substitution +
+
+Moderate layer charge +
+
+High base exchange +
+capacity +
+
+Low base exchange +
+capacity +
+Pseudo-hexagonal flakes Thin flakes and laths +
+Low surface area +
+Vety low absorption +
+capacity +
+Low viscosity +
+Table 1: Some important properties of clay minerals that relate to
+their +
+applications. +
+
+Moderate base exchange +
+capacity +
+Elongate +
+High surface area +
+
+Vety high smface area +
+High absotption capacity High absotptiou capacity +
+
+Vety high viscosity +
+
+High viscosity +
+
+*Corresponding author: Gaikwad KK, Department of Packaging, Yonsei +
+University, Wonju, 220-710, South Korea, Tel: 82 1599-1885; E-mail: +
+gaikwadk@yonsei.ac.kr +
+Received November 25, 2014; Accepted January 23, 2015; Published
+January +
+31, 2015 +
+Citation: Gaikwad KK, Ko S (2015) Overview on in Polymer-Nano Clay +
+Composite Paper Coating for Packaging Application. J Material Sci Eng 4:
+151. +
+doi:10.4172/2169-0022.1000151 +
+Copyright: © 2015 Gaikwad KK, et al. This is an open-access article
+distributed +
+under the terms of the Creative Commons Attribution License, which
+permits +
+unrestricted use, distribution, and reproduction in any medium, provided
+the +
+original author and source are credited. +
+
+Research ArticleOpen AccessGaikwad and Ko, J Material Sci Eng 2015,
+4:1http://dx.doi.org/10.4172/2169-0022.1000151 Review ArticleOpen
+AccessMaterial Science & Engineering
+
+Volume 4 • Issue 1 • 1000151J Material Sci EngISSN: 2169-0022 JME, an
+open access journal
+
+[#2]#Page 2#
+
+Citation: Gaikwad KK, Ko S (2015) Overview on in Polymer-Nano Clay
+Composite Paper Coating for Packaging Application. J Material Sci Eng
+4: +
+
+151. doi:10.4172/2169-0022.1000151 +
+
+materials. The inorganic particles have at least one dimension in the +
+nanometer (from 1 to 100 nm) range. It means that a uniform dispersion +
+of these particles can lead to ultra-large interfacial area between
+the +
+constituents. The very large organic/inorganic interface alters the +
+molecular mobility, the relaxation behavior and the consequent +
+thermal and mechanical properties of the resulting nanocomposite +
+material. +
+
+Various inorganic nano-particles have been recognized as possible +
+additives to enhance the polymer performance. Some examples of these +
+particles are represented by the solid layered, the synthetic polymer +
+nano-fibers, the cellulose nano-whiskers and the carbon nanotube. +
+Among these, up to now only the layered inorganic solids like clay
+have +
+attracted some attention by the packaging industry. This is not only +
+due to their availability and low cost but also due to their
+significant +
+enhancements and relative simple process ability. The first successful +
+example of a polymer–clay hybrid, developed at Toyota Central +
+Research Laboratories in 1986 was a nylon–clay hybrid (Figure 1) [9]. +
+Packaging Application +
+
+Paper and paperboard are coated in order to improve their optical +
+properties and printability. Paper coating formulations generally +
+consist of inorganic pigments such as kaolin and calcium carbonate, +
+binder, soluble co-binders, dispersants, water as carrier and other +
+additives. Pigment is the abundant component in the coating and is +
+naturally the most important factor affecting the properties of the +
+coating materials [10]. The use of mineral pigments in dispersion +
+coating to provide improved barrier properties has recently gaining +
+increased attention [11-16]. Important physical or chemical properties +
+of the pigments which affect the water vapor permeability are their +
+aspect ratio, particle size distribution and hydrophilic/hydrophobic +
+character found that a narrow particle size distribution and a large +
+aspect ratio both had a positive effect on the barrier properties of
+talc- +
+filled dispersion-coated paper substrates [11-13]. Talc pigments in
+the +
+polymer coatings were also shown by to give slightly lower water vapor +
+transmission rates (WVTR) than kaolin clays [17,18]. +
+Improving Water and Moisture Barrier in Coating +
+
+Polymer–clay nanocomposites, with +
+
+fully-exfoliated platelet +
+structure of nanoclay dispersed within a polymer matrix, provide +
+excellent mechanical and barrier performances due to the high surface- +
+to-volume ratio of the nanofiller and the increased tortuosity of the +
+diffusion path against the permeant [19-23]. The modification of the +
+clay by intercalating cationic surfactants into its interlayer space
+allows +
+the entry of hydrophobic monomer or polymer into the organophilic +
+
+Solid Layered +
+
+Polymer +
+
+In Situ Polymerization +
+
+Template Method +
+
+Solvent Mixing +
+
+Melt Mixing +
+
+Solid State Mixing +
+
+Preparation Methods +
+
+Nanocomposite +
+
+Figure 1: Preparation methods of polymer nanocomposites. +
+
+Page 2 of 5 +
+
+intergalleries. The in situ polymerization of monomer within the clay +
+interspacing causes the expansion and exfoliation of the nanoclay +
+platelets [24,25]. Although many polymer–nanoclay composites have +
+been developed, it is generally accepted that a strong mechanical +
+force, such as delamination and extrusion, is needed to help polymer +
+molecules penetrating into the nanoclay basal interspacing. +
+
+Barrier coating is one of the most important properties for paper +
+packaging containers. The conventional barrier boards for water vapor, +
+grease and oxygen-proofing applications have been developed based +
+on the extrusion products of a range of polymers, such as polyethylene +
+(PE), poly (ethyl terephthalate) (PET), or natural wax as well
+Recently, +
+aqueous-based polymers have come into use in many on-machine or +
+off-machine coatings, due to their environmentally friendly process +
+and easy to use, in comparison with the conventional extruding +
+machine coating processes. There are some challenges in improving +
+barrier coating efficiency using water-based nanoclay composite +
+suspensions. For example, the nanoclay particles must be colloidally +
+stable in the suspension and the clay particles must be exfoliated in +
+the final polymer matrix. The former requires a high hydrophilic +
+surface of the clay so the clay can be well dispersed in water phase
+but +
+the latter requires a high hydrophobicity so the polymer can diffuse +
+into the intergalleries between clay plates. Furthermore, the nanoclay +
+particles must possess strong affinity to polymer to avoid interior +
+defects formation in hindering the diffusion of permeants through +
+the coating layer. In conventional polymer composites, the micron- +
+sized fillers, for example, kaolin with particle size up to a few
+microns, +
+are immiscible with polymer matrix, leading to a coarsely blended +
+composite with chemically distinct phases. The poor compatibility +
+causes a poor physical attraction between the organic and inorganic +
+components, resulting in agglomeration, and therefore, weaker +
+mechanical properties, and thus low barrier resistance at the same +
+process conditions [26]. +
+Moisture barrier coatings containing clay +
+
+Moisture barriers are frequently applied to paper wrappers or +
+paperboard to protect food products and to corrugated paperboard in +
+order to withstand high humidity storage conditions. In the latter
+case, +
+it is important to prolong the lifetime of the packaging box by
+resisting +
+creep failure. Barriers can be applied to a substrate such as
+paperboard +
+by extrusion coating, lamination or dispersion coating techniques. The +
+latter has recently gained much interest as a low cost alternative
+with +
+many benefits [27-33]. Moisture barrier dispersion coatings have a +
+competitive advantage over wax based coatings, laminates or extruded +
+products in recyclability and higher application speeds as well as +
+fewer processing steps. Barrier dispersion coatings being more readily +
+compostable and repulpable are far more environmentally friendly +
+than extrusion coatings or laminated boards where recovery of the +
+fibres and disposal of polymer film and/or wax represent a significant +
+cost impost. In some food applications, the use of coatings that are
+free +
+of fluorine containing compounds is also of interest. The two most +
+attractive reasons for using barrier dispersion coatings are lower
+cost +
+and the ability to use conventional coating techniques. The barrier +
+dispersion coatings studied by C. Kugge based on styrene–butadiene +
+latex and clay, with latex solid ratios of less than one; the coatings
+are +
+transparent and clay acts as filler in a polymeric matrix. This
+situation +
+compares with conventional paper coatings where the pigment to latex +
+ratio is greater than one and the latex functions as a binder. +
+
+Volume 4 • Issue 1 • 1000151J Material Sci EngISSN: 2169-0022 JME, an
+open access journal
+
+[#3]#Page 3#
+
+Citation: Gaikwad KK, Ko S (2015) Overview on in Polymer-Nano Clay
+Composite Paper Coating for Packaging Application. J Material Sci Eng
+4: +
+
+151. doi:10.4172/2169-0022.1000151 +
+
+Clay and Polymer Matrix Varieties on the Barrier +
+Properties +
+
+The mechanism to increase the barrier properties of materials +
+from nanoclay is based on the increase in the tortuous length of the +
+diffusion path through a polymer matrix. Because nanoclay has much +
+greater specific surface area than micron-sized clay particles, higher +
+barrier resistance will be expected for nanoclay-polymer composite +
+than micron-clay-polymer complex. This also suggests that the barrier +
+properties of the polymer/claynanocomposite will strongly depend on +
+the degree of the dispersion of the nanoclay in thepolymer matrix, or +
+obviously on the exfoliation degree of nano-clay layers. Therefore,
+the +
+change of the barrier properties of the composite reflects indirectly
+the +
+dispersion state of the nanoclay in polymer matrix, if other
+conditions +
+are maintained the same. +
+Filler Reinforcement +
+
+Fillers can be added to a barrier polymer to reduce the price of the +
+coating, to enhance the opacity or for mechanical reinforcement. The +
+addition of fillers to polymer matrices can either increase or
+decrease +
+the permeability, depending on the compatibility and adhesive +
+properties between the polymer and the filler and also on their
+relative +
+concentrations. Dispersion polymers are readily compatible with +
+conventional coating pigments such as clay. The barrier properties are +
+improved by increasing the diffusion path length of the permeating +
+species (Figure 2). +
+
+The critical pigment volume concentration CPVC is an important +
+factor concerning filler addition. The CPVC concept refers to the +
+point where the binder concentration is just large enough to fill in +
+the interstitial voids between pigment particles for conventional +
+paper coating, the addition of fillers is usually done at
+concentrations +
+considerably higher than the CPVC. In barrier dispersions, on the
+other +
+hand, pigments are added at a concentration well below the CPVC. +
+The reason is that an increased number of filler particles will lead to
+an +
+increase in voids, thus leading to an increase in permeability a
+higher +
+binder concentration gives a more flexible coating, and the optimum +
+pigment volume concentration becomes a compromise between +
+barrier properties and flexibility. The CPVC of dispersions is
+affected +
+by the immobilization volumes (i.e. the packing volume of the wet +
+coating, which is dependent on particle shape, size, size distribution
+of +
+pigment and binders, colloidal, chemical and rheological properties), +
+the consolidation power of the binders, the type of substrate and +
+the drying conditions. The most important factors concerning filler +
+addition to barrier dispersions are the adhesion of the binder to the +
+pigment particles, the particle shape and the chemical nature of the +
+pigments. The CPVC value of a polymer/pigment system depends on +
+
+Permeating molecule +
+
+Pinhloe +
+
+Polymer matrix +
+
+Platy (nano)ﬁller +
+
+Coating +
+
+Substrate +
+
+Figure 2: Mechanism of barrier improvement by fillers or
+nanocomposites. +
+
+Page 3 of 5 +
+
+CPVC +
+
+Polymer +
+
+ +
+
+Filler +
+
+Void +
+
+ +
+
+Figure 3: Critical pigment volume concentration (CPCV). +
+
+the latex particle size and its size distribution [34]. Increased
+particle size +
+decreases the CPVC as does an increased value of the glass transition +
+temperature. In contrast, in dispersions where strong deformation of +
+the latex particles occurs, a higher CPVC is obtained due to the more +
+dense packing of polymer (Figure 3). +
+Nanoparticulate Materials +
+
+Montmorillonite is a naturally abundant clay material with a +
+layered aluminosilicate structure that is often used in nanocomposite +
+technology due to its high surface area and large aspect ratio.
+Dispersion +
+of layered silicates in a polymer matrix can result in a number of +
+different states, leading to micro composites, intercalated or
+exfoliated +
+nanocomposites. It is believed that complete and homogeneous +
+dispersion in which the clay platelets are arranged in a non-parallel +
+manner (exfoliation) will give the highest performance improvements +
+in coatings. The aluminosilicates can be dispersed into individual
+layers +
+only 10 Å thick. The distance between the platelets, the basal
+spacing, +
+is defined as the distance from a certain plane in one layer to the +
+corresponding plane in a parallel layer. Montmorillonite is
+hydrophilic +
+but can be made organophilic by exchanging the naturally occurring +
+Na+ ions in the galleries of the clay with organic cations, e.g. alkyl +
+ammonium surfactants, making them more compatible with organic +
+polymers. The relationship between surface diameter and thickness +
+of the nanoclay particles is defined as the aspect ratio. Typically, +
+commercial nanoclays have aspect ratios between 50 and 1000, which is +
+much larger than for typical clay pigments (10–30) used in paperboard +
+coating. The large aspect ratio of nanoclays makes them effective for +
+barrier improvement even at very low (≤5% by weight) concentrations +
+[35-37]. Higher weight additions may be difficult from a processing +
+perspective, because the viscosity of the dispersions +
+increases +
+significantly at increased loads of clay. The use of nanoparticles in +
+paper and board coating is thus advantageous, particularly given that +
+less material is required (thinner coating layers) to reach the
+desired +
+barrier or mechanical properties. Less material use leads to reduced +
+costs and reduced amounts of waste [38]. Southern Clay Products and +
+Nanocor are among the biggest suppliers of montmorillonite clays for +
+nanocomposite applications. The addition of a nano filler is made to +
+reinforce the polymer, i.e. to increase the strength and toughness of
+the +
+material [39]. Other issues are to enhance the optical, thermal or
+barrier +
+properties. The mechanism of barrier improvement relies on increasing +
+the path length that the molecules have to traverse while diffusing +
+through the film, i.e. forcing them to take a tortuous path, which
+leads +
+to significantly prolonged transmission rates The barrier properties
+of +
+a nanocomposite material depend on the relative orientation of the +
+silicate layers and on the state of aggregation and dispersion. The
+plate- +
+like structure of clay increases the path for diffusing molecules,
+thus +
+decreasing the permeability of molecules through the material [40]. +
+Porous nanoparticles into which the diffusing molecules can penetrate +
+
+Volume 4 • Issue 1 • 1000151J Material Sci EngISSN: 2169-0022 JME, an
+open access journal
+
+[#4]#Page 4#
+
+Citation: Gaikwad KK, Ko S (2015) Overview on in Polymer-Nano Clay
+Composite Paper Coating for Packaging Application. J Material Sci Eng
+4: +
+
+151. doi:10.4172/2169-0022.1000151 +
+
+are also efficient in this respect [41]. Improvement of barrier
+properties +
+by up to four orders of magnitude upon incorporation of nanoclays +
+in a polymer coating has been reported. The lack of a completely +
+exfoliated structure has been used to explain why an efficient
+reduction +
+in WVTR could not be observed when montmorillonite clays were +
+dispersed in a barrier latex [42]. The incorporated clay particles can +
+inhibit crystallization of the polymer matrix by restricted chain +
+mobility through the association with the clay plates. This has led +
+to an increase in the tensile strength of starch/polyester blends with +
+increased montmorillonite content. Fischer et al. reported the blend +
+of a thermoplastic starch with clay particles using a modifier (e.g. +
+cat ionized starch) which is compatible with both the clay and the +
+matrix. The results observed were a homogeneous incorporation of +
+clay particles in the starch matrix, followed by an easier processing +
+and a strong decrease in hydrophobicity. The stiffness, strength and +
+toughness of the film could also be changed by changing the water +
+content. Homogeneous dispersion of nanoparticles in nematic crystal +
+matrices of liquid crystalline polymers has also been observed [40]. +
+Nanoclays have been demonstrated to reduce both the water vapor and +
+the OP of PLA and PLA–PCL films. The use of nanosized materials in +
+food packaging should be approached so as to minimize the potential +
+risks with inhalation or ingestion of small particles that can have +
+unhealthy effects on the human body [41]. However, overall migration +
+tests and analysis of specific metals (Fe, Mg and Si) have shown no +
+change in the quantity of these species in food that has been in
+contact +
+with a potato starch/clay nanocomposite film (Figure 4). +
+Characterization and Test Methods +
+
+The coated specimens should condition for 24 h at 23°C and 50% +
+relative humidity before any measurements, this is as per ISO
+standards. +
+Scanning electron micrographs (SEM) SEM of the surfaces of the +
+
+samples is obtain with a Digital Scanning Electron Microscope. +
+
+X-ray diffraction (XRD) is employ to estimate the degree of +
+orientation of the clay particles in the polymer film. The
+measurements +
+should perform in the cross-direction of the coating. +
+
+Electron spectroscopy for chemical analysis (ESCA) is use to +
+assess the chemical composition of the surface of the coatings on
+paper. +
+Water vapor transmission rate, WVTR, is measure using +
+gravimetric cups according to TAPPI method T 448 om-97. Silica gel, +
+35 ± 0.1 g in each cup, as the desiccant WVTR g/ (m2 day−1) is
+calculate +
+
+Microcomposite +
+
+Intercalated nanocomposite +
+
+Polymer +
+
+Layered silicate +
+
+Exfoliated nanocomposite +
+
+Figure 4: Dispersion of nanoclayina polymer matrix. +
+
+Page 4 of 5 +
+
+by dividing the slope of total weight and number of days by the sample +
+area. All samples need conditioning as per ISO conditions for at least +
+24 H prior to measurements. +
+
+OTR: Oxygen transmission measurements is perform with Oxygen +
+Permation Analyser The tests were carried out at 23°C and 0, 50, and +
+80% relative humidity as per ISO standards +
+
+Water contact angle: Water contact angles of the coated surface is +
+measure in test conditions of 23°C and 50% relative humidity. Contact +
+angle values is measure as a function of time. +
+
+Cobb test: This is important test to determine the water resistant +
+
+properties of paper. This test can be done by Cobb tester. +
+Conclusions +
+
+Polymer-nano clay is good choice in the development of new +
+functionality of paper by coating. While there is still further
+research +
+needed to reach the requirements set on all types of functional +
+properties as well as on material availability, process ability,
+suitability +
+for product contact, etc., the remaining hindrance to be overcome is, +
+in most cases, the cost. Although the price for materials and
+processing +
+will increase with increased modification of polymers and clay. +
+Reduction of the final price for each package should be achievable by +
+increased volume of production. However, there exists no universal +
+barrier chemical that covers all potential applications and still fulfil
+is +
+all possible requirements. Future functional surface treatment of
+Paper +
+will most likely involve multilayer coatings where each single layer +
+makes its own specific, property-based contribution with its specific +
+properties to the overall performance of the coated products.
+Replacing +
+one or more barrier layers consisting of plastic film in demanding +
+packaging especially with bio-based polymers. +
+References +
+1. Cynthia C (2011) Paper coatings opportunities abound. C&I Magazine. +
+
+2. Guggenheim S, Martin RT (1995) Definition of clay and clay mineral:
+Joint +
+Report of the AIPEA nomenclature and CMS nomenclature committee’s.
+Clay +
+minerals 43: 255-256. +
+
+3. Priolo MA (2013) Precisely Tuning the Clay Spacing in Nanobrick Wall
+Gas +
+
+Barrier Thin Films. Chem. Mater 25: 1649-1655. +
+
+4. Lehtinen E (2000) Pigment Coating and Surface Sizing of Paper. (1st
+ed) Fapet +
+
+Oy, Helsinki. +
+
+5. Hagemayer R (1997) Pigments for Paper. Tappi Press, Atlanta. +
+
+6. Alexandre M, Dubois P (2000) Polymer-layered silicate
+nanocomposites: +
+Preparation, properties and uses of a new class of materials. Mater.
+Sci. Eng +
+28: 1-63. +
+
+7. Giannelis EP (2003) Polymer layered silicate nanocomposites.
+Advanced +
+
+Material 8: 1539-1641. +
+
+8. Sinha Ray S, Okamoto M (2003) Polymer/layered silicate
+nanocomposites: A +
+review from preparation to processing. Progress in Polymer Science 28:
+1539- +
+1641. +
+
+9. Kawasumi M (2004) The discovery of polymer-clay hybrids. Journal of
+Polymer +
+
+Science Part A: Polymer Chemistry 42: 819- 824 +
+
+10. Gullichsen J (2000) Pigment coating and surface sizing of paper.
+Paper Making +
+
+Science and Technology, Fapet/Tappi Series. +
+
+11. Rissa K (2000) Coating and paper structure Orientation of talc
+particles in +
+
+dispersion coatings. Nord. Pulp Pap. Res. J 15: 357 +
+
+12. Rissa K, Vaha-Nissi M, Lepisto T, Savolainen A (2002) Top layer
+coatability on +
+
+barrier coatings. Paperi Puu 84 :467. +
+
+13. Andersson C, Ernstsson M, Jarnstrom L (2002) Barrier properties and
+heat +
+sealability/failure mechanisms of dispersion-coated paperboard
+.Packag. +
+Technol. Sci 15: 209-224. +
+
+Volume 4 • Issue 1 • 1000151J Material Sci EngISSN: 2169-0022 JME, an
+open access journal
+
+[#5]#Page 5#
+
+Citation: Gaikwad KK, Ko S (2015) Overview on in Polymer-Nano Clay
+Composite Paper Coating for Packaging Application. J Material Sci Eng
+4: +
+
+151. doi:10.4172/2169-0022.1000151 +
+
+Page 5 of 5 +
+
+14. Vaha-Nissi M, Savolainen A (1999) Top layer coatability on barrier
+coatings. +
+
+Proceedings of the TAPPI Coating Conference, Toronto Ont., Canada. +
+
+chloride statacrylonitrile) core/shell emulsion polymers for use as gas
+barrier +
+coatings. Eur Polym J 29: 337-342. +
+
+15. Vaha-Nissi M (2000) Top layer coatability on barrier coatings.
+Proceedings of +
+
+the TAPPI Coating Conference, Washington, DC, USA. +
+
+29. Li B (2003) Preparation of polystyrene poly (vinyl alcohol)
+double-shell. Proc of +
+
+SPIE-The Int Soc Optical Eng 5228: 723-7. +
+
+16. Santamaki K, Kimpimaki T (1998) Top layer coatability on barrier
+coatings. +
+Proceedings of the EUCEPA Symposium Chemistry in Papermaking,
+Florence, +
+Italy. +
+
+17. Kimpimaki T, Vaha-Nissi M, Savolainen A (1999) Top layer coatability
+on +
+barrier coatings. Proceedings of the TAPPI Coating Conference,
+Philadelphia, +
+PA, USA. +
+
+18. Vaha-Nissi M (1998) Paper Converting Institute, Tampere University
+of +
+
+Technology, Tampere, Finland. +
+
+19. Tong Z, Deng Y (2006) Synthesis of water-based
+polystyrene-nanoclay +
+composite suspension via miniemulsion polymerization. Ind Eng Chem Res +
+4: 2641-2645. +
+
+20. Brody AL (2003) Food Technol 12: 52-64. +
+
+21. Lopez GA (2000) Introduction to layered silicate nanocomposites. In:
+From +
+the 2000 conference proceedings of TAPPI–polym lamin and coatings conf +
+3:1063-1067. +
+
+22. Anon (2005) Barrier to success. Brand 4: 42-48. +
+
+23. Yeh JM (2004) Comparative studies of the properties of poly
+(methyl +
+methacrylate) clay nanocomposite materials prepared by in situ
+emulsion +
+polymerization and solution dispersion. J Appl Polym Sci 94: 1936-1946 +
+
+24. Jog JP, Priya L (2002) Poly(vinylidene fluoride)/clay nanocomposites
+prepared +
+by melt intercalation: Crystallization and dynamic mechanical behavior
+studies. +
+J Polym Sci Part B Polym Phys 40: 1682-1689. +
+
+25. Ishida H (2000) General approach to nano composite Preparation. Chem
+Mater +
+
+12:1260-1267. +
+
+26. Qunhui S (2007) Water-based polymer/clay nanocomposite suspension
+for +
+improving water and moisture barrier in coating. Composites Science
+and +
+Technology 67: 1823-1829 +
+
+30. Arai K (2000) Recent trends in latex technology for paper coating.
+Jpn J Paper +
+
+Technol 43: 23-30. +
+
+31. Ryan NM (2004) The use of aqueous-based emulsion polymers as
+moisture +
+
+barrier coatings for carton boards. Dev Chem Eng Miner Proc
+12:141-148. +
+
+32. Deng Y (2005) Water-based nanostructured composite for paper
+barrier +
+
+coating. AICHE annual meeting and fall showcase, conference
+proceedings. +
+
+33. Linssen T (2003) Physicochemical and structura characterization of
+mesoporous +
+aluminosilicates synthesized from leached saponite with additional
+aluminum +
+incorporation. Chem Mater 15: 4863-4873. +
+
+34. Silvestre C (2011) Food packaging based on polymer nanomaterials.
+Progress +
+
+in Polymer Science 36: 1766-1782. +
+
+35. Olabarrieta I (2005) Strategies to Improve the Aging, Barrier and
+Mechanical +
+Properties of Chitosan, Whey and Wheat Gluten Protein Films. Royal
+Institute +
+of Technology: Stockholm, Sweden. +
+
+36. Schuman T, Karlsson A, Larsson J, Wikstrom M, Rigdahl M (2005). +
+Characteristics of pigment-filled polymer coatings on paperboard. Progr.
+Org. +
+Coat.54: 360-371. +
+
+37. Alexandre M, Dubois P (2013) State estimation in large scale open
+channel +
+networks using sequential Monte Carlo methods: optimal sampling
+importance +
+resampling and implicit particle filters. Water Resources Research
+Journal +
+49:3194-3214. +
+
+38. Garland A (2000) Nanotechnology in Paper and Board Packaging. Pira +
+
+International Ltd, Leatherhead, UK. +
+
+39. Carrado KA (2000) Synthetic oregano- and polymer-clays:
+preparation, +
+
+characterization, and materials applications. Appl. Clay Sci 17: 1-23. +
+
+40. LeBaron PC, Wang Z, Pinnavaia TJ (1999) Polymer layered silicate +
+
+nanocomposites: An overview. Appl. Clay Sci 15: 11-29. +
+
+27. Zimmerman DA (2001) Flexible packaging-an overview. In: Conference +
+
+proceedings of 2001 TAPPI–polym. Laminations and coatings Conf. +
+
+41. Ramsden J (2004) Nanotechnology in Coatings, Inks and Adhesives.
+Pira +
+
+International Ltd.: Leatherhead, UK. +
+
+28. Brown RA (1993) The permeability of poly(butyl
+acrylate)/poly(vinylidene +
+
+42. Schuman T, Karlsson A, Larsson J, Wikstrom M, Rigdahl M (2005) +
+Characteristics of pigment filled polymer coatings on paperboard. Progr.
+Org. +
+Coat 54: 360-371. +
+
+Submit your next manuscript and get advantages of OMICS +
+Group submissions +
+Unique features: +
+
+User friendly/feasible website-translation of your paper to 50 world’s
+leading languages +
+Audio Version of published paper +
+Digital articles to share and explore +
+
+• +
+• +
+• +
+Special features: +
+
+Citation: Gaikwad KK, Ko S (2015) Overview on in Polymer-Nano Clay +
+Composite Paper Coating for Packaging Application. J Material Sci Eng 4:
+151. +
+doi:10.4172/2169-0022.1000151 +
+
+400 Open Access Journals +
+30,000 editorial team +
+21 days rapid review process +
+
+• +
+• +
+• +
+• Quality and quick editorial, review and publication processing +
+• +
+• +
+• +
+• +
+Submit your manuscript at:
+http://www.omicsgroup.org/journals/submission +
+
+Indexing at PubMed (partial), Scopus, EBSCO, Index Copernicus and Google
+Scholar etc +
+Sharing Option: Social Networking Enabled +
+Authors, Reviewers and Editors rewarded with online Scientific Credits +
+Better discount for your subsequent articles +
+
+Volume 4 • Issue 1 • 1000151J Material Sci EngISSN: 2169-0022 JME, an
+open access journal
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5]

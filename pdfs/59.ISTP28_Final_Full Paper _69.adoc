@@ -1,0 +1,1373 @@
+[#1]#Page 1#
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+CEMENT TYPES, COMPOSITION, USES, ENVIRONMENTAL IMPACT AND POSSIBLE +
+
+SOLUTIONS +
+
+S.P. DUNUWEERA1 and R.M.G. RAJAPAKSE1* +
+
+1Department of Chemistry, Faculty of Science, University of Peradeniya,
+Peradeniya 20400, Sri Lanka +
+
+ +
+
+ +
+
+types of cement products, +
+
+ +
+ABSTRACT +
+ +
+In this review, we first discuss cement production, +
+special nomenclature used by cement industrialists in +
+expressing the composition of their cement products. We +
+review different +
+their +
+compositions, properties and their typical uses. Where +
+ever possible, we tend to give reasons as to why a +
+particular cement type is more suitable for a given purpose +
+than other types. Cement manufacturing processes are +
+associated with emissions of large quantities of green- +
+house gases and environmental pollutants. We give below +
+quantitative and qualitative analyses of environmental +
+impact of cement manufacturing. Controlling pollution is +
+a mandatory legal and social requirement pertinent to any +
+industry and cement industry being one of the biggest CO2 +
+emitter different ways and means of CO2 capture is then +
+discussed. Finally, we give an account of production of +
+nanocement and advantages associated with nanocement. +
+Nanofillers such as nano-titania, nano-silica and nano- +
+alumina can be produced in large industrial scale via top- +
+down approach of reducing size of naturally available +
+bulk raw materials to those in the nano-range of 1 nm-100 +
+nm. We mention the preparation of nano-titania and nano- +
+silica from our mineral sands and quartz deposits, +
+respectively, for use as additives in cement products to +
+improve performance, reduce the amount and cost of +
+cement production and consequent environmental impacts. +
+As of now, mineral sands and other treasures of minerals +
+are exported without much value-addition. Simple +
+chemical modifications or physical treatments would add +
+enormous value to these natural materials. Sri Lanka is +
+gifted with highly pure quartz and graphite from which +
+silica and graphite nanoparticles can be prepared by +
+simple size-reduction processes. These can be used as +
+additives in cements. Separation of constituents of mineral +
+sands is already an on-going process and attempts should +
+be made not only to separate constituents but also to +
+convert them to their nanoparticles to harness added +
+benefits of nanomatetials and also to escalate values of +
+materials. +
+Keywords: Cement, nomenclature, properties and uses of +
+cement types, environmental impact of cement industry, +
+carbon dioxide capture, nanocement, nano-additives for +
+cement +
+ +
+INTRODUCTION +
+Cement is a powdery substance made with calcined +
+lime and clay. Clay provides silica, alumina and iron +
+oxide. In the cement manufacturing, the raw materials of +
+cement are obtained by blasting of rock quarries by boring +
+the rock and setting off explosives. These fragmented +
+
+rocks are then transported to the plant and stored +
+separately in silos. They are then delivered, separately, +
+through chutes to crushes where they are then crushed or +
+pounded to chunks of ~1/2 inch sized particles. Depending +
+on the type of cement being produced, right proportions of +
+the crushed clay, lime stones and any other required +
+materials are then mixed by the process known as pre- +
+homogenization, milled in a vertical steel mill by grinding +
+the material with the pressure exerted through three +
+conical rollers which roll over turning milling table. +
+Additionally, horizontal mills inside which the material is +
+pulverized by means of steel balls are also used. It is then +
+homogenized again then calcined, at 1400 ̊C, in rotary +
+kilns for the raw material to be transformed to a clinker +
+which is a small, dark grey nodules 3-4 cm in diameter. +
+Clinker is discharged from the lower end of the kiln while +
+it is red-hot, cooled by various steps, ground and mixed +
+with small amounts of gypsum and limestone and very +
+finely ground to produce cement. +
+ +
+In the calcination process, in the kiln, at high +
+temperatures +
+the above oxides react forming more +
+complex compounds. For instance, reaction between +
+CaCO3, Al3(SiO3)2 and Fe2O3 would give a complex +
+mixture of Alite +
+(CaO)2SiO2, +
+tricalcium aluminate Ca3(Al2O3) and Ferrite phase +
+tetracalcium aluminoferrite Ca4Al2O3Fe2O3 with +
+the +
+evolution of CO2 gas in the Portland cement clinker. +
+However, there can be many other minor components also +
+since natural clay also contain Na, K etc. In the chemical +
+analysis of cement its elemental composition is analysed +
+(for example, Ca, Si, Al, Mg, Fe, Na, K, S and so on). +
+Then the composition is calculated in terms of their oxides +
+and is generally expressed as wt.% of oxides. For +
+simplicity, if we assume that the clinker contains the +
+above four main oxides they can be simply represented by +
+Bogue formulae where CaO, Al2O3, Fe2O3 and SiO2 are +
+denoted as C, A, F and S, respectively. In this notation, +
+Alite (tricalcium silicate) [(CaO)3SiO2], Belite (dicalcium +
+(tricalcium aluminate) +
+silicate) +
+and Brownmillerite +
+[Ca3Al2O6 +
+(tetracalcium +
+= +
+4CaO.Al2O3.Fe2O3] are represented by C3S, C2S, C3A and +
+C3AF, +
+the elemental +
+composition of Ca, Al, Fe and Si, usually from X-ray +
+fluorescence spectroscopy, then we express them as wt.% +
+of +
+the +
+experimentally determined clinker composition is CaO = +
+65.6%, SiO2 = 21.5%, Al2O3 = 5.2% and Fe2O3 = 2.8% +
+then Bogue calculations would give C3S = 64.7%, C2S = +
+12.9%, C3A = 9.0% and C4AF = 8.5% (1). However, +
+cement contains water, H2O, sulphate SO3, sodium oxide +
+Na2O, potassium oxide K2O, gypsum CaSO4.2H2O which +
+are denoted as H, S, N, K and CSH2, respectively. Note +
+
+[(CaO)2SiO2], celite +
+3CaO.Al2O3] +
+aluminoferrite) +
+
+respective oxides. For example, +
+
+respectively. +
+
+If we analyse +
+
+their +
+
+if +
+
+(CaO)3SiO2, Belite +
+
+= +
+
+Ca4Al2Fe2O10 +
+
+[#2]#Page 2#
+
+Notat +
+ion +
+C3A +
+
+10 +
+
+8 +
+
+20 +
+
+that Gypsum (calcium sulphate dihydrate) is considered as +
+CaO.SO3.2H2O and hence its notation is CSH2. As such, +
+approximate composition of cement clinker is different to +
+above values and is depicted in Table 1. +
+Table 1: Approximate composition of cement clinker. +
+Adapted +
+(2) +
+http://www.engr.psu.edu/ce/courses/ce584/concrete/librar +
+y/construction/curing/Composition%20of%20cement.htm +
+ +
+Compound +
+
+Formula +
+
+wt.% +
+
+from +
+
+ +
+
+2 +
+
+C3S +
+
+55 +
+
+C2S +
+
+N +
+K +
+
+CSH2 +
+
+C4AF +
+
+Na2O +
+K2O +
+
+Ca3SiO5 +
+[3CaO.SiO2] +
+
+Ca2SiO4 +
+[2CaO.SiO2] +
+
+Ca3Al2O6 +
+[3CaO.Al2O3] +
+
+CaSO4.2H2O +
+[CaO.SO3. 2H2O] +
+
+Ca4Al2Fe2O10 +
+4CaO.Al2O3.Fe2O3] +
+
+celite +
+(tricalcium +
+aluminate) +
+Brownmillerite +
+(tetracalcium +
+aluminoferrite) +
+Belite +
+(dicalcium +
+silicate) +
+Alite +
+(tricalcium +
+silicate) +
+Sodium oxide +
+Potassium +
+oxide +
+Gypsum +
+(calcium +
+suplphate +
+dihydrate) +
+ +
+There are several different types of cements of which +
+Portland cement, Siliceous (ASTM C618 Class F) Fly Ash, +
+Calcareous IASTM C618 Class C) Fly Ash, Slag cement +
+and Silica Fume are major types. They differ from their +
+chemical composition. Table 2 gives the compositions of +
+the above cement types in terms of SiO2, Al2O3, Fe2O3, +
+CaO, MgO, SO3 and the remaining can be other materials +
+such as Na2O, K2O. Note that SO3 stands for oxide of S +
+where S is derived from Gypsum CaSO4.2H2O. Given in +
+Table 2 are also important physical properties such as +
+specific surface area (surface area per unit mass, SSA) and +
+specific gravity (SG) of these different types of cements +
+(2-5). +
+Table 2: Composition of components as wt% used to +
+make different types of cements (SSA = Specific Surface +
+Area and SG = Specific Gravity. Adapted from (6), (7) +
+and (8). +
+
+5 +
+
+ +
+
+CCompon +
+
+-ent +
+
+Portland +
+cement +
+
+SiO2 +
+Al2O3 +
+Fe2O3 +
+CaO +
+MgO +
+SO3 +
+SSA/ +
+m2 g-1 +
+SG +
+
+21.9 +
+6.9 +
+3.9 +
+63.0 +
+2.5 +
+1.7 +
+0.37 +
+Blaine +
+3.15 +
+
+Siliceo- +
+us Fly +
+Ash +
+52.0 +
+23.0 +
+11.0 +
+5.0 +
+0 +
+0 +
+0.42 +
+Blaine +
+2.38 +
+
+Calcare +
+-ous +
+cement +
+35.0 +
+18.0 +
+6.0 +
+21.0 +
+0 +
+0 +
+0.42 +
+Blaine +
+2.65 +
+
+Slag +
+Cement +
+
+Fume +
+Silica +
+
+35.0 +
+12.0 +
+1.0 +
+40.0 +
+0 +
+0 +
+0.40 +
+Blaine +
+2.94 +
+
+85-97 +
+0 +
+0 +
+<1 +
+0 +
+0 +
+15-30 +
+BET +
+2.22 +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+cement +
+
+replacement, +
+
+General use of Portland cement, Siliceous (ASTM +
+C618 Class F) Fly Ash, Calcareous IASTM C618 Class +
+C) Fly Ash, Slag cement and Silica Fume in concrete are +
+as primary binder, +
+cement +
+replacement, cement replacement and property enhancer, +
+respectively. +
+ +
+TYPES OF CEMENTS, THEIR COMPOSITION +
+AND USES +
+There are over ten different types of cements that are +
+used in construction purposes and they differ by their +
+composition and are manufactured for different uses. +
+These are Rapid Hardening Cement (RHC), Quick setting +
+cement (QSC), Low Heat Cement (LHC), Sulphates +
+resisting cement (SRC), Blast Furnace Slag Cement +
+(BFSC), High Alumina Cement (HAC), White Cement +
+(WC), Coloured cement (CC), Pozzolanic Cement (PzC), +
+Air Entraining Cement (AEC) and Hydrophobic cement +
+(HpC). RHC has increased lime content compared to +
+Portland Cement (PC). Purpose of having high lime +
+content is to attain high strength in early days. It is used in +
+concrete when form work is to be removed early. Since +
+hardening of cement is due to the formation of CaCO3 by +
+absorbing atmospheric CO2 by CaO, increased CaO +
+results in increased CaCO3 formation even at the early +
+stage to result in rapid hardening. +
+QSC is produced by adding a small percentage of +
+aluminium sulphate as an accelerator and reducing the +
+amount of Gypsum used with fine grinding. This cement +
+is used when the work is to be completed very quickly as +
+in static and running waters. LHC has reduced amount of +
+C3A which +
+to produce massive concrete +
+constructions like gravity dams. LHC has compressive +
+strength to heat of hydration ratio of at least 7 at the age of +
+13 weeks. Usual wt. ratio of CaO to SiO2 is between 0.8 – +
+1.5 but Al2O3 wt% is less than 10% (9). This is prepared +
+by grinding the CaO, SiO2 and Al2 O3 materials, melting +
+the mixture, quenching the melt, and grinding the +
+quenched matter to have mainly amorphous material of +
+the above composition. Alumina is a hydratable material +
+and reduced alumina gives reduced hydration to produce +
+less heat of hydration. This +
+the +
+construction of large structures to avoid possible thermal +
+cracking during concrete setting (10). +
+ +
+Sulphate attack on concrete is a chemical breakdown +
+mechanism where sulphate reacts with C3A and/or +
+Ca(OH)2 components of the hardened cement forming +
+ettringite which +
+trisulfate +
+hydrate +
+[(CaO)6(Al2O3)(SO3) 32H2O = C6ASH32]. +
+Sulphate ions can react with C3A and/or Ca(OH)2 in +
+hardened concrete in the presence of water forming +
+Gypsum. These newly formed ettingite and Gypsum +
+crystals occupy empty spaces of concrete and as they +
+grow they tend to damage the paste by cracking. The most +
+important parameters determining the sulphate attack are +
+C3A, C3S/C2A ratio and C4AF. It has been reported that +
+the addition of pozzolonic admixtures such as fly ash +
+reduces the C3A content of cement (11). When sulphate is +
+present in water and soil used, in places like canals linings, +
+culverts, retaining walls, siphons etc., it is important to use +
+
+is hexacalcium aluminate +
+
+important +
+
+is used +
+
+in +
+
+is +
+
+[#3]#Page 3#
+
+SRC. SRC is prepared by maintaining C3A content below +
+6%. +
+BFSC is prepared by grinding the clinkers with ~60% +
+slag. BFSC resembles properties of Portland cement and is +
+used for works in which economic considerations are +
+predominant. HAC is obtained by melting a mixture of +
+bauxite and lime and grinding the mixture with the clinker. +
+Since it contains high alumina content it is a rapid +
+hardening cement with initial and final setting times of +
+about 3.5 h and 5 h, respectively (11). HAC is used in +
+works where concrete is subjected to high temperatures, +
+frost and acidic conditions. WC is prepared from raw +
+materials free from iron oxides and oxides of other +
+transition metals such as Cr, Mn, Cu, V and Ti. The +
+colouring effect takes the order Cr2O3 > Mn2O3 > Fe2O3 > +
+V2O3 > CuO > Ti2O3. As such, amounts of these transition +
+metal ions, particularly Cr3+, Mn3+ and Fe3+, should be +
+minimized to form while cement. Usually, Cr2O3, Mn2O3 +
+and Fe2O3 are kept below 0.003%, 0.03% and 0.35%, +
+respectively, in the clinker. Cheap quarried raw materials +
+usually contain Cr, Mn and Fe. For example, lime stones +
+and clays usually contain 0.3-1% and 5-15% Fe2O3. +
+Keeping Fe2O3 below 0.5% is desirable to make WC and +
+as such kaolin and sand are used instead of other clays in +
+making WC. The abrasiveness of sand particles with size +
+< 45µm also ensures less wearing of chrome-steel +
+grinding mill used to grind raw materials which would +
+otherwise contaminate the mixture with Fe and Cr. +
+Usually sand is ground separately using ceramic grinding +
+media to avoid chromium contamination. WC is costly +
+and hence used in aesthetic applications such as precast +
+curtain wall and facing panels, terrazzo surface etc. +
+Contrary to WC, CC is prepared by deliberately adding +
+mineral pigments to cement. CCs are widely used in +
+decorative works on floors. Iron oxides are used to get red, +
+yellow and black base colours and several mixed colours +
+such +
+etc. +
+Standard green and blue pigments are chrome oxide and +
+cobaltaluminium oxide, respectively. TiO2 is the usual +
+white pigment. PzC is prepared by grinding pozzolanic +
+clinker with Portland cement. It is used in marine +
+structures, sewage works and for laying concrete under +
+water such as in bridges, piers, dams etc. +
+AEC is produced by adding air-entertaining agents are +
+surfactants such as alkali salts of wood resins, synthetic +
+detergents of the alkyl-aryl sulphonate type, calcium +
+lignosulphate derived from the sulphite process in paper +
+making and calcium salts of glues and other proteins +
+obtained in the treatment of animal hides, animal and +
+vegetable fats, oil and their acids, wetting agents, +
+aluminium powder and hydrogen peroxide, during the +
+grinding of clinker. They are added in 0.025-0.1% in +
+either solid or liquid form. At the time of mixing, AEC +
+produces tough, tiny, discrete non-coalescing air bubbles +
+of 10-500 µm in diameter in the body of the concrete. +
+These bubbles can compress to some extent and hence +
+they can absorb stress created by freezing. +
+HpC is prepared by adding water-repellent chemicals. +
+They are prepared particularly for use in high rain-fall +
+regions to prevent water absorption during storage. +
+
+browns-terracotta-tuscany-sepia-beach +
+
+as +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+Mass emitted/Tonnes per year +
+1.5456 million +
+460 - 11500 +
+up to 11125 +
+334 - 4670 +
+0.62 - 522 +
+2.17 - 267 +
+0.046 - 46 +
+0.21 – 23.0 +
+0.0000276 - 0.627 g per year +
+
+Particles of HpC are coated with non-polar substances +
+usually by adsorbing oleic acid, stearic acid etc. to cement +
+particles. When adsorbed these surfactant molecules self- +
+assemble by coordinating to surface cations though their +
+carboxylic acid groups thereby allowing the non-polar +
+hydrocarbon chain to extend from the particles. When a +
+water drop falls on them they are stuck on hydrocarbon +
+chains and stay as spherical particles as does by the lotus +
+leaf. The cement particles are then not wetted and water +
+drops roll off when slightly slanted. These hydrophobic +
+coatings prevent the attacks by chloride and sulphate ions +
+and hence they resist to deterioration of concretes by these +
+ions. +
+ +
+ENVIRONMENTAL EFFECTS OF CEMENT +
+MANUFACTURING +
+Measured data of the European cement kiln emissions +
+show that cement industry contributes substantially to +
+environmental pollution. Table 3 lists main environmental +
+pollutants emitted by European cement kilns in tonnes per +
+year. +
+Table 3: Masses of emitted pollutants from European +
+cement kilns per year. +
+Pollutant +
+CO2 +
+CO +
+SO2 +
+NOx as NO2 +
+Dust +
+TOC/VOC +
+HCl +
+HF +
+PCCD/PCDF +
+Adapted from +
+http://ena.lp.edu.ua:8080/bitstream/ntb/16692/1/55- +
+Stajanca-296-302.pdf +
+TOC/VOC, PCCD, PCDF +
+total organic +
+compounds including volatile organic compounds and +
+polychlorinated dibenzo-p-dioxins and polychlorinated +
+dibenzofurans, respectively. +
+ +
+ +
+It has been reported that toxic metals such as Hg, Cd, +
+Tl, As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V are also emitted in +
+considerable amounts. For example, masses of Hg, ∑ (Cd, +
+Tl), ∑ (As, Sb, Pb, Cr, Co, Cu, Mn, Ni, V) emitted in kg +
+per year are 0 – 1311, 0 – 1564 and 0 – 9200, respectively +
+(13). In addition to material pollutants, noise emission is +
+also associated with almost all the processes involved in +
+cement manufacturing. These environmental +
+impacts +
+contribute +
+abiotic depletion, global warming, +
+acidification and marine eco-toxicity (14). +
+ +
+POLLUTION +
+MANUFACTURING +
+The air pollution occurs in the excavation activities, +
+dumps, tips, conveyer belts, crushing mills and kilns of +
+cement industry. Minimizing air-pollution is a mandatory +
+legislative +
+to +
+minimizing wastage as well as survival of the industry. +
+Dust particles emitted at sites other than kilns can be +
+
+requirement which also contributes +
+
+CONTROL +
+
+indicate +
+
+to +
+
+IN +
+
+CEMENT +
+
+[#4]#Page 4#
+
+captured using a hood or other partial enclosure and +
+transported through a series of ducts to the collectors. The +
+dust collected can be fed to the kiln provided that it is not +
+too alkaline not exceeding 0.6% as per Na2O (N) content. +
+However, if the alkalinity is higher than this value then the +
+dust must be either discarded or pre-treated before feeding +
+to the kiln. Flexible Pulse Jet Filters, Electrostatic +
+Precipitators, Wet Scrubbers and Bag House Method can +
+be used to collect dust from flue gas (15). +
+US Environmental Protection Agency has reviewed +
+the available and emerging technologies for reducing +
+greenhouse gas emissions from Portland Cement Industry. +
+The primary greenhouse gas emitted in the cement +
+industry is carbon dioxide but in lower quantities NOxs +
+and SOxs are also emitted as detailed in Table 1 (16). +
+Carbon Capture and Storage +
+This involves separation and capture of carbon dioxide +
+from the flue gas, pressurization, and transportation via +
+pipelines, injection and long term storage. As regard to +
+this, several processes have been developed as detailed +
+below. +
+Calera Process +
+This involves capture of CO2 from flue gas and +
+conversion +
+to carbonates. This utilizes a scrubber +
+containing high pH water with calcium, magnesium, +
+sodium, hydroxide and chloride as the scrubbing liquid. +
+CO2 captured by this water is converted to CaCO3 and +
+MgCO3 which are precipitated out of the solution. The +
+precipitates can be filtered, washed and dried for re-use as +
+feed material for the kiln to make blended cement. Water +
+used may be seawater or reject brine. Capture efficiency +
+of over 90% has been reported in a 10 MW coal fired pilot +
+plant. It is interesting to note that when captured carbon is +
+reused the overall carbon footprint becomes negative since +
+the carbon emissions avoided +
+the cement +
+manufacturing process could be greater than those of +
+carbon emissions from the power plant (16, 17). +
+Oxy-combustion Process +
+ +
+In the oxy-combustion is the process, fuel is burnt with +
+pure or nearly pure oxygen instead of air. Since there is no +
+nitrogen gas the fuel consumption is reduced due to the +
+fact that there is no need to heat and burn nitrogen gas. +
+Since air contains nearly 79% nitrogen gas and any +
+combusted nitrogen comes as NOx in flue gas the volume +
+of flue gas and NOx in it are significantly reduced when +
+pure oxygen is used for combustion (16, 18). This process +
+should utilize an air-separation process to separate out +
+nitrogen gas which can be used for other processes such as +
+for inflating vehicle tires. Nitrogen removed air basically +
+contains majority of oxygen and it can be used for the +
+oxy-combustion process. When oxy-combustion is used +
+the resulting kiln exhaust contains over 80% CO2 gas +
+which can be recovered by the Calera Process. There are +
+several technical issues as laid down in reference (17) that +
+have to be tackled before implementing this process in +
+cement industry. +
+Monoethanolamine (MEA) Process +
+When flue gas is passed through a column containing +
+mnoethanolamine CO2 gas is selectively absorbed. High +
+the +
+pressure, +
+
+temperature +
+
+conditions +
+
+favour +
+
+from +
+
+low +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+absorption. When CO2-rich MEA solution is subjected to +
+low pressure, high tempersture conditions it releases +
+absorbed CO2 which can be converted to some other +
+product like CaCO3 or MgCO3 and the solvent recovered +
+can be reused. One of the problems with this method is +
+that acidic gases such as SOx and NOx present in the flue +
+gas can react with MEA. Therefore, levels of these gases +
+must be kept below 0.001% prior to absorption by MEA. +
+Instead of regular amines, hindered amines can also be +
+used. Hindered amines have special functional to prevent +
+degradation of the amine (20). +
+Flue Gas Desulfurized Mixture +
+ +
+Flue gas contains SOx which could be separated using +
+limestone based compounds. They are then converted to +
+slurries to use as CO2 absorbents. This way both SOx and +
+CO2 can be removed from flue gas (20). +
+Cryogenic Distillation +
+Cryogenics is the science that addresses the production +
+and effects of very low temperatures. In the cryogenic +
+separation, all other gases except CO2 and N2 have to be +
+removed prior to subjecting to low temperature conditions. +
+The triple point for CO2 is 256.68 ̊C and 7.4 atm and when +
+these conditions are maintained, CO2 will condense while +
+N2 will remain as a gas. N2 gas is then escaped through an +
+outlet at the top of the chamber and the dense liquid is +
+taken from the bottom of the chamber. Refrigeration under +
+pressure is an alternative method to cryogenic distillation +
+but utilizes even harsh conditions such as higher pressures +
+and lower temperatures. Cryogenic methods have distinct +
+advantages over other separation methods. Since CO2 is +
+separated as a liquid, it can be transported via pipelines for +
+sequestration. Also the recovery and purity of CO2 is very +
+high (CO2 purity after distillation can exceed 99.95%)(20). +
+Membrane Separation +
+Suitable membranes can be used to separate or adsorb +
+CO2 in the kiln exhaust gas. Poly(methoxyethoxy)ethanol +
+phosphazene (MEEP) hollow fibre membranes are +
+excellent CO2 separation and storing membranes where +
+(methoxyethoxy)nethanol groups attached P have strong +
+interactions with CO2 (21), (22) (23). One such example is +
+given in Figure 1. +
+
+ +
+Figure +
+stabilized +
+poly((methoxyethoxy)ethanol phosphazene hollow fibre +
+membrane. +
+
+structure +
+
+General +
+
+of +
+
+1: +
+
+ +
+
+[#5]#Page 5#
+
+of +
+
+polymers +
+
+(TRPs), +
+
+example, +
+
+cross-linked +
+
+is an advanced +
+
+ +
+Polymer blends with required properties such as strong +
+interaction with CO2 can be used as CO2-selective +
+thin-film +
+membranes. For +
+composite +
+poly(vinylalcohol) +
+(PVA)/polyvinylpyrrolidone +
+(PVP) blend membranes +
+doped with suitable amine carriers are excellent CO2- +
+selective membranes as reported by Mondal and Mandal. +
+The CO2 permeability of this membrane is 1396 Barrer at +
+2.8 atm and 100 °C (24). Combination of grafting and +
+cross-linking +
+technique capable of +
+suppressing plasticization. In this respect, Achoundong et +
+al. developed cellulose acetate (CA) membranes and +
+grafted vinyltrimethoxysilane (VTMS) to –OH groups, +
+which due to subsequent condensation of hydrolyzed +
+methoxy groups on the silane form crosslinked polymer +
+networks. The modified membranes have an order of +
+magnitude higher CO2 permeability than neat cellulose +
+acetate membranes (25). +
+ +
+Polymers of intrinsic microporosity (PIMs), thermally +
+rearranged +
+and +
+polyurethanes are advanced polymers with high selectivity +
+for CO2 and hence are suitable membranes for CO2 +
+separation. PIMs are ladder polymers with high free +
+volume and high selectivity for CO2. These ladder +
+polymer backbones can be prepared by polycondensation +
+reaction of tetrahydroxy monomers containing spiro or +
+contorted centres with tetrafluoromonomers. One such +
+example is the PIM-1 prepared by the polycondensation +
+reaction of commercial monomers such as 5,5,6,6- +
+tetrahydroxy-3,3,3,3-tetramethyl-1,1'-spiro-bisindane with +
+tetrafluorophthalonitrile. Chemical structures of +
+the +
+monomers are given in Figure 2. +
+
+polyimides +
+
+ +
+
+ +
+
+ +
+
+ +
+
+(a) (b) +
+
+(c) +
+ +
+Figure 2: Chemical structures of (a) 5,5,6,6-tetrahydroxy- +
+(b) +
+3,3,3,3-tetramethylspiro-bisindane, +
+
+ +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+the +
+
+(c) polycondensate +
+
+tetrafluorophthalonitrile and +
+polymer PIM-1 (30). +
+These polymers have high CO2 solubility and +
+spirocentres such as thianthrene [26], 9,10-dimethyl-9,10- +
+dihydro-9,10-ethanoanthracene +
+[27], ethanoanthracene +
+[28] and pyrazine [29], could be incorporated in PIM +
+membranes for adjusting the gas permeation properties. +
+Thermally rearranging polymers (TRPs) are prepared +
+by a thermal post-membrane conversion process of +
+functionalized polyimides. They have uniform cavities +
+with tailored free- volume elements with well-connected +
+morphology in the amorphous state (31). For example, +
+thermal rearrangement of poly(hydroxyimide)s is shown +
+in Figure 3. +
+ +
+ +
+
+ +
+
+ +
+Figure 3: Thermal rearrangement of poly(hydroxyimide)s. +
+TRPs have good CO2/CH4 separation performance, good +
+resistivity to CO2 induced plasticization and high chemical +
+resistivity (32). +
+Adsorption of CO2 into Advanced Sorbents +
+ +
+Separation of CO2 from a gas mixture by selective +
+adsorption involves both thermodynamics (adsorption) +
+and kinetics (diffusion selectivity) designing adsorbents +
+for CO2 in the presence of gases such as CH4 and N2 is +
+challenging since all three gases have similar kinetic +
+diameters of 3.30 Å, 3.76 Å and 23.64 Å, respectively +
+(32). In this sense, sorbents such as zeolites and metal- +
+organic frameworks (MOFs) stand out as adsorbents of +
+CO2. Zeolites are microporous aluminosilicate minerals +
+such as analcime, chabazite, clinoptilolite, heulandite, +
+natrolite, phillipsite, and stilbite. Figure 4 shows the +
+microporus molecular structure of zeolite, ZSM-5. +
+Synthetic zeolites are prepared by the slow crystallization +
+of a silica-alumina gel in the presence of alkalis and +
+organic templates. +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+ +
+Figure 4: The microporous molecular structure of zeolite, +
+ZSM-5. Thomas Splettstoesser(www.scistyle.com) -Own +
+work, CC BY-SA 4.0, File:Zeolite-ZSM-5-vdW.png, +
+
+[#6]#Page 6#
+
+23 +
+
+June +
+
+Created: +
+2015. +
+https://en.wikipedia.org/wiki/Zeolite Accessed: June 11, +
+2017. +
+Zeolites are added to Portland cement as a pozzolan and +
+water reservoir to reduce chloride permeability and to +
+improve workability. Siriwardane et al. (33) have studied +
+competitive gas adsorption properties of zeolites 13X, 4A, +
+5A, UOP-WE-G 592 and UOP APG-II with gas mixtures +
+containing CO2 and found that all of them have CO2 good +
+adsorption capacities down to ppm levels from a gas +
+mixture containing 15% CO2, 3% O2 and 83% N2. +
+Metal Organic Frameworks (MOFs) are yet another +
+good sorbents for CO2. Their structures are composed of +
+metal-containing nodes linked by organic ligand bridges +
+which are assembled through strong coordination bonds +
+(Figure 5). +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+are made by made of +
+
+US Patent on Method for producing nano-cement, and +
+nano-cement (36) deals with the procedure developed to +
+produce nanocement which involves mechanochemical +
+activation of dispersed grains of Portland cement in the +
+presence of a polymeric modifier. They used at least 60% +
+by wt. of sodium naphthalenesulfonate and mineral +
+siliceous additive containing at least 30 wt.% SiO2 and +
+gypsum to form nanoshells around cement grins. Capsules +
+of 20-100 nm thickness are formed around Portland cement +
+grains which +
+sodium +
+naphthalenesulfonate +
+structured by calcium cations. +
+Subsequent to mechanochemical activation, the resultant +
+material is ground to specific surface area of 300-900 m2 +
+kg-1. Nanocement +
+technical quality of +
+Portland cement, reduces cost of production due to the use +
+of 70 wt.% mineral additives, 1.2-2 times reduction of fuel +
+cost and 2-3 times reduction of emission of NOx, SO2 and +
+CO2 per ton of cement. Nanocement has very high +
+performance, for instance, the deflection strength of +
+nanocement based concrete and ordinary Portland cement +
+based concrete at 2 day hardening are around 6.3-7.1 MPa +
+and 2.9 MPa with corresponding compressive strengths of +
+49.3-54.7 MPa and 21.3 MPa, respectively. At 28 day +
+hardening deflection strength improves to 8.2-8.7 MPa and +
+6.4 Mpa, respectively, while compressive strength improves +
+to 77.5-82.7 MPa and 54.4 MPa, respectively (37). +
+ +
+
+improves +
+
+the +
+
+ +
+
+ +
+
+2,6-ndc +
+
+= +
+(MOF-5 +
+
+Figure 5: An example for MOF: MOF-5. Large pore is +
+shown with the yellow ball. Tony Boehle - Own work: +
+Public Domain. +
+https://en.wikipedia.org/wiki/Metal- +
+organic_framework#/media/File:IRMOF-1_wiki.png +
+ +
+Compared to other CO2 sorbents such as zeolites and +
+activated carbon, MOFs have higher pore volume and +
+surface area and hence have higher CO2 sorption capacity. +
+Some examples of MOFs capable of CO2 sorption are +
+NiII +
+2NiIII(µ3-OH)(pba)3(2,6-ndc)1.5 (MCF-19; pba = 4- +
+2,6- +
+(pyridin-4-yl)benzoate, +
+naphthalenedicarboxylate), Zn4O(bdc)3 +
+or +
+IRMOF-1, bdc = 1,4-benzenedicarboxylate), Zn4O(btb)2 +
+(MOF-177, btb = benzene-1,3,5-tribenzoate), +
+and +
+Zn4O(bte)14/9(bpdc)6/9 (MOF-210, bte = 4,4 ,4-(benzene- +
+1,3,5-triyltris(ethyne-2,1- +
+bpdc = +
+biphenyl-4,4 -dicarboxylate) (33). +
+ +
+NANOCEMENT +
+Nanocement is a cement produced by mechanical +
+activation of nuclear cement particles in the size range 2-3 +
+µm by coating with 10-100 nm thick membranes of +
+modifier materials. More than 65% of mineral supplements +
+such as sand, ash, slag, tuff, etc. and polymer additives are +
+used as modifier materials. The process of nanocement +
+production is shown schematically in Figure 6. It has been +
+reported that nanocement can be used to produce 500-800 +
+brands of high strength concretes and 1300-1500 brands of +
+heavy-duty concretes (35). +
+
+diyl))tribenzoate, +
+
+ +
+
+ +
+
+ +
+ +
+Figure 6: Schematic representation of the nanocement +
+production process.  +
+ +
+Use of nano-graphite as an additive in cement is also +
+currently under investigation. Use of graphite nanoparticles +
+in cement is expected to not only improved mechanical +
+properties but also faster curing time, inhibition of pre- +
+mature failure in concretes, ability to withstand large +
+external forces produced in earthquakes and explosions. +
+The use of less concrete is also possible which means +
+eventual contribution to the production of less Portland +
+cement and hence reduction of consequent environmental +
+problems associated with Portland cement manufacturing +
+(38). Other nano-fillers used to improve properties of +
+Portland cement include nano-Titania (TiO2), Carbon +
+
+[#7]#Page 7#
+
+from both +
+
+investigated +
+
+the production of +
+
+nanotubes, nano-silica (SiO2) and nano-alumina (Al2O3). +
+We have +
+these +
+nanoparticles +
+top-down and bottom-up +
+approaches. Top-down approach is more industrially +
+viable since large quantities of bulk materials found +
+naturally can be used +
+to produce corresponding +
+nanomaterials through particle size reduction. Top-down +
+approach relies on reducing the size of bulk materials to +
+the size of the nanorange of 1-100 nm. This can be done +
+by crushing bulk materials to make powders, sieving to +
+different fractions, further crushing of large size fractions, +
+and finally milling to obtain sizes in the nano-range. Sri +
+Lanka is gifted with very high purity quartz which +
+contains almost 100% SiO2. This quartz can be used to +
+obtain nano-sized SiO2 particles. Our on-going research in +
+collaboration with Sri Lanka Industrial Technology +
+Institute (ITI) is very successful and we are able to +
+produce 50 nm size SiO2 nanoparticles in large quantities +
+by this top-down approach. We have also attempted at +
+converting ilmanite obtained from Sri Lanka Mineral Sand +
+Corporation to produce nano titania with great success. +
+Nanoparticles have a large surface area to volume ratio +
+than their bulk counterparts and due to their small size +
+they can fill in small cavities of cement matrix densifying +
+the structure to result in improved strength and faster +
+chemical reactions such as hydration reactions associated +
+with cement setting. Further, the material requirement can +
+be reduced drastically thus saving fast depleting natural +
+resources +
+cement +
+manufacturing as well as reducing associated adverse +
+environmental consequences. +
+ +
+ +
+REFERENCES +
+(1) Portland cement clinker: the Bogue calculation, +
+http://www.understanding-cement.com/bogue.html# . +
+Retrieved July 10, 2017. +
+
+requirements +
+
+and +
+
+energy +
+
+for +
+
+(2) Composition +
+
+of +
+
+Cement, +
+
+http://www.engr.psu.edu/ce/courses/ce584/concrete/li +
+brary/construction/curing/Composition%20of%20ce +
+ment.htm Retrieved July 10, 2017. +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+for Mechanical Engineers (8th ed.). McGraw Hill. +
+Section 6, pp. 177. +
+
+(9) Nakatsu K., Goto T., Higaki T., Endo H., Hirose S. +
+and Yamazaki Y., "Compositions for low heat +
+cements", US Patent No: US5547505 A. Publication +
+date: Aug 20, 1996. +
+
+(10) Novotný R., Bartoníþková E., Švec +
+
+J. and +
+Monþeková M. (2016) "Influence of active alumina +
+on +
+the hydration process of Portland cement", +
+International Conference on Ecology and new +
+Building materials and products, ICEBMP 2016, +
+Procedia Engineering, Vol. 151, pp. 80-86. +
+
+(11) Sulphate Attack on Concrete – Process and Control of +
+
+Sulphate Attack +
+
+(12) https://theconstructor.org/concrete/sulphate-attack- +
+
+on-concrete-prevention/2162/ Retrieved July 10, +
+2017. +
+
+(13) Stajanča M. and Eštoková A. (2012) "Environmental +
+production", +
+
+impacts +
+http://ena.lp.edu.ua:8080/bitstream/ntb/16692/1/55- +
+Stajanca-296-302.pdf Retrieved July 10, 2017. +
+
+cement +
+
+of +
+
+(14) Chen C., Habert G., Bouzidi Y. and Jullien A. (2010) +
+"Environmental impact of cement production: Detail +
+of the different processes and cement plant variability +
+evaluation", J. Cleaner Production, Vol. 18, pp. 478- +
+485. +
+
+(15) Zimwara D., Mugwagwa l. and Chikowore T.R. +
+(2012) "Air pollution control techniques for the +
+cement manufacturing industry: A case study for +
+Zimbabwe",CIE42 Proceedings, 16-18 July 2012, +
+Cape Town, South Africa © 2012 CIE & SAIIE. +
+
+(16) Available and emerging technologies for reducing +
+greenhouse gas emissions from the Portland cement +
+industry +
+(2010) Sector Policies and Programs +
+Division Office of Air Quality Planning and +
+Standards U.S. Environmental Protection Agency +
+Research Triangle Park, North Carolina 27711, +
+October +
+2010, +
+https://www.epa.gov/sites/production/files/2015- +
+12/documents/cement.pdf Retrieved: June 11, 2017. +
+
+(17) Calera, Inc. (2009) “Notes on Sustainability and +
+
+(3) Mindess S. and Young J. F. (1981) "Concrete", +
+
+Potential Market,” October 2009. +
+
+Prentice-Hall, Inc., Englewood Cliffs, NJ, pp. 671. +
+
+(4) Kosmatka S. and Panarese W. (1988) "Design and +
+Control of Concrete Mixes", Portland Cement +
+Association, Skokie, Ill. pp. 205. +
+
+(5) Mamlouk M. and Zaniewski J. (1999) "Materials for +
+Civil and Construction Engineers", Addison Wesley +
+Longman, Inc. +
+
+(6) Holland, T. C. (2005) "Silica Fume User’s Manual" +
+(PDF), Silica Fume Association and United States +
+Department of Transportation Federal Highway +
+Administration Technical Report FHWA-IF-05-016. +
+Retrieved July 10, 2017. +
+
+(7) Kosmatka S., Kerkhoff B. Panerese W. (2002) +
+"Design and Control of Concrete Mixtures" (14th ed.). +
+Portland cement Association, Skokie, Illinois. +
+
+(8) Gamble W., "Cement, Mortar and Concrete", In +
+Baumeister; Avallone; Baumeister. Mark's Handbook +
+
+(18) Barker D.J., Turner S.A., Napier-Moore P.A., Clark +
+M. and Davison J.E. (2009) “CO2 Capture in the +
+Cement Industry”, Energy Procedia, Vol. 1, pp. 87- +
+94. +
+
+(19) Ebner A.D. and Ritter J.A. (2009) “Carbon dioxide +
+separations: +
+and +
+Membrane Separation Processes for Carbon Dioxide +
+Production from Carbon Dioxide Emitting Industries”, +
+Energy Procedia, Vol. 44, pp. 1273-1421. +
+
+State-of-the-art Adsorption +
+
+(20) Aaron D. and Tsouris C. (2005) “Separation of CO2 +
+from Flue Gas: A Review”, Separation Science and +
+Technology, Vol. 40, pp. 321-348, +
+
+(21) Robeson L.M. (2008) “The Upper Bound Revisited”, +
+
+J. Membrane Science, Vol. 320, pp. 390-398. +
+
+(22) Orme C.J., Harrup M.K., Luther T.A., Lash R.P., +
+Houston K.S., Weinkauf D.H. and Stewart F.F. +
+(2001) “Characterization of gas transport in selected +
+
+[#8]#Page 8#
+
+rubbery amorphous polyphosphazene membranes”, J. +
+Membrane Science, Vol. 186, pp. 249-253. +
+
+(23) Brunetti A., Scura F., Barbieri G. and Drioli E. (2010) +
+“Membrane technologies for CO2 separation”, J. +
+Membrane Science, Vol. 359, pp. 115-125. +
+
+cross-linked +
+
+(24) Mondal A. and Mandal B. (2014) “Novel CO2- +
+poly(vinyl +
+selective +
+alcohol)/polyvinylpyrrolidone +
+blend membrane +
+containing amine carrier for CO2−N2 separation: +
+Synthesis, characterization, and gas permeation +
+study”, Industrial & Engineering Chemistry Research, +
+Vol. 53, pp. 19736-19746. +
+
+(25) Achoundong C.S.K., Bhuwania N., Burgess S.K., +
+Karvan O., Johnson J.R. and Koros W.J. (2013) +
+“Silane modification of cellulose acetate dense films +
+as materials for acid gas removal”, Macromolecules, +
+Vol. 46, pp. 5584-5594. +
+
+(26) Du N., Robertson G.P., Pinnau I., and Guiver, M.D. +
+(2010) “Polymers of intrinsic microporosity with +
+dinaphthyl +
+segments”, +
+Macromolecules, Vol. 43, pp. 8580–8587. +
+
+thianthrene +
+
+and +
+
+(27) Emmler T., Heinrich K., Fritsch D., Budd P.M., +
+Chaukura N., Ehlers D., Ratzke K. and Faupel F. +
+(2010) “Free volume investigation of polymers of +
+intrinsic microporosity (PIMs): PIM-1 and PIM1 +
+copolymers incorporating ethanoanthracene units”, +
+Macromolecules, Vol. 43, pp. 6075–6084. +
+
+(28) Ghanem B.S., McKeown N.B., Budd P.M. and +
+Fritsch D. +
+intrinsic +
+microporosity derived from bis(phenazyl) monomers”, +
+Macromolecules, Vol. 41, pp. 1640–1646. +
+
+“Polymers +
+
+(2008) +
+
+of +
+
+(29) Budd P.M., McKeown N.B. and Fritsch D. (2006) +
+“Polymers of intrinsic microporosity (PIMs): High +
+free volume polymers for membrane applications”, +
+Macromolecular Symposia, pp. 245–246 and 403– +
+405. +
+
+(30) Khan M.M., Bengtson G., Neumann S., Rahman Md. +
+M., Abetza V. and Filiz V. (2014) “Synthesis, +
+characterization and gas permeation properties of +
+anthracene maleimide-based polymers of intrinsic +
+microporosity”, RSC Advances, Vol. 4, pp. 32148- +
+32160. +
+
+(31) Amooghin A.E., Sanaeepur H., Pedram M.Z., +
+Omidkhah M. and Kargari A., “New advances in +
+polymeric membranes for CO2 separation, Polymer +
+science: research advances, practical applications and +
+educational aspects”, A. Méndez-Vilas; A. Solano, +
+Eds., pp. 354-368, +
+http://www.formatex.info/polymerscience1/book/354- +
+368.pdf +
+
+(32) Sanders D.F., Smith Z.P., Guo R., Robeson L.M., +
+McGrath J.E., Paul D.R. and Freeman B.D. (2013) +
+“Energy-efficient +
+separation +
+membranes for a sustainable future: A review”, +
+Polymer, Vol. 54 pp. 4729-4761. +
+
+polymeric +
+
+gas +
+
+(33) Li J-R, g Ma Y., McCarthy M.C., Sculley J., Yu J., +
+Jeong H-W., Balbuena P.B. and Zhou H-C. (2011) +
+“Carbon dioxide capture-related gas adsorption and +
+separation +
+frameworks”, +
+
+metal-organic +
+
+in +
+
+The 28th International Symposium on Transport Phenomena +
+22-24 September 2017, Peradeniya, Sri Lanka +
+
+Coordination Chemistry Reviews, Vol. 255, pp. +
+1791–1823. +
+
+(34) Siriwardane R., Shen M., Fisher E. and Losch J., +
+“CO2 capture utilizing +
+sorbents”, U.S. +
+Department of Energy National Energy Technology +
+Laboratory, +
+https://www.netl.doe.gov/publications/proceedings/04 +
+/carbon-seq/039.pdf +
+
+solid +
+
+(35) Moscow IMET International: Nano cements, May 10, +
+2015, +
+https://www.globalimet.com/single- +
+post/2015/05/10/Nano-cements, Accessed: June 11th, +
+2017. +
+
+(36) Inventor: Marsel Yanovich Bickbau, Method for +
+producing nano-cement, and nano-cement, US Patent +
+Publication No. EP 3006415 A1, Publication Date: 13 +
+April, 2016. +
+
+(37) https://nanotekmaterials.squarespace.com/advantages/ +
+
+Accessed: 12th June, 2017. +
+
+(38) http://www.nanotechmag.com/zenyatta-receives- +
+
+funding-develop-nano-graphite-reinforced-cement/ +
+Accessed: 12th June, 2017. +
+
+ +
+
+Biography +
+
+Mr. S. P. Dunuweera holds a B. Sc. +
+Special Degree in Chemistry from +
+University of Peradeniya, Sri Lanka, +
+GCP. Psycholog. LIPs and PQHRM. +
+He is Developing Synthetic Methods +
+to Prepare Porous Nanoparticles to +
+Encapsulate Anticancer Drugs for +
+Targeted Delivery and Slow Release +
+reduce +
+cytotoxicity of drugs to healthy cells, to increase bio- +
+availability and efficacy of the drug, and to reduce drug +
+dosage. As such, a New Era of Cancer Treatment is +
+foreseen. Mr Dunuweera’s research has been highlighted +
+in a Discussion Forum of the ET: The Scholar of Sunday +
+Times, The Sri Lankan Scientist Magazine and he has +
+produced over 15 publications/communications. +
+
+to +
+
+University +
+
+Professor R. M. G. Rajapakse (B.Sc. +
+honours, Ph.D., D.I.C., FNASSL) is a +
+Senior Professor and the Coordinator +
+of the M. Sc. in Nanoscience and +
+Nanotechnology, +
+of +
+Peradeniya, Sri Lanka. He holds a Ph. D. and D. I. C from +
+Imperial College, London and worked at Imperial College, +
+UMIST, Universities of Bath, Central Lancashire and +
+Liverpool, UK, and Max Planck Institute for Polymer +
+Research, Germany. He was a Visiting Scholar to +
+University of Texas at Arlington, USA, and is a Visiting +
+Professor +
+the Research Institute of Electronics, +
+Shizuoka University, Japan and produced over 25 M. Phil. +
+/Ph. D. Degrees, over 70 indexed publications, over 200 +
+publications/communications and six pending patents and +
+is a recipient of many National Awards. +
+
+to +
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5],
+link:#6[6], link:#7[7], link:#8[8]

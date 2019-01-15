@@ -1,0 +1,2339 @@
+Abstract
+The major inorganic solid residues of chemical pulp mills include green
+liquor dregs, various lime
+residues, recovery boiler fly ash, and salt cake produced at the
+chlorine dioxide generator. Only a
+small proportion of these residues is currently utilized outside the
+mill area: landfill disposal and
+reuse at the mill are the most typically applied methods. The situation
+should be improved in the
+future for environmental and economical reasons. The focus of this
+review is on the separation of
+inorganic pulp mill residues to enhance the possibilities of their
+utilization. Solid-liquid separation
+operations, such as filtration and sedimentation, and the associated
+treatment processes, are
+described in close detail. The review aims at recognizing the most
+promising residues for
+utilization, as well as enhancing the understanding of the material
+balance of chemical pulp mills.
+The review also covers the most potential industrial applications for
+the utilization of residues, as
+well as the possibilities of using them as raw material in value-added
+products.
+
+
+1.
+
+Chemical pulp mills produce a number of different waste streams, which
+can be roughly divided
+into organic and inorganic residues. The focus of this review article is
+on the main inorganic side
+streams, including green liquor dregs (GLD), various lime residues, fly
+ash of the recovery boiler,
+and the sodium sesquisulfate produced in the ClO2 generator. Out of
+these residues, all except
+sesquisulfate are more or less alkaline. The motivation for this study
+has arisen from the increasing
+need to utilize these residues as valuable materials and products
+instead of the currently applied
+landfill disposal and recirculation in the chemical recovery cycle of
+the mill. The general trend in
+the pulp and paper industry has been towards the minimization of
+landfill disposal (Monte et al.,
+2009). Some of the most important drivers towards the utilization of
+inorganic residues are
+probably the increasing cost of landfill disposal (Eroglu et al., 2006),
+the decreasing availability
+of high-grade mineral resources (Tilton, 2001), the high price of
+fertilizers (Brunelle et al., 2015),
+and the increasing demand of soil amendments due to intensified
+agriculture (Edmondson et al.,
+2014). GLD and lime mud are produced and stacked in landfill sites in
+relatively large quantities,
+whereas the other inorganic residues are available at much smaller
+amounts.
+
+Introduction
+
+
+
+Appropriate separation technology is of high importance in the chemical
+recovery cycle of Kraft
+mills. Solid-liquid separation is performed for green liquor to get rid
+of the dregs, and for the lime
+slurry to remove grits from the slaker and to separate white liquor from
+the solids after
+recausticizing. Washing of the separated solids is typically carried out
+in a sedimentation system
+or a filter unit, sometimes sequentially in both. The separation
+technology does not only enable
+
+[#3]#Page 3#
+
+
+
+2
+
+efficient operation of the mill, but may also enhance the possibilities
+of utilizing the inorganic
+residues. Purification may be necessary to reduce the pH and to remove
+harmful components, such
+as heavy metals (Nurmesniemi et al., 2005; Cabral et al., 2008; Sanchez
+and Tran, 2005). Soil
+contamination is one possible environmental side effect of landfilling
+the inorganic wastes
+generated in pulp mills which contain heavy metals. The leachability of
+heavy metals from GLD
+has been extensively studied by Manskinen et al. (2011) and Pöykiö et
+al. (2014). The study of
+Cabral et al. (2008) supports the idea of possible release of metals
+into the soil from inorganic
+wastes of pulp mills. Furthermore, the water resources near the landfill
+area are in threat of
+pollution by the liberated heavy metals. In the best case, the
+purification and dewatering steps
+which are sometimes required for utilization outside the mill area could
+be performed in the
+existing separation equipment of the mill (Tikka, 2008). For this
+reason, the currently applied
+separation techniques and their challenges are paid special attention to
+in this review. The
+separation aspects are discussed with respect to the overall chemical
+balance of the mill, because
+proper removal of non-process elements (NPE) from the recovery cycle is
+of crucial importance.
+The most potential applications of the residues found in the literature
+are also discussed.
+
+
+
+Chemical recovery in Kraft pulping
+
+
+2.
+
+2.1. Chemical recovery cycle
+
+The recovery boiler is the heart of a Kraft pulp mill: it is essential
+for the recovery of the cooking
+chemicals, and it utilizes the heating value of the extracted wood
+components. Good runnability
+of the chemical recovery cycle of the process is the key to economical
+and material-efficient
+operation of a pulp mill. The efficiency of the recovery of pulping
+chemicals can be as high as 97
+% (Sretenovec, 2012). The sodium-sulfur balance in black liquor after
+cooking is affected by the
+quality of the raw material of the mill, and by several process-related
+factors. The sulfur in black
+liquor takes many forms, for instance sulfide, thiosulfate, sulfite,
+sulfate, and organic sulfur (Hupa,
+1993). Sodium is present e.g. as NaOH, Na2O, and with sulfur e.g. as
+sodium sulfide Na2S,
+thiosulfate Na2S2O3, sulfate Na2SO4, sodium sulfite Na2SO3, and sodium
+bound in organic
+material. Sodium and sulfur account for approximately 20 % and 3-6 % of
+the dry solids in black
+liquor, respectively (Mikkanen, 2000).
+
+The aim of the recovery cycle is to be able to reuse the sodium- and
+sulfur-containing pulping
+chemicals. The cooking liquor is effective only if the chemicals are in
+a reactive form as NaOH
+and Na2S. Therefore, it is important to be able to obtain a high degree
+of sulfur reduction in the
+recovery boiler (Tran and Vakkilainen, 2008). However, after the burning
+of the concentrated
+black liquor in the recovery boiler, a great proportion of the cooking
+chemicals in the smelt are in
+an ineffective form as sodium carbonate Na2CO3 and sodium sulfate
+Na2SO4. Among the smelt
+compounds, only Na2S is effective without further conversion (Hupa,
+2002). The sodium carbonate
+content is converted back to the effective hydroxide form by
+recausticizing (Tikka, 2008). A
+simplified sketch showing the four major operations in the chemical
+recovery cycle and the most
+important process liquors is presented in Fig. 1, which also shows the
+scope of this review.
+
+
+
+
+[#4]#Page 4#
+
+
+
+3
+
+2.2. Chemistry of recausticizing
+
+The dissolution of the smelt from the recovery boiler can be regarded as
+the starting point of the
+recausticizing process. In order to avoid loss of chemicals, sodium in
+particular, weak wash liquor
+obtained from lime mud and green liquor dregs washings is fed into the
+dissolver. At this stage
+sodium is soluble Na2CO3 and most of the sulfur is in the reduced form
+as soluble sodium sulfide
+Na2S, which is an effective cooking chemical and should not therefore be
+affected by the
+recausticizing process (Sixta, 2006).
+
+The main reaction in the recausticizing process is conversion of the
+Na2CO3 content of the green
+liquor to NaOH (Pöykiö et al., 2006a). All the important reactions
+taking place at the recausticizing
+plant are well-known and have been presented in a countless number of
+literature sources, for
+instance by Tikka (2008), Theliander (2008) and Sanchez (2008). The main
+reaction, conversion
+of sodium carbonate to hydroxide, requires large quantities of soluble
+hydroxide, which is obtained
+by the calcination of lime mud (CaCO3) in the lime kiln to produce CaO,
+which is subsequently
+converted according to Eq. (1) to Ca(OH)2 with green liquor in the
+slaker, where the recausticizing
+reaction is initialized:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1)
+
+
+The produced calcium hydroxide is slightly soluble in the liquid. Its
+solubility in water is 1.9 g L-
+1 at 0 °C and 1.3 g L-1 at 50 °C (National Lime Association, 2007). It
+is, however, reactive enough
+with the sodium carbonate content of the green liquor to be slowly
+converted to sodium hydroxide
+in a series of causticizing reactors:
+
+
+
+
+
+
+
+
+
+
+(2)
+
+
+The recausticizing reaction is exothermic and is typically performed in
+a series of 5 to 9 stirred
+tank reactors, where the impeller is usually either of the pitched-blade
+or the Rushton turbine type
+and rotates at a speed of 60-80 rpm (Theliander, 2008). The reaction is
+reversible, which means
+that it is impossible to obtain a complete conversion. The equilibrium
+is influenced by the
+concentration of the total titratable alkali at the applied level of
+sulfidity (Mehtonen, 2013).
+
+The solid byproduct of recausticization, calcium carbonate, present in
+lime mud is converted to
+the reactive calcium oxide form in the lime kiln according to
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3)
+
+
+The lime kiln is typically a long (50-120 m) cylindrical rotary kiln
+with a diameter of about 2-4 m
+(Järvensivu et al., 2001a; Hagemoen, 1993). The specific energy
+consumption of the lime kiln is
+considerable, varying usually from 5.5 to 6.5 GJ per ton of CaO
+(Järvensivu et al., 2001a). The
+purity of the obtained CaO is over 80 %, and the main impurities are
+unburnt calcium carbonate,
+silica and magnesium oxide (Bharathi et al., 2013).
+
+
+)()()()(22aqOHCalOHsCaO
+
+)()(2)()()(3322sCaCOaqNaOHaqCONaaqOHCa
+
+)()()(23gCOsCaOsCaCOHeat
+
+[#5]#Page 5#
+
+
+
+4
+
+Inorganic pulp mill residues
+
+In practice, various inorganic impurities consisting e.g. of inert
+material and non-process elements
+must be removed from the recovery cycle to enable trouble-free operation
+of the mill. These
+impurities originate mainly from limestone containing inert CaCO3,
+oxides of iron, aluminum, and
+silicon (Lewis and Crocker, 1969; Andreola et al., 2011), as well as
+from insoluble compounds
+removed from the green liquor. The most essential factors affecting the
+recausticization system
+include the quality of lime and its relative dosage, green liquor
+concentration, temperature, and the
+stirring conditions in the reactors (Andreola et al., 2011).
+
+
+3.
+
+3.1. Origin of the residues
+
+The major inorganic side streams in the recovery cycle are formed (Fig.
+2) due to various reasons:
+
+ Green liquor dregs consist of insoluble residue of the smelt
+dissolver, where the suspended
+solids content is 600-2000 mg L-1 (Tikka, 2008). The reported pH of GLD
+from the output of
+a precoat filter is typically within the range of 10-12.8 (Manskinen et
+al., 2011). The dregs are
+of high importance regarding the disposal of the non-process elements
+(Ulmgren, 1997; Ellis
+and Johnson, 2011).
+
+
+ Lime mud is the solid byproduct of causticizing, regenerated in the
+lime kiln. Part of it is
+removed from the process as a precoat in the GLD filter (Tikka, 2008).
+The pH of lime mud
+varies, and is often at the same level with that of GLD (He et al.,
+2009; Sthiannopkao and
+Sreesai, 2009).
+
+ Slaker grits are formed as a coarse residue on the bottom of the lime
+slaker, from where they
+are removed with a rake or an inclined screw. The dwell time of the
+suspension in the slaker
+is typically about 15 to 25 minutes, and the solids contents of slaker
+grits is typically about 75
+% (Sanchez and Tran, 2005). The pH of slaker grits is usually higher
+than 12.5 (Li M.A. et
+al., 2012).
+
+ Other lime residues are either dusts formed in the lime dryer or the
+lime kiln, from where they
+are collected by electrostatic precipitation, or miscellaneous solids
+collected sporadically by
+mechanical cleaning of the kiln. These minor residues do not have much
+practical importance,
+so they are not discussed in closer detail in this review.
+
+
+ Fly ash formation in a recovery boiler is initialized in the gas
+phase. The temperature in the
+recovery boiler (max. 1300-1400 °C) is high enough to volatilize alkali
+metals, such as Na
+and K, as well as other elements (S, Cl, and C), which are necessary for
+alkali salt formation
+(Mikkanen et al., 1999). Most volatilized Na is converted in the gas
+phase to NaOH, which is
+subsequently converted with SO2 to Na2SO4 (Saturnino, 2012). The pH of
+recovery boiler fly
+ash is typically lower than that of lime residues, as reported e.g. by
+Sthiannopkao and Sreesai
+(2009). The fly ash from the recovery boiler is precipitated by
+electrostatic precipitators (ESP).
+The fly ash differs from various power boiler fly ashes so significantly
+that it is often called
+ESP salt instead of fly ash.
+
+
+
+[#6]#Page 6#
+
+
+
+5
+
+ Sesqui salt is generated at mills producing ClO2 for bleaching. The
+reaction incorporates
+reduction of sodium chlorate by methanol in strongly acidic conditions
+(Chen et al., 2004).
+The solid byproduct, sodium sesquisulfate Na3H(SO4)2, is produced as a
+salt cake and
+separated with a filter, and the second byproduct, formic acid, results
+from the oxidation of
+methanol (Thompson et al., 1995; Burke et al., 1993):
+
+
+
+(4)
+
+
+It is common to use excess sulfuric acid in order to ensure a high
+reaction rate, so the sesquisulfate
+product contains approximately 20 w-% of sulfuric acid (Bucher et al.,
+2009; Burke et al., 1993).
+Sodium sesquisulfate formation takes place outside the chemical recovery
+cycle, but as the salt
+cake is often mixed with black liquor to recover sodium and sulfur, it
+contributes to the chemical
+balance of the mill.
+
+
+3.2. Quantities of residues
+
+The annual quantity of landfilled GLD solids in Finland was 64 200
+metric tons in 2012 (Finnish
+Forest Industries, 2013). The figure includes also the lime mud used as
+a precoat. Manskinen
+(2013) mentions that 90 000 metric tons of GLD were generated, according
+to an earlier report of
+Finnish Forest Industries from the year 2012. Assuming an annual Kraft
+pulp production of 7
+million tons in Finland, and the fact that GLD from semi-chemical
+pulping was not included in the
+-1. This is in
+number, the specific production rate in chemical pulping was 12.8 kg
+dregs tpulp
+accordance with the typical range of 4-20 kg per ton of pulp, reported
+by Nurmesniemi et al.
+(2005).
+
+Statistics about global GLD production are not available. Rough
+approximation of the quantities
+can be performed on the basis of available sources. Sanchez and Tran
+(2005) report GLD
+production of four North American mills to vary from less than 3 000 to
+over 13 000 kg per day,
+-1.
+corresponding to 4-11 kgdregs tpulp
+This specific production rate is in good agreement with that of the
+Finnish mills discussed above.
+If the same amount of GLD is approximated with relation to the global
+production of Kraft pulp,
+117 million tons per year (Sixta, 2006), the annual quantity of GLD
+generated globally ranges
+from 0.5 to 1.3 million tons. Most of globally generated GLD is
+currently landfilled (Manskinen,
+2013; Pöykiö et al., 2006a).
+Table 1 lists the two major lime fractions, their production amounts,
+and the currently used
+methods of disposal and reuse.
+
+Table 1.
+
+-1, and report a typical value for a Kraft mill to be 5-6 kg tpulp
+
+The main lime fractions, their quantities and current disposal, and
+reuse at the
+pulp mill.
+
+Lime fraction
+Lime mud
+
+Quantity
+About 0.5 ton per 1
+ton of pulp
+
+Reuse(s)
+Burning to CaO in lime kiln,
+disposal with GLD
+
+Slaker grits
+
+Small*, varies a lot Direct disposal, treatment and
+
+disposal with GLD
+
+Reference(s)
+Sun et al. (2013); Tikka
+(2008); Wirojanagud et al.
+(2004)
+Sanchez (2008); Sanchez and
+Tran (2005)
+
+*Loss of alkali with slaker grits may correspond to about 0.02 % of the
+total alkali in the recovery cycle (Sanchez, 2008)
+
+OHCHOOHCOSOHNaClOSOHNaClOOHCH222432423375.15.0)(39692
+
+[#7]#Page 7#
+
+
+
+6
+
+
+Out of the lime residues, only lime mud is available in considerable
+quantities. The amount of
+slaker grits typically increases when the quality of the burned lime is
+poor (Sanchez, 2008).
+
+The amount of recovery boiler ESP salt generated at pulp mills is
+relatively small, and statistics
+are not available. The ESP salt produced in recovery boilers represents
+only a very small proportion
+of all ashes generated in the industry: earlier studies have reported
+the share of ESP salt to be about
+1 % of the total ash production (Elliot and Mahmood, 2006).
+
+The production of one ton of ClO2 (Eq. (4)) generates 1.35 tons of
+sodium sesquisulfate
+Na3H(SO4)2, which is often neutralized with NaOH to obtain 1.46 tons of
+Na2SO4 (Thompson et
+al., 1995). Alternative processes for chlorine dioxide production, for
+instance a H2O2 based process
+have been developed to reduce the environmental impacts (Burke et al.,
+1993; Chen et al., 2004;
+Crump et al., 1998; Qian et al., 2007).
+
+
+3.3. Composition of residues
+
+The composition of the inorganic residues varies between mills and by
+time. The elemental and
+mineralogical compositions of the residues are discussed below.
+
+
+3.3.1. Green liquor dregs
+
+Green liquor dregs are separated from green liquor as a thick slurry or
+cake: the moisture content
+varies from less than 60 to about 70 w-% (Matilainen et al., 2014). The
+main solid compounds in
+GLD are calcium carbonate CaCO3, magnesium hydroxide Mg(OH)2, carbon,
+and metal sulfides,
+especially FeS (Sanchez and Tran, 2005; Jia et al., 2014). The liquid
+phase contains alkaline
+compounds, such as Na2CO3 and NaOH, which are responsible for the high
+pH. From the
+economical point of view it is important that these alkaline compounds
+are recovered by GLD
+washing (Tikka, 2008).
+
+Martins et al. (2007) have characterized dried GLD with different
+methods. The main elements in
+the oven-dried solids in decreasing order were Ca, O, Mg, Na, Fe, S, Mn,
+Si, Al, K, and P. The
+most abundantly present mineral phase was calcite, typically present
+with some associated Mg
+content, i.e. Ca1-xMgxCO3. In calcined samples, the most abundant phases
+were, correspondingly,
+Ca1-xMgxO and MgO. Thermogravimetric analysis revealed the presence of
+gipsite CaSO4∙2H2O,
+which started to degrade at low temperatures, and calcite, which was
+calcined at 700-1000 °C.
+Rothpfeffer (2007) reports average concentrations of different metals
+and phosphorus in the GLD
+of a large number of samples collected from three mills, determined with
+inductively coupled
+plasma mass spectrometry (Table 2).
+
+
+
+
+
+[#8]#Page 8#
+
+7
+
+
+
+Table 2.
+
+Mean concentrations of different metals and phosphorus in the GLD of
+three sulfate
+pulp mills (Rothpfeffer, 2007), classified into major (g kg-1) and minor
+(mg kg-1)
+elements.
+
+Minor (trace) elements (< 1000 mg kg-1)
+Element Mean concentration
+
+Major elements (≥ 1 g kg-1)
+Element Mean concentration
+
+Al
+Ca
+K
+Mg
+Mn
+Na
+P
+Zn
+
+
+
+
+(g kg-1)
+5.3
+253
+3.1
+30
+12
+35
+3.8
+1.0
+
+
+
+
+
+Confidence
+interval (g kg-1)
+1.6
+28
+0.9
+5.7
+2.3
+10
+0.9
+0.16
+
+
+
+
+As
+B
+Ba
+Cd
+Co
+Cr
+Cu
+Mo
+Ni
+Pb
+V
+
+(mg kg-1)
+0.3
+634
+523
+9.4
+74
+118
+102
+1.7
+84
+13
+1.9
+
+Confidence
+interval (mg kg-1)
+0.06
+8
+96
+2.1
+13
+20
+20
+0.6
+12
+2.5
+0.4
+
+
+
+3.3.2. Lime residues
+
+The two major lime kiln residues exist in the slurry form as lime mud
+and slaker grits. Both these
+residues consist of CaCO3, CaO and various impurities. Previous research
+has typically focused
+only on lime mud, and to some extent on slaker grits (Tikka, 2008).
+
+According to the mineralogical characterizations performed by Martins et
+al. (2007), CaCO3
+accounts for approximately 90 % of the mineral phases in lime mud.
+Gypsum (< 4 w-%) in the
+dihydrate form CaSO4∙2H2O is also present. However, the calcium
+carbonate content in lime mud
+seems to be higher than 90 % at most mills. Bharathi et al. (2013)
+report CaCO3 contents of 92-95
+w-%, and Tran (2008) extends the upper limit to 97 w-%, listing also
+other elements, such as Mg,
+Si, Al, Fe, P, Na, K, and S, which are present in various forms in small
+amounts. Martins et al.
+(2007) report that, unlike lime mud, slaker grits contain considerable
+quantities of Ca2SiO4 (almost
+30 w-%), CaNa2(CO3)2∙2H2O (about 20-30 w-%), Ca(OH)2 (12 %), and also
+2-4 % of Mg(OH)2.
+As above in the case of GLD, the high percentage of Si- and
+Na-containing mineral phases does
+not mean that Si and Na are actually present in proportionally high
+quantities.
+
+The moisture content of slaker grits is typically about 24 w-%, the Ca
+and Na contents are slightly
+below 400 g kg-1 and 30 g kg-1, respectively, and the concentrations of
+other elements are below
+10 g kg-1 each (Li M.A. et al., 2012).
+
+
+3.3.3. Recovery boiler ESP salt
+
+The composition of recovery boiler fly ash, i.e. recovery boiler ESP
+salt, differs significantly from
+that of other boilers. While conventional biomass boilers generate
+mainly metal oxides, the
+recovery boiler generates sodium sulfate Na2SO4 and sodium carbonate
+Na2CO3 as the main
+components, accounting for approximately 80-85 w-% and 8-15 w-%,
+respectively (Monte et al.,
+2009; Sretenovec, 2012). Other salts, e.g. K2SO4, NaCl, and K2CO3 may be
+present at lower
+
+[#9]#Page 9#
+
+
+
+8
+
+Current separation practices
+
+quantities (Sthiannopkao and Sreesai, 2009; Sretenovec, 2012). The
+concentration of K is typically
+2-7 w-% (Mikkanen et al., 1999; Johansson, 2005).
+
+
+3.3.4. Salt cake from chlorine dioxide production
+
+The salt cake produced in the chlorine dioxide generator consists mainly
+of sodium sesquisulfate
+and sulfuric acid. The wet cake may also contain low concentrations of
+other reaction chemicals
+and products (Eq. (4)), and probably traces of intermediate products
+(Burke et al., 1993).
+
+
+4.
+
+4.1. Washing and filtration of green liquor dregs
+
+There are three main goals in green liquor treatment: the separation of
+dregs from green liquor, the
+treatment of dregs to an appropriate quality for disposal, and
+decreasing the temperature of green
+liquor for recausticizing (Tikka, 2008). Previous studies (Mattsson and
+Richards, 2009; Sedin and
+Theliander, 2004) have shown that the separation of dregs from green
+liquor is difficult in practice.
+Fig. 3 shows the conventional process sequences for the separation of
+GLD.
+
+
+4.1.1. Separation of dregs from green liquor
+
+Dregs are separated from green liquor by sedimentation or filtration,
+which is often followed by a
+washing and dewatering stage, to minimize the impact of the disposed
+dregs on the environment
+and to recover valuable alkaline compounds (Empie Jr et al., 1999;
+Mattsson and Richards, 2009;
+Theliander, 2008). Dregs are removed as the underflow at the consistency
+of 2-5 w-%, while the
+green liquor overflow contains 60–100 mg L-1 of suspended solids.
+Flocculants can be used in
+order to obtain faster and more efficient separation (Sanchez and Tran,
+2005; Taylor, 2013).
+Sometimes a specially designed sludge blanket clarifier, where the
+slurry is fed beneath a
+flocculated sludge layer, is used to operate at a high capacity, which,
+however, requires plenty of
+flocculants (Ives, 1968; Tikka, 2008).
+
+Gelatinous magnesium silicate Mg2(Si1-xAlx)O4 is known to reduce the
+settling rate. A high level
+of magnesium in black liquor, originating from oxygen delignification,
+may cause slow settling
+(Taylor, 2013; Taylor and McGuffie, 2007; Ulmgren, 1987). However, the
+addition of magnesium
+salt helps to precipitate aluminum with hydrotalcite (Ulmgren, 1987),
+but causes formation of
+adverse magnesium silicate (Taylor, 2013). Additionally, low temperature
+and high concentration
+of
+the crystallization of pirssonite
+(Na2Ca(CO3)2∙2H2O), which causes a higher loss of sodium with the dregs
+(Zakir et al., 2013).
+
+Filtration systems have become more popular in primary clarification,
+because they have a better
+separation efficiency and are more tolerant to process variations. Tube,
+cassette and cross-flow
+filters are applied commonly in the primary removal of GLD, while
+(hyperbaric) precoat disc
+filters and chamber filter presses excel in the separation and washing
+of dregs (Sanchez and Tran,
+
+titratable alkali
+
+total
+
+in green
+
+liquor
+
+leads
+
+to
+
+[#10]#Page 10#
+
+
+
+9
+
+2005; Theliander, 2008; Tikka, 2008). The filter medium is in all cases
+cleaned with water, but it
+can be also washed by acid, or replaced with a new one at certain
+intervals (Theliander, 2008;
+Tikka, 2008). Lime mud is used as the precoat material when dregs are
+separated with rotary disc
+filters (Tikka, 2008), due to the very poor filterability of the dregs
+sludge. The average specific
+cake resistance without a precoat is typically about 1013 m kg-1, and
+increases with pressure
+(Theliander, 2008), which indicates a compressible cake (Svarovsky,
+1981). In disc filters, the
+formed cake is washed if needed and dewatered by displacement of liquid
+by gas, and finally
+removed by a scraper mechanism (Theliander, 2008; Wakeman and Tarleton,
+1999). Aluminum
+sulfate or lime mud can be added into the smelt dissolving tank to
+improve the separation (Taylor,
+2013; Sedin and Theliander, 2004).
+
+
+4.1.2. Washing and dewatering of dregs sludge
+
+When clarification and cross-flow filtration techniques are used for the
+clarification of green
+liquor, the resulted dregs sludge has to be washed to recover the
+soluble alkali by using secondary
+clarifiers, vacuum filters or pressure filters. The approximate ratio of
+water to dregs in washing
+clarifiers is 12:1. The removed dregs from washing clarifiers should be
+dewatered by filtration or
+centrifugation before landfilling (Sanchez and Tran, 2005; Tikka, 2008).
+In earlier dregs handling
+systems, a clarifier followed by a rotary vacuum filter was applied
+(Theliander, 2008).
+
+According to the literature (Sanchez and Tran, 2005; Tikka, 2008), the
+vacuum precoat filter uses
+less water, but has a higher loss of alkali in comparison with the
+washing clarifier. The lime mud
+requirement is 1 to 2 times the mass of separated dregs, so the precoat
+is a surplus to the amount
+of cake to be landfilled. The use of filter presses to squeeze the dregs
+at a high pressure helps to
+minimize the quantity of cake. Decanter centrifuges can also be
+effectively utilized for the
+separation of dregs.
+
+
+4.2.
+
+After the causticizing reaction, the formed lime mud has to be separated
+from white liquor, to
+recover alkali, to separate potential impurities, and to enable
+energy-efficient operation of the lime
+kiln (Parthasarathy and Krishnagopalan, 1999; Tikka, 2008; Tran and
+Vakkilainen, 2007).
+Removal of NPE from the recovery cycle is important in order to maintain
+the quality of the lime
+mud, which is necessary for trouble-free operation of the lime mud
+separation units and the lime
+kiln (Tikka, 2008; McGuffie and Taylor, 2007). Additionally, the sulfur
+(TRS) emissions of the
+lime kiln can be reduced by lime mud washing (Das and Jain, 2001).
+Sedimentation and filtration
+are most typically applied at this stage. The dewatered lime mud can be
+dried by using e.g. a flash
+mud dryer before sending to the lime kiln (Järvensivu et al., 1999; Lee
+et al., 2006; Tran and
+Vakkilainen, 2007).
+
+
+4.2.1. Separation of lime mud
+
+The conditions in the slaking and causticizing process have an effect on
+the separation of lime
+mud. Factors such as temperature, lime dosage, speed of the stirrer and
+residence time affect the
+
+Separation of lime residues
+
+[#11]#Page 11#
+
+
+
+10
+
+sedimentation rate of lime (Theliander and Gren, 1987). The results of
+the study of Theliander and
+Gren showed that a longer residence time and an increased lime dosage
+resulted in a slower settling
+rate. The quality of lime has an important role as well. The
+clarification process has been described
+in close detail in the literature (Quesada, 2003; Theliander and Gren,
+1987; Tikka, 2008). The
+solids content of lime mud, i.e. the clarifier underflow, is usually
+between 35 and 40 w-%. The
+concentration of alkali in separated lime mud can reach 20 % of white
+liquor production, so
+washing in another clarifier is often performed prior to final
+dewatering with a filter.
+
+The most typically used filters, i.e. candle and disc filters, are
+relatively similar to those used in
+green liquor handling (Sixta, 2006; Theliander, 2008). In a candle
+filter, the lime mud solids remain
+on the outer surface of the filter cloth and build up a cake of
+sufficient thickness. The filtration
+elements are back-flushed to remove the cake and to keep the pores of
+the filter medium open.
+Dilution washing in a separate tank is applied for the recovery of
+remaining alkali from the cake,
+and the suspension is filtered again with either a candle filter or a
+belt-type filter (Tikka, 2008;
+Wakeman and Tarleton, 1999). As in the case of clarifiers, the suspended
+solids content of washed
+lime mud slurry is 30-35 w-%, and has to be reduced prior to calcining
+(Tikka, 2008). Pressurized
+disc filters are more complex, with higher power consumption than
+clarifiers, but their separation
+efficiency and water requirement are better (Tikka, 2008; Theliander,
+2008; Sixta, 2006). As a
+summary, the solid content of lime mud varies from 35 to 70 w-%,
+depending on the equipment
+used.
+
+According to Tikka (2008), a final solid content of up to 80-90 w-% is
+expected for dewatered
+lime mud, and the concentration of water-soluble alkali as NaOH, on a
+dry basis, should be under
+0.15 w-%. The approximate solid load is 5–7 t m-2 d-1 when a lime mud
+precoat layer of 10-15 mm
+is applied (Sixta, 2006; Theliander, 2008; Tikka, 2008). The average
+specific cake resistance is
+relatively low, typically < 1010 m kg-1, and the cake is slightly
+compressible (Ek et al., 2009).
+Based on the wash curve presented by Eriksson et al. (1996), the wash
+ratio has to be quite high,
+probably higher than 2, to obtain the target level of NaOH content. The
+filtrate of the lime mud
+washing step is called weak white wash (liquor) and is reused in the
+smelt dissolver, while only
+the surface layer of the cake is scraped off. After dewatering, lime mud
+can be dried further by
+flue gas in a lime mud drier and sent to the lime kiln (Järvensivu et
+al., 2001a).
+
+Problems in lime mud filtration can occur due to a high silica content
+and formation of
+aluminosilicate (Tran and Vakkilainen, 2007; McGuffie and Taylor, 2007;
+Taylor and Bossons,
+2006). It has also been observed that the level of the TRS emissions of
+the lime kiln correlates with
+the residual alkali, and can be reduced by efficient lime mud filtration
+(Järvensivu et al., 1999;
+Järvensivu et al., 2001a,b).
+
+
+4.2.2. Separation of slaker grits
+
+In the slaker, the heavy and relatively coarse insoluble grits settle on
+the bottom and are removed
+e.g. with an inclined screw conveyer, which may be equipped with a
+washing mechanism (Sixta,
+2006; Tikka, 2008). The slaked lime is collected as the overflow and
+pumped to the causticizer
+train. The pH of washed grits may increase by time, due to slow slaking
+of residual lime (Sanchez
+
+[#12]#Page 12#
+
+
+
+11
+
+Electrostatic precipitation and treatment of recovery boiler salt
+
+and Tran, 2005). Slaker grits can also be ground with a ball mill or a
+hammer mill and reused in
+the lime slaker or on the GLD filter as a precoat (Sanchez and Tran,
+2005).
+
+
+4.3.
+
+4.3.1. Electrostatic precipitation
+
+The ESP is a conventional particulate control system, where an
+electrical field is applied to collect
+electrically charged particles. The typical concentration range of
+collected fine (0.2-1 µm) dust is
+5-15 g m-3 of flue gas (Hupa, 1993), and the separation efficiency is
+often over 99 % (Lind et al.,
+2006). Electrostatically separated fly ash is typically mixed with black
+liquor and re-burned in a
+recovery boiler. Typically about 10 % of the sodium in black liquor
+remains in this fly ash
+circulation, and only a small proportion of sodium and sulfur leaves the
+process (Hupa, 1993).
+
+
+4.3.2. Treatment processes
+
+The ESP ash can be treated either periodically or continuously in order
+to lower the levels of NPE
+in the recovery cycle to prevent operational problems, such as plugging
+of the recovery boiler due
+to the reduced melting point of the solid deposits (Hart et al., 2010;
+Brown et al., 1998; Jaretun
+and Aly, 2000) and accelerated corrosion of the recovery boiler (Rapp
+and Pfromm, 1998a; Jaretun
+and Aly, 2000; Minday et al., 1997). The most potential ESP ash
+treatment techniques are
+introduced below.
+
+
+Ion exchange has become an attractive technique for ESP ash treatment.
+The commercial Recoflo
+system, described e.g. by Brown et al. (1999), is often used. This
+technology utilizes amphoteric
+fine resins, short columns, high flow rates, and very short cycle times
+for the selective separation
+of chloride. The ash is dissolved in water to form a concentrated
+solution. The mixture is filtered
+in a pressure pulse filter to separate the insoluble solids, and the
+filtrate is treated in a salt separation
+unit, where NaCl is adsorbed by the resins. The purified solution of
+Na2SO4/Na2CO3 is pumped
+back to the recovery cycle. Ion exchange is efficient at chloride
+removal, has relatively low costs
+and a small footprint. However, the process is not efficient in
+potassium removal and may suffer
+from bed plugging in the mill environment (Johansson, 2005).
+
+ Leaching
+The target of ESP ash leaching is to dissolve chloride and potassium and
+prevent the dissolution
+of sodium. In an industrial case, reductions of over 50 % in the
+recovery cycle have been reported
+for Cl and K (Hart et al., 2010), and the loss of soda inevitably
+increases with the reduction of NPE
+(Saturnino, 2012). The weight ratio of ESP ash to warm water is varied
+from 1.2 to 1.6. After
+leaching, the resulted slurry is centrifuged to separate solids enriched
+by Na2SO4. The moisture
+content of the centrifuged ash is less than 10 w-%. In comparison to the
+ion exchange process,
+leaching is more simple and less expensive (GonCalves et al., 2008; Hart
+et al., 2010; Johansson,
+2005). The addition of spent sulfuric acid can be used for the
+conversion of Na2CO3 to Na2SO4,
+but it causes corrosion and plugging of pipelines in the installation
+(Jaretun and Aly, 2000). The
+
+Ion exchange
+
+[#13]#Page 13#
+
+
+
+12
+
+ash leaching process has been commercialized by a few equipment
+manufacturers, e.g. Metso and
+Andritz.
+
+ Crystallization
+In the evaporation/crystallization process, the ESP ash is dissolved in
+excess of water or
+condensate, using a low ash/water ratio. Crystals of Na2SO4 are formed
+by subsequent vacuum
+evaporation, followed by separation in a filter or centrifuge, to
+produce solids with a moisture
+content of 15-25 w-%. The method is relatively expensive and complicated
+(Johansson, 2005;
+Minday et al., 1997). The second alternative, freeze crystallization, is
+a fairly efficient technique,
+but also expensive (Johansson, 2005).
+
+ Electrodialysis
+The electrodialysis process may be a combination of a pre-concentration
+step, electrodialysis, and
+crystallization via vacuum evaporation (Rapp and Pfromm, 1998a). The ash
+is first dissolved in
+water or a condensate before feeding to the electrodialysis unit, which
+consists of dilute and
+concentrate cells, separated by anion- and cation-exchange membranes
+(Pfromm, 1997a,b). The
+separation takes place in the electric field as described by Rapp and
+Pfromm (1998b).
+Electrodialysis is a relatively uneconomical technique, in particular
+when pretreatment is required
+to prevent fouling (Rapp and Pfromm, 1998a; Boudihel and Benslimane,
+1997).
+
+
+4.4.
+
+Sodium sesquisulfate cake is typically separated in the chloride dioxide
+generator by filtration.
+The existing scientific literature does not provide details about
+solid-liquid separation at this stage.
+
+
+5.
+
+Landfill disposal is the prevailing method for the disposal of dregs,
+lime mud and slaker grits. The
+most potential alternatives for landfill disposal, as well as the
+treatments required to enable the
+utilization, are discussed in this section and summarized in Fig. 4.
+
+
+5.1.
+
+The reuse of inorganic residues at a pulp mill has been a good option
+for decades. The high degree
+of loop closure has made reuse at the mill more challenging.
+
+
+5.1.1. Criticality of non-process elements
+
+Loop closure results in the concentration of non-process elements (NPE)
+in the recovery cycle
+(Patrick et al., 1994). Elements forming insoluble compounds with either
+green liquor or white
+liquor (Table 3) are removed from the cycle with various inorganic
+residues, such as GLD, lime
+mud and slaker grits, while elements with high solubility in the process
+liquors are removed with
+
+Methods and requirements for utilization
+
+Separation of sodium sesquisulfate
+
+Reuse at the pulp mill
+
+[#14]#Page 14#
+
+
+
+13
+
+recovery boiler fly ash, and to some extent with lime kiln ESP dust.
+According to the literature
+(Ulmgren, 1997; Manskinen et al., 2011; Lundqvist, 2009; Taylor, 2007;
+Taylor and McGuffie,
+2007; Taylor and Bossons, 2006; Park and Englesos, 1998; Ellis and
+Johnson, 2011), the problems
+caused by NPE include scaling (Al, Si, Ca, Ba), corrosion (K, Cl, Mg),
+plugging of the recovery
+boiler (K, Cl), increase of lime kiln dead load (Mg, P, Al, Si), poor
+lime and lime mud quality,
+plugging of filters (Si, Al, Ca), effects on bleaching (e.g. Mn, Fe,
+Cu), and environmental impacts
+due to nutrients and hazardous trace elements.
+
+Table 3. Alkali solubility and removal of different non-process elements
+from the recovery
+
+cycle, according to Törmälä and Markusson (2013), Ulmgren (1997), and
+Doldan et al.
+(2011).
+
+Non-process element
+
+Cl, K
+Ca, Mg, Mn, Fe, Ba, etc.
+Al
+Si
+P
+
+Solubility in
+green liquor
+high
+low
+medium
+high
+high
+
+Solubility in
+white liquor
+high
+low
+medium
+medium
+low
+
+Primary sink(s), excl. waste water
+
+Recovery boiler fly ash
+GLD, lime residues
+GLD, lime residues
+Lime mud, lime kiln ESP dust
+Lime mud, lime kiln ESP dust
+
+
+
+5.1.2. Green liquor dregs: waste treatment applications
+
+Pöykiö et al. (2006a) used GLD for the liming of the acidic wastewater
+of a chemical pulp mill. In
+comparison with the liming capacity of a commercial lime product, the
+results were excellent: 0.96
+tons of GLD corresponded to one ton of the commercial ground limestone
+typically used for the
+neutralizing purpose. According to Pöykiö et al. (2006a), Stora Enso
+Veitsiluoto mill in Kemi,
+Finland, started to test the use of GLD for wastewater neutralization in
+1990, and proceeded to
+continuous use in 2004, when about half of GLD was utilized. The
+utilization of GLD has enabled
+cost savings, but has increased the (heavy)metal concentrations in the
+mill effluents and in the
+biosludge. Therefore, the system is not economically applicable at
+inland mills located by fresh
+water. The neutralization of wastewater by GLD may also cause
+operational problems by increased
+recirculation of NPE as a result of burning the wastewater sludge in the
+recovery boiler.
+
+Zambrano et al. (2010) performed composting experiments with Kraft mill
+secondary sludge, by
+using GLD as a pH-stabilizing additive. Their results show that the
+sufficient dosage of dregs is 5-
+8 w-%, and that this amount does not hinder the microbial degradation of
+organic matter.
+
+UPM Kymmene Oyj, Finland, has patented (pat. numbers FI 117125 and SE
+528884) a process
+for sulfur removal from flue gases by contacting the flue gas with the
+green liquor sludge.
+However, the process is not apparently used in production scale
+currently.
+
+
+
+
+
+
+
+[#15]#Page 15#
+
+
+
+14
+
+5.1.3. Lime residues: various applications
+
+The most typical on-site application of lime mud and slaker grits is the
+use as precoat material in
+the GLD filter. The details of this option were discussed above in
+Section 4. Lime and limestone
+are, however, multipurpose materials with many potential applications at
+the mill.
+
+A recent review article written by Zhang et al. (2014a) summarizes the
+current methods of lime
+mud utilization. The three most interesting applications mentioned by
+Zhang et al. (2014a)
+regarding on-site applications of lime mud are 1) neutralization of
+acidic wastewaters, 2)
+production of precipitated calcium carbonate (PCC), described by Huege
+(1998), and 3)
+desulfurization of flue gas, discussed in closer detail by Li Y. et al.
+(2012). Leaching of hazardous
+trace elements from lime residues should be taken into account when
+planning the method of
+utilization.
+
+Li M.A. et al. (2012) investigated the use of lime mud for neutralizing
+the acidic wastewater of the
+main sewer sump of the AP Maryvale pulp mill in Australia. The
+dissolution of grits was slow: the
+pH was increased only by 0.2 units during the normal residence time of
+40 minutes, and it was
+therefore concluded that the use of grits is not reasonable in practice,
+because a significant lime
+addition was still necessary to obtain the target level of pH 6.
+
+The production of PCC, which can be used as a coating pigment in an
+integrated paper mill, is
+possible by using lime kiln dust as the raw material. The CaO in lime
+kiln dust is first hydrated to
+form Ca(OH)2, which is subsequently precipitated as CaCO3 by using
+carbon dioxide (Huege,
+1998). Quite similarly, all lime residues containing CaO can be regarded
+as potential carbon
+capture chemicals which can be used to remove CO2 from the flue gases of
+the recovery boiler and
+lime kiln by simple carbonation (Bobicki et al., 2012; Sun et al.,
+2013). However, it should be
+considered carefully whether it makes sense to use great quantities of
+energy to calcine CaCO3 to
+CaO in the lime kiln, and to carbonate the costly lime back to the less
+valuable CaCO3.
+
+Li Y. et al. (2012) compared calcined lime mud with commercial calcined
+limestone in flue gas
+desulfurization. The results obtained with lime mud were better than
+those obtained with
+commercial limestone in the same conditions, which can for the most part
+be explained by the
+higher specific surface area and near-optimal pore size of the calcined
+lime mud. Additionally, the
+good desulfurization capacity of lime mud may also be explained by its
+impurities, such as Na2CO3
+(Laursen et al., 2003).
+
+When the pulp mill operates as a biorefinery, lime mud can be used as an
+adsorbent to remove
+impurities from various liquids, such as biomass hydrolysates. Shen et
+al. (2011) investigated a
+process where lime mud was mixed with wood chip prehydrolysate,
+separated by filtration, and
+calcined then in the lime kiln as usual.
+
+
+5.1.4. Recovery boiler ESP salt: source of Na and S
+
+The primary value of recovery boiler ESP salt lies in its high sodium
+sulfate content, which makes
+it a good source of Na and S. The washed ESP salt is returned to the
+process by mixing it with
+
+[#16]#Page 16#
+
+
+
+15
+
+black liquor. Recovery efficiencies of 63 and 68 % were obtained for Na
+and S, respectively, when
+90 % of Cl and 82 % of K were removed by the leaching of ESP salt at the
+Aracruz mill in Brazil
+(GonCalves et al., 2008). Hart et al. (2010) report that over 50 %
+removal of Cl and K, and a soda
+recovery of over 80 % has been obtained at MWV’s Evadale mill in TX,
+USA.
+
+
+5.1.5. Sodium sesquisulfate: source of Na, S, NaOH and H2SO4
+
+The salt cake obtained from the ClO2 generator is often mixed with black
+liquor to recover sodium
+and sulfur, but the current trend seems to be towards disposal after
+neutralizing with NaOH
+(Bucher et al., 2009; Burke et al., 1993). Alternatives to disposal have
+been developed, for instance
+production of Na2SO4 and H2SO4 by metathesis (Thompson et al., 1995),
+and production of NaOH
+and H2SO4 by bipolar membrane electrodialysis, as discussed in detail by
+Paleologou et al. (1997).
+Another potential option of H2SO4 separation is the short-bed ion
+exchange process introduced by
+Bucher et al. (2009), which enables the Na2SO4 to be utilized in the
+pulping process and the sulfuric
+acid to be reused e.g. for pH adjustment at the bleaching plant.
+
+
+5.2. Utilization as bulk chemicals in other industrial applications
+
+The high buffering capacity of green liquor dregs makes them suitable
+for using as an alkaline
+barrier in the sealing of mine wastes generating acidic waters (Jia et
+al., 2013, 2014; Mäkitalo et
+al., 2014; Ragnvaldsson et al., 2014). The oxidation of sulfidic mine
+waste generates acid rock
+drainage (ARD), which causes serious hazards for the environment by the
+mobilization of great
+amounts of metals and semi-metals. A cover of soil is typically used on
+mining wastes in order to
+prevent oxidation and the resulting ARD formation. Mäkitalo (2012)
+reports that GLD has good
+potential as a cover for mining residues, due to its high water
+retention capacity and low hydraulic
+conductivity, which helps to prevent the water percolation and oxygen
+transport to the depth of the
+mine waste. In addition to GLD, other alkaline wastes like fly ash and
+lime mud from pulp mills
+have the potential to be utilized for this purpose (Mäkitalo et al.,
+2014). In fact, inhibition of ARD
+by the use of alkaline residues could solve two waste disposal problems
+at the same time (Mäkitalo,
+2012).
+
+Lime mud and recovery boiler ash can be used for removing heavy metals
+from the acidic
+wastewaters of the metal industry by sorption and precipitation
+(Sthiannopkao and Sreesai, 2009;
+Wirojanagud et al., 2004). The good efficiency of calcite for this
+purpose is well documented in
+the literature (Garcıa-Sánchez and Alvarez-Ayuso, 2002). In the case of
+recovery boiler ash, which
+contains significant amounts of highly soluble salts, heavy metals are
+most likely removed
+primarily by precipitation, and the removal efficiency is lower than
+that of lime mud (Sthiannopkao
+and Sreesai, 2009).
+
+Lime has been successfully used for microbial and physical stabilization
+of domestic sewage
+sludge (Valderrama et al., 2013). Among pulp mill residues, only lime
+kiln dust and possibly also
+the mechanically removed lime kiln residue provide CaO with some
+reactivity, which reduces the
+possibilities to stabilize sludges with pulp mill residues in a large
+scale.
+
+
+[#17]#Page 17#
+
+
+
+16
+
+Production of value-added products and materials
+
+The only potential heavy industrial application of the major pulp mill
+residues, not dealing with
+the treatment of other industrial wastes, seems to be the improvement of
+anaerobic bioprocesses
+by lime mud addition, to provide nutrients and pH buffering capacity.
+The topic has been
+investigated by Zhang et al. (2014b), who conclude that the lime mud
+addition of 10 g L-1 is optimal
+for increasing biogas production from wood waste. Zhang et al. (2013)
+report that hydrogen
+production by bacteria is also facilitated by lime mud, the optimum
+dosage being 15 g kg-1.
+
+
+5.3.
+
+5.3.1. Fertilizers and soil amendments
+
+Harvesting trees results in a loss of nutrients from the forest
+ecosystem. These lost nutrients, in
+particular base cations, can be found in alkaline inorganic solid
+residues of Kraft mills. Returning
+these residues to the ecosystem is beneficial both ecologically and
+economically, regarding the
+decreased need for landfilling (Mahmoudkhani et al., 2004). Due to the
+increases in disposal fees,
+tougher legislation and limitations of landfill lifespan, the use of
+pulp mill residues to maintain the
+fertility of agricultural soils has been evaluated regarding the
+utilization of lime mud, green liquor
+dregs, slaker grits, and lime kiln waste (Mahmoudkhani et al., 2004; He
+et al., 2009; Cabral et al.,
+2008; Gagnon and Ziadi, 2012; Pöykiö et al., 2006b). Alkaline industrial
+residues may prevent the
+acidification of soils and can be an alternative for chemical
+fertilizers in the future (Mäkelä et al.,
+2012). The recirculation of inorganic pulp mill residues to the forest
+requires knowledge of their
+leaching properties. The Na and K salts in pulp mill residues are easily
+soluble, while Ca and Mg
+salts have limited solubility (Mahmoudkhani et al., 2004). GLD and lime
+mud also contain heavy
+metal constituents such as Cd, Cu and Zn, which are hazardous to the
+environment (Österås et al.,
+2005). In Finland, an environmental permit is required for the use of
+the residues from Kraft mills
+as forest fertilizers. The Finnish limits, which came into force in
+March 2007, determine the
+maximum allowed concentrations of hazardous trace elements, such as As,
+Cd, Cr, Cu, Ni, Pb, Zn
+and Hg in forest fertilizers (Dahl et al., 2009; Manskinen et al.,
+2011). The concentrations of
+hazardous trace elements in GLD and slaker grits, reported by Manskinen
+et al. (2011) and
+Nurmesniemi et al. (2010), respectively, were lower than the Finnish
+statutory limit values for
+forest fertilizers.
+
+Inorganic residues containing calcite can be utilized for the production
+of synthetic gypsum
+(mainly dihydrate). In addition to other extensive industrial use of
+gypsum, it is utilized as a
+fertilizer (Strydom et al., 1995). Gypsum could possibly be precipitated
+for fertilizing applications
+by reacting sulfuric acid obtained (or separated) from the sesqui salt
+with calcite, such as lime
+mud, as demonstrated with pure calcite and H2SO4 by Bard and Bilal
+(2011).
+
+
+5.3.2. Construction materials, ceramics and catalysts
+
+According to the amended frame introduced by the European Council Waste
+Framework Directive
+in 2010, resource usage should be reduced by the waste policy. Besides
+this frame, the Finnish
+environmental legislation sets limitations for the hazardous components
+of waste materials used
+for earth construction. The low concentration of hazardous trace
+elements in slaker grits makes
+
+[#18]#Page 18#
+
+
+
+17
+
+them potentially suitable as earth construction materials instead of
+landfilling (Watkins et al.,
+2010). As an example, slaker grits can partially replace Portland cement
+in soil-cement bricks
+(Siqueira and Holanda, 2013). It has been shown that GLD and slaker
+grits can be used instead of
+conventional aggregates in bituminous mixtures: slaker grits can be used
+directly, while GLD
+requires a washing process to remove its soluble salts (Modolo et al.,
+2010). Besides grits and
+GLD, lime mud residues can also be potentially utilized in construction
+materials. The chemical
+compatibility of lime mud with the traditionally used materials enables
+it to be utilized as
+secondary raw material in the production of clinker/cement (Buruberri et
+al., 2015). Furthermore,
+lime mud is an appropriate alternative material for the stabilization of
+forest roads (Habip et al.,
+2006). As a mixture with biomass fly ash, lime mud can also be used in
+the fabrication of ceramics
+(Qin et al., 2015). The main drawback of utilizing these residues for
+the production of construction
+materials is that variations in the composition of the residues may
+cause serious variation in the
+quality of the products.
+
+Lime mud waste can also be applied as a heterogeneous catalyst in the
+transesterification reaction
+in biodiesel production (Li et al., 2014b). However, the raw lime mud
+has to be activated by a
+series of processes, such as drying, grinding, sieving, and calcination
+(Li et al., 2014a). In another
+method, lime mud is doped with potassium fluoride to prepare the
+heterogeneous catalyst. In this
+method, lime mud is first ground and activated at a high temperature. A
+certain proportion of
+activated lime mud is then mixed with the aqueous solution of potassium
+fluoride. This process is
+followed by drying and calcination of the resulted mixture (Li et al.,
+2014b). The economy of both
+processes is, however, questionable, so reuse at the pulp mill is most
+likely more feasible.
+
+
+6.
+
+The utilization potential of inorganic pulp mill residues as industrial
+chemicals and as raw
+materials for the manufacture of various products has been recognized.
+However, challenges still
+remain related to feasible industrial utilization. The globally
+generated amount of these wastes is
+most likely over one million metric tonnes per year. Green liquor dregs
+with the lime mud precoat
+provide the best possibilities for industrial utilization, due to their
+good availability. However,
+there are two important aspects which have to be taken into account when
+the possibilities for
+utilization are evaluated:
+
+
+Discussion
+
+1) The overall chemical balance of the mill, including the removal of
+non-process elements
+
+from the process, should not be negatively affected, and
+
+2) The variation in the chemical composition of the residues may cause
+occasional challenges
+regarding the allowable composition, such as concentration of hazardous
+trace elements
+and residual alkalinity.
+
+
+The removal of unwanted components from the materials before utilization
+increases the costs, but
+should be investigated in closer detail in the future from both
+technological and economical points
+of view in order to increase the feasibility of utilization. The removal
+of hazardous trace elements,
+in particular cadmium, is crucial for enabling utilization for
+fertilizing purposes. It is clear that the
+existing process equipment at the mills should be utilized to enable
+economical treatment, taking
+into consideration the overall water balance of the mill as well. The
+equipment applied for the
+
+[#19]#Page 19#
+
+
+
+18
+
+Conclusions
+
+separation and treatment of green liquor dregs, lime mud and recovery
+boiler fly ash are
+summarized in Table S1 (Supplemental material).
+
+It is apparent that the reuse of these waste materials will sooner or
+later be a more sustainable
+option than extensive landfill disposal. When it comes to large-scale
+applications, it seems that
+soil improvement and further refining of the residues to various
+fertilizers may be the most
+interesting options. The nutrient-rich composition of green liquor dregs
+with lime mud precoat is
+favorable for fertilizing applications. The carbonate content of this
+combined residue is also high,
+which is a benefit regarding slow enough liberation of the nutrients
+into the soil.
+
+The basicity of treated inorganic pulp mill residues is a positive
+feature when the product is used
+in areas where the natural pH of the soil is relatively low, as it is
+typically in Finland. Local use of
+residues as construction materials could also have some potential in the
+large scale. The current
+situation, however, is that there are hardly any applications where the
+residues are used outside the
+mill area.
+
+
+7.
+
+The separation, treatment and utilization of inorganic residues of
+chemical pulp mills have been
+discussed in this review. The main challenges in the utilization of the
+residues are related to the
+economical viability of the required treatment processes, as well as to
+maintaining the overall
+material balance of the mill. A few inorganic residues of chemical pulp
+mills have been identified
+as potential for value-added utilization. Only green liquor dregs and
+lime mud are available in
+significant quantities, which does not mean that the minor residues
+should be totally omitted when
+utilization opportunities are considered. The use of suitable separation
+techniques facilitates the
+purification of all these residues and helps increase the recovery of
+process chemicals. Hazardous
+trace elements and residual alkali are regarded as the main reasons why
+the abundantly available
+mixtures of green liquor dregs and lime mud precoat have not been widely
+utilized in the past. In
+spite of the current challenges of residue handling, previous academic
+studies have concluded that
+several applications for the residues can be found. Most of those
+applications are related to novel
+environmentally friendly technology, such as prevention of various
+discharges, improvement of
+bioprocesses, and replacement of traditional fertilizers and soil
+improvement chemicals in the
+agriculture. The inorganic pulp mill residues may be used as sustainable
+bulk chemicals outside
+the mill, provided that the transportation distance is relatively short.
+The production of value-added
+products, which requires the use of appropriate mechanical and chemical
+treatment techniques,
+seems to be more challenging to realize in the near future. It is
+apparent that the most promising
+large-scale applications for utilization, i.e. fertilizing and soil
+improvement, should be investigated
+more rigorously in the future. The related legislation should also be
+developed to maximize the
+obtainable environmental benefits.
+
+
+
+
+
+
+
+[#20]#Page 20#
+
+
+
+19
+
+Acknowledgements
+
+The authors would like to thank The Finnish Funding Agency for
+Technology and Innovation
+(Tekes) and the company members of the NSPPulp project for providing
+funding and knowledge
+for the article.
+
+
+References
+
+
+Andreola, R., Jorge, R.M.M., Santos, O.A.A. dos, Jorge, L.M. de M.,
+2011. Modeling, simulation, and analysis of a
+reactor system for the generation of white liquor of a pulp and paper
+industry. Braz. Arch. Biol. Technol. 54, 197–
+206.
+
+Azgomi, F., 2014. Impact of liming ratio on lime mud settling and
+filterability on the Kraft recovery process. Ph.D.
+thesis, University of Toronto, Canada.
+
+Bard, F., Bilal, E., 2011. Semi-batch precipitation of calcium sulfate
+dihydrate from calcite and sulfuric acid.
+Carpathian J. Earth Environ. Sci. 6, 241–250.
+
+Bharathi, B., Karthik, R., Salil, D., 2006. Advantages of fluidized bed
+calciner over lime kiln in Indian pulp mill
+context. Ippta 73, 25(1), 73-77.
+
+Bobicki, E.R., Liu, Q., Xu, Z., Zeng, H., 2012. Carbon capture and
+storage using alkaline industrial wastes. Prog.
+Energy Combust. Sci. 38, 302–320.
+
+Brown, C.J., Paleologou, M., Thompson, R., Jemaa, N., 1998. Chloride
+removal from kraft liquors using ion exchange
+technology. Presented at the TAPPI Pulping Conference, TAPPI Press, pp.
+1125–1136.
+
+Brown, C.J., Sheedy, M., Paleologou, M., Thompson, R., 1999.
+Ion-exchange technologies for the minimum effluent
+kraft mill. Pulp Pap. Can. 100, 31–36.
+
+Brown, K., Rastogi, L., 1983. Mathematical modeling and computer control
+of lime kilns. Presented at the American
+Control Conference, 1983, IEEE, pp. 1–6.
+
+Brunelle, T., Dumas, P., Souty, F., Dorin, B., Nadaud, F., 2015.
+Evaluating the impact of rising fertilizer prices on
+crop yields. Agric. Econ. 46, 1-14.
+
+Bucher, W., Crawile, D., Lockhart, J., Wearing, J., 2009. Commercial
+recovery of ClO2 generator sesquisulfate by-
+product using short column resin bed technology. Presented at the TAPPI
+Pulping Conference, TAPPI Press, pp. .
+
+Burke, M., Tenney, J., Indu, B., Hoq, M.F., Carr, S., Ernst, W., 1993.
+Kinetics of hydrogen peroxide-chlorate reaction
+in the formation of chlorine dioxide. Ind. Eng. Chem. Res. 32,
+1449–1456.
+
+Buruberri, L.H., Seabra, M.P., Labrincha, J.A., 2015. Preparation of
+clinker from paper pulp industry wastes. J.
+Hazard. Mater. 286, 252-260.
+
+Cabral, F., Ribeiro, H., Hilário, L., Machado, L., Vasconcelos, E.,
+2008. Use of pulp mill inorganic wastes as
+alternative liming materials. Bioresour. Technol. 99, 8294–8298.
+
+Chen, Y., Jiang, Y., Qian, Y., 2004. Process development and design of
+chlorine dioxide production based on hydrogen
+peroxide. Chin. J. Chem. Eng. 12, 118–123.
+
+[#21]#Page 21#
+
+
+
+20
+
+Crump, B., Ernst, W.R., Neumann, H., 1998. Influence of H2O2 on a
+chloride‐dependent reaction path to chlorine
+dioxide. AIChE J. 44, 2494–2500.
+
+Dahl, O., Nurmesniemi, H., Pöykiö, R., Watkins, G., 2009. Comparison of
+the characteristics of bottom ash and fly
+ash from a medium-size (32 MW) municipal district heating plant
+incinerating forest residues and peat in a fluidized-
+bed boiler. Fuel Process. Technol. 90, 871–878.
+
+Das, T.K., Jain, A.K., 2001. Pollution prevention advances in pulp and
+paper processing. Environ. Prog. 20, 87–92.
+
+Demir, I., Baspinar, M.S., Orhan, M., 2005. Utilization of kraft pulp
+production residues in clay brick production.
+Buil. Environ. 40, 1533-1537.
+
+Doldán, J., Poukka, O., Salmenoja, K., Battegazzore, M., Fernandez, V.,
+Eluén, I., 2011. Evaluation of sources and
+routes of non-process elements in a modern eucalyptus kraft pulp mill. O
+Pap. 72, 47–52.
+
+Edmondson, J.L., Davies, Z.G., Gaston, K.J., Leake, J.R., 2014. Urban
+cultivation in allotments maintains soil
+qualities adversely affected by conventional agriculture. J. Appl. Ecol.
+51, 880-889.
+
+Ek, M., Gellerstedt, G., Henriksson, G., 2009. Pulping chemistry and
+technology. Walter de Gruyter GmbH & Co.,
+Berlin.
+
+Elliott, A., Mahmood, T., 2006. Beneficial uses of pulp and paper power
+boiler ash residues. Tappi J. 5, 9.
+
+Ellis, M., Johnson, T., 2011. Liquor cycle optimisation at Australian
+Paper, Maryvale mill.
+
+Empie Jr, H.L., Ellis, M., Amundsen, M., 1999. Fundamentals of dregs
+removal. Project F01707, final report: a final
+progress report to the member companies of the Institute of Paper
+Science and Technology.
+
+Eriksson, G., Rasmuson, A., Theliander, H., 1996. Displacement washing
+of lime mud: tailing effects. Sep. Technol.
+6, 201–210.
+
+Eroglu, H.., Acar, H.H., Ucuncu, O., Imamoglu, S., 2006. Soil
+stabilization of forest roads sub-base using lime mud
+waste from the chemical recovery process in alkaline pulp mill. J. Appl.
+Sci. 6(5), 1199-1203.
+
+Finnish Forest Industries, 2013. Metsäteollisuuden ympäristötilastot
+vuodelta 2012, Metsäteollisuus Ry, Helsinki,
+Finland.
+
+Gagnon, B., Ziadi, N., 2012. Papermill biosolids and alkaline residuals
+affect crop yield and soil properties over nine
+years of continuous application. Can. J. Soil Sci. 92, 917–930.
+
+Garcıa-Sánchez, A., Alvarez-Ayuso, E., 2002. Sorption of Zn, Cd and Cr
+on calcite. Application to purification of
+industrial wastewaters. Miner. Eng. 15, 539–547.
+
+GonCalves, C., Tran, H., Braz, S., Puig, F., Shenassa, R., 2008.
+Chloride and potassium removal efficiency of an ash-
+leaching system. PULP Pap. Can.-Ont.- 109, 33.
+
+Hagemoen, S., 1993. An expert system application for lime kiln
+automation. Presented at the Pulp and Paper Industry
+Technical Conference, 1993, Conference Record of 1993 Annual, IEEE, pp.
+91–97.
+
+Hart, P.W., Lindström, M.E., Colson, G.W., Wiley, G.M., 2010.
+Nonprocess-element control in the liquor cycle using
+an ash leaching system. Tappi J. 9(7), 7-13.
+
+[#22]#Page 22#
+
+
+
+21
+
+He, J., Lange, C.R., Dougherty, M., 2009. Laboratory study using paper
+mill lime mud for agronomic benefit. Process
+Saf. Environ. Prot. 87, 401–405.
+
+Hill, M., Saviello, T., Groves, S., 2002. The Greening of a Pulp and
+Paper Mill: International Paper’s Androscoggin
+Mill, Jay, Maine. J. Ind. Ecol. 6, 107–120.
+
+Huege, F.R., 1998. Forming a suspension of a source of calcium oxide or
+hydroxide (lime kiln dust); hydration;
+settling; bubbling carbon dioxide through supernatant; settling. US
+Patent 5792440 A.
+
+Hupa, M., 1993. Recovery boiler chemical principles. In: Kraft Recovery
+Operations Short Course, Tappi Press,
+Atlanta, GA, 23–123.
+
+Ives, K., 1968. Theory of operation of sludge blanket clarifiers.
+Proceedings of the Institution of Civil Engineers,
+39(2), pp. 243–260.
+
+Jaretun, A., Aly, G., 2000. Removal of chloride and potassium from kraft
+chemical recovery cycles. Sep. Sci. Technol.
+35, 421–438.
+
+Jia, Y., Maurice, C., Öhlander, B., 2014. Metal Mobilization in Tailings
+Covered with Alkaline Residue Products:
+Results from a Leaching Test Using Fly Ash, Green Liquor Dregs, and Lime
+Mud. Mine Water Environ, 1–18.
+
+Jia, Y., Stenman, D., Mäkitalo, M., Maurice, C., Öhlander, B., 2013. Use
+of amended tailings as mine waste cover.
+Waste Biomass Valorization 4, 709–718.
+
+Johansson, U., 2005. Different methods for the purge of chlorides and
+potassium from electrostatic precipitator dust
+in the kraft mill. Dep. Chem Eng. 73.
+
+Järvensivu, M., Juuso, E., Ahava, O., 2001a. Intelligent control of a
+rotary kiln fired with producer gas generated from
+biomass. Eng. Appl. Artif. Intell. 14, 629–653.
+
+Järvensivu, M., Kivivasara, J., Saari, K., 1999. Field survey of TRS
+emissions from a lime kiln. Pulp Pap. Can. 100,
+28–31.
+
+Järvensivu, M., Saari, K., Jämsä-Jounela, S.-L., 2001b. Intelligent
+control system of an industrial lime kiln process.
+Control Eng. Pract. 9, 589–606.
+
+Keskinen, H., Engdahl, H., Beer, C., 1995. Falling film cross-flow
+filtration of green liquor opens a number of new
+opportunities in recausticizing. 1995 International Chemical Recovery
+Conference, Toronto, Canada, April 24-25,
+1995.
+
+Lee, G., Tosukhowong, T., Lee, J.H., Han, C., 2006. Fault diagnosis
+using the hybrid method of signed digraph and
+partial least squares with time delay: The pulp mill process. Ind. Eng.
+Chem. Res. 45, 9061–9074.
+
+Laursen, K., Kern, A.A., Grace, J.R., Lim, C.J., 2003. Characterization
+of the enhancement effect of Na 2CO3 on the
+sulfur capture capacity of limestones. Environ. Sci. Technol. 37,
+3709-3715.
+
+Lewis, C., Crocker, B., 1969. The Lime Industry’s Problem of Airborne
+Dust. J. Air Pollut. Control Assoc. 19, 31–
+39.
+
+Li, M.A., Johnson, B., Lopez, D., Wilks, R., 2012. Slaker grits disposal
+options. Presented at the 66 th Appita Annual
+Conference, Melbourne, Australia, April 15-18, 2012.
+
+[#23]#Page 23#
+
+
+
+22
+
+Li, Y., Sun, R., Zhao, J., Han, K., Lu, C., 2012. Sulfation behavior of
+white mud from paper manufacture as SO2
+sorbent at fluidized bed combustion temperatures. J. Thermal Anal.
+Calorim. 107(1), 241-248.
+
+Li, H., Niu, S., Lu, C., Liu, M., Huo, M., 2014a. Use of lime mud from
+paper mill as a heterogeneous catalyst for
+transesterification. Sci. China Technol. Sci. 57, 438–444.
+
+Li, H., Niu, S., Lu, C., Liu, M., Huo, M., 2014b. Transesterification
+catalyzed by industrial waste—Lime mud doped
+with potassium fluoride and the kinetic calculation. Energy Convers.
+Manage. 86, 1110-1117..
+
+Lind, T., Hokkinen, J., Jokiniemi, J.K., Hillamo, R., Makkonen, U.,
+Raukola, A., Rintanen, J., Saviharju, K., 2006.
+Electrostatic precipitator performance and trace element emissions from
+two kraft recovery boilers. Environ. Sci.
+Technol. 40, 584–589.
+
+Lundqvist, P., 2009. Mass and energy balances over the lime kiln in a
+kraft pulp mill. Master thesis, UPTEC ES09
+004, Uppsala University, Sweden.
+
+Mahmoudkhani, M., Richards, T., Theliander, H., 2004. Recycling of solid
+residues to the forest: experimental and
+theoretical study of the release of sodium from lime mud and green
+liquor dregs aggregates. Process Saf. Environ.
+Prot. 82, 230–237.
+
+Manskinen, K., 2013. Utilisation aspects of ashes and green liquor dregs
+from an integrated semimechanical pulp and
+board mill. Doctoral Dissertations 102/2013, Aalto University,
+Finland.
+
+Manskinen, K., Nurmesniemi, H., Pöykiö, R., 2011. Total and extractable
+non-process elements in green liquor dregs
+from the chemical recovery circuit of a semi-chemical pulp mill. Chem.
+Eng. J. 166, 954–961.
+
+Martinez, C., Cotes, T., Corpas, F.A., 2012. Recovering wastes from the
+paper industry: Development of ceramic
+materials. Fuel Proc. Technol. 103, 117-124.
+
+Martins, F.M., Martins, J.M., Ferracin, L.C., da Cunha, C.J., 2007.
+Mineral phases of green liquor dregs, slaker grits,
+lime mud and wood ash of a Kraft pulp and paper mill. J. Hazard. Mater.
+147, 610–617.
+
+Matilainen, M., Pisto, S., Rinnepelto, P., Kinnunen, N., 2014.
+Metsäteollisuuden ravinteet - Metsäteollisuuden
+sivuvirtojen hyödyntäminen lannoitevalmisteina. Apila Group Oy Ab,
+Joensuu, Finland.
+
+Mattsson, T., Richards, T., 2009. The separation of green liquor sludge:
+A comparison between liquors produced in a
+gasifier and a recovery boiler. Filtech 2009 Oct. 13-15 2009.
+
+McGuffie, B., Taylor, K., 2007. Non-process element mass balance
+improves recaust and lime kiln efficiency at Elk
+Falls mill. Pulp Pap. Can. 108, T49–55.
+
+Mehtonen, N., 2013. Literature study of present and new methods for
+reducing non-process elements in the lime
+circulation of a Kraft pulp mill. Master's thesis, Aalto University,
+Espoo, Finland.
+
+Mikkanen, P., 2000. Fly ash particle formation in kraft recovery
+boilers. VTT Publications 421, Espoo, Finland.
+
+Mikkanen, P., Kauppinen, E.I., Pyykönen, J., Jokiniemi, J.K., Aurela,
+M., Vakkilainen, E.K., Janka, K., 1999. Alkali
+salt ash formation in four Finnish industrial recovery boilers. Energy
+Fuels 13, 778–795.
+
+Minday, A.M., Reid, D.W., Brown, C., 1997. An overview of various
+strategies for balancing salt cake, chloride and
+potassium levels in an ECF kraft mill. Presented at the Tappi Minimum
+Effluent Symposium, San Francisco, Oc. 23-
+24 1997.
+
+[#24]#Page 24#
+
+
+
+23
+
+Modolo, R., Benta, A., Ferreira, V., Machado, L., 2010. Pulp and paper
+plant wastes valorisation in bituminous mixes.
+Waste Manag. 30, 685–696.
+
+Monte, M.C., Fuente, E., Blanco, A., Negro, C., 2009. Waste management
+from pulp and paper production in the
+European Union. Waste Manag. 29, 293–308.
+
+Morris, L.A., Nutter, W.L., Ogden, E.A., Sanders, J.F., Golabi, M.H.,
+Miller, W.P., Sumner, M.E., Saunders, F.M.,
+1995. Mill residue and byproduct utilization project. Annual Report
+1995, The University of Georgia and Georgia
+Institute of Technology, Georgia, USA.
+
+Morris, L.A., Sanders, J., Ogden, E.A., Goldemund, H., Merz White, C.,
+2012. Greenhouse and Field Response of
+Southern Pine Seedlings to Pulp Mill Residues Applied as Soil
+Amendments. For. Sci. 58, 618–632.
+
+Mäkelä, M., 2012. Assessing potential forest and steel inter-industry
+residue utilisation by sequential chemical
+extraction. Doctoral Dissertations 121/2012, Aalto University,
+Finland.
+
+Mäkelä, M., Harju-Oksanen, M.-L., Watkins, G., Ekroos, A., Dahl, O.,
+2012a. Feasibility assessment of inter-industry
+solid residue utilization for soil amendment—Trace element availability
+and legislative issues. Resour. Conserv.
+Recycl. 67, 1–8.
+
+Mäkitalo, M., 2012. Green liquor dregs as sealing layer material to
+cover sulphidic mine waste deposits. Licentiate
+thesis, Luleå University of Technology, Sweden.
+
+Mäkitalo, M., Maurice, C., Jia, Y., Öhlander, B., 2014. Characterization
+of green liquor dregs, potentially useful for
+prevention of the formation of acid rock drainage. Minerals 4,
+330–344.
+
+National lime association, 2007. Lime Fact Sheet: Lime terminology,
+standards & properties. National Lime
+Association, Arlington, VA, USA.
+
+Nurmesniemi, H., Pöykiö, R., Perämäki, P., Kuokkanen, T., 2005. The use
+of a sequential leaching procedure for
+heavy metal fractionation in green liquor dregs from a causticizing
+process at a pulp mill. Chemosphere 61, 1475–
+1484.
+
+Nurmesniemi, H., Pöykiö, R., Watkins, G., Dahl, O., 2010. Total and
+extractable heavy metal, phosphorous and sulfur
+concentrations in slaker grits from the causticizing process of a pulp
+mill for use as a soil amendment. Chem. Speciat.
+Bioavailab. 22, 87–97.
+
+Paleologou, M., Thibault, A., Wong, P.-Y., Thompson, R., Berry, R.,
+1997. Enhancement of the current efficiency for
+sodium hydroxide production from sodium sulphate in a two-compartment
+bipolar membrane electrodialysis system.
+Sep. Purif. Technol. 11, 159–171.
+
+Park, H., Englezos, P., 1998. Sodium aluminosilicate crystal formation
+in alkaline solutions relevant to closed cycle
+kraft pulp mills. Can. J. Chem. Eng. 76, 915–920.
+
+Parthasarathy, G., Krishnagopalan, G., 1999. Effluent reduction and
+control of non-process elements towards a cleaner
+Kraft pulp mill. Clean Prod. Process. 1, 264–277.
+
+Patrick, K., Young, J., Ferguson, K., 1994. Closing the loop: the
+effluent-free pulp and paper mill. Pulp Pap. USA.
+
+Pfromm, P.H., 1997a. Electrodialysis for chloride removal in low
+effluent Kraft pulp production. Membr. Technol.
+1997, 7–11.
+
+[#25]#Page 25#
+
+
+
+24
+
+Pfromm, P.H., 1997b. Low effluent processing in the pulp and paper
+industry: Electrodialysis for continuous selective
+chloride removal. Sep. Sci. Technol. 32, 2913–2926.
+
+Pöykiö, R., Nurmesniemi, H., Kuokkanen, T., Perämäki, P., 2006a. Green
+liquor dregs as an alternative neutralizing
+agent at a pulp mill. Environ. Chem. Lett. 4, 37–40.
+
+Pöykiö, R., Nurmesniemi, H., Kuokkanen, T., Perämäki, P., 2006b. The use
+of a sequential leaching procedure for
+assessing the heavy metal leachability in lime waste from the lime kiln
+at a caustizicing process of a pulp mill.
+Chemosphere 65, 2122–2129.
+
+Pöykiö, R., Nurmesniemi, H., Dahl, O., Watkins, G., Manskinen, K., 2014.
+Evaluation of the bio-accessible non
+process element concentrations in slaker grits by synthetic sweat and
+gastric fluids extraction. J. Environ. Occup. Sci.
+3, 65–70.
+
+Qian, Y., Chen, Y., Jiang, Y., Zhang, L., 2007. A clean production
+process of sodium chlorite from sodium chlorate.
+J. Clean. Prod. 15, 920–926.
+
+Qin, J., Cui, C., Cui, X., Hussain, A., Yang, C., Yang, S., 2015.
+Recycling of lime mud and fly ash for fabrication of
+anorthite ceramic at low sintering temperature. Ceram. Int. 41,
+5648-5655.
+
+Quesada, A.L., 2003. Kinetics of Ba(OH) ₂ Reaction with Na₂CO₃ and
+Na₂SO₄ & Particle Separation Characteristics
+from White Liquor. Institute of Paper Science and Technology.
+
+Ragnvaldsson, D., Bergknut, M., Lewis, J., Drotz, S., Lundkvist, A.,
+Abrahamsson, K., Fernerud, S., 2014. A novel
+method for reducing acid mine drainage using green liquor dregs.
+Environ. Chem. Lett. 12, 443–447.
+
+Rapp, H.-J., Pfromm, P.H., 1998a. Electrodialysis for chloride removal
+from the chemical recovery cycle of a Kraft
+pulp mill. J. Membr. Sci. 146, 249–261.
+
+Rapp, H.-J., Pfromm, P.H., 1998b. Electrodialysis field test for
+selective chloride removal from the chemical recovery
+cycle of a kraft pulp mill. Ind. Eng. Chem. Res. 37, 4761–4767.
+
+Rothpfeffer, C., 2007. From Wood to Waste and Waste to Wood - Aspects on
+Recycling Waste Products from the
+Pulp Mill to the Forest Soil. Doctoral thesis, Swedish University of
+Agricultural Sciences, Uppsala, Sweden.
+
+Sanchez, D., Tran, H., 2005. Treatment of lime slaker grits and green
+liquor dregs-current practice. Presented at the
+TAPPI Engineering, Pulping and Environmental Conference, Philadelphia,
+PA, August 28-31, 2005.
+
+Sanchez, D., 2008. Recausticizing Chapter 2.1 - Principles and practice.
+TAPPI Kraft Recovery Short Course, St.
+Petersburg, Florida, USA.
+
+Sedin, P., Theliander, H., 2004. Filtration properties of green liquor
+sludge. Nord. Pulp Pap. Res. J. 19(1), 67-74.
+
+Saturnino, D.M., 2012. Modeling of Kraft mill chemical balance. Ph.D.
+thesis, University of Toronto, Canada.
+
+Seppälä, M.J. (Ed.), Klemetti, U., Kortelainen, V., Lyytikäinen, J.,
+Siitonen, H., Sironen, R., 1999. Kemiallinen
+metsäteollisuus I - Paperimassan valmistus. Opetushallitus, Helsinki,
+Finland.
+
+Shen, J., Fatehi, P., Soleimani, P., Ni, Y., 2011. Recovery of
+lignocelluloses from pre-hydrolysis liquor in the lime
+kiln of kraft-based dissolving pulp production process by adsorption to
+lime mud. Bioresour. Technol. 102, 10035–
+10039.
+
+[#26]#Page 26#
+
+
+
+25
+
+Siqueira, F., Holanda, J., 2013. Reuse of grits waste for the production
+of soil–cement bricks. J. Environ. Manage.
+131, 1–6.
+
+Sixta, H., 2006. Handbook of pulp (Volume 2). WILEY-VCH Verlag GmbH &
+Co. KGaA, Weinheim, Germany.
+
+Sretenovec, I., 2012. Factors affecting resistivity of recovery boiler
+ash in the Kraft pulping process. Master thesis,
+University of Toronto, Canada.
+
+Sthiannopkao, S., Sreesai, S., 2009. Utilization of pulp and paper
+industrial wastes to remove heavy metals from metal
+finishing wastewater. J. Environ. Manage. 90, 3283–3289.
+
+Strydom, C., Hudson-Lamb, D., Potgieter, J., Dagg, E., 1995. The thermal
+dehydration of synthetic gypsum.
+Thermochim. Acta 269, 631–638.
+
+Sun, R., Li, Y., Liu, C., Xie, X., Lu, C., 2013. Utilization of lime mud
+from paper mill as CO2 sorbent in calcium
+looping process. Chem. Eng. J. 221, 124–132.
+
+Svarovsky, L. 1981. Solid-liquid separation, second ed., Butterworth &
+Co, Witham, Essex.
+
+Taylor, K., 2013. Detailed characterization of poor settling green
+liquor dregs. TAPPI J. 12, 29–36.
+
+Taylor, K., Bossons, D., 2006. Investigation of green lime mud at Harmac
+mill. Pulp Pap. Can. 107:3, 37-40.
+
+Taylor, K., McGuffie, B., 2007. Investigation of non-process element
+chemistry at Elk Falls Mill green liquor clarifier
+and lime cycle. Pulp Pap. Can. 108:2, 27.
+
+The Swedish Forest Industries Federation, 2014. The Swedish Forest
+Industries - Facts and Figures. Grafiska Punkten,
+Växjö, Sweden.
+
+Theliander, H., 1988. A system analysis of the chemical recovery plant
+of the sulfate pulping process. Nord. Pulp Pap.
+Res. J. 3, 60.
+
+Theliander, H., 2008. The recovery of cooking chemicals: the white
+liquor preparation plant. In: The Ljungberg
+Textbook Cellulose Technology, Chalmers University of Technology,
+Sweden.
+
+Theliander, H., Gren, U., 1987. A system analysis of the chemical
+recovery plant of the sulfate pulping process. Nord.
+Pulp Pap. Res. J. 3, 60.
+
+Thompson, R., Paleologou, M., Berry, R., 1995. Caustic soda and sulfuric
+acid production from sodium sulfate by-
+product of chlorine dioxide generation: economics. Tappi J. 78(6),
+127-134.
+
+Tikka, P., 2008. Papermaking science and technology, book 6 (part 2),
+2nd ed. Paper Engineers' Association/Paperi
+ja Puu Oy, Helsinki, Finland.
+
+Tilton, J.E., 2001. Depletion and the long-run availability of mineral
+commodities. In: Mining, Minerals and
+Sustainable Development. Vol. 14, March 2001, International Institute
+for Environment and Development.
+
+Tran, H., 2008. Lime kiln chemistry and effects on kiln operations.
+Tappi Kraft Recovery Short Course, St. Petersburg,
+Florida, 2.3-1 - 2.3-9.
+
+Tran, H., Vakkilainen, E.K., 2007. Advances in the Kraft chemical
+recovery process. Research program on Increasing
+Energy and Chemical Recovery Efficiency in the Kraft Process, NSERC and
+a consortium of companies.
+
+[#27]#Page 27#
+
+
+
+26
+
+Törmälä, J., Markusson, A., 2013. Comparison of alternatives for green
+liquor handling. ÅF Consult AB, Sweden.
+
+Ulmgren, P., 1987. The removal of aluminium from recovery system of
+closed kraft pulp mill. Nord. Pulp Pap. Res.
+J. 2, 4 – 9.
+
+Ulmgren, P., 1997. Non-process elements in a bleached kraft pulp mill
+with a high degree of system closure-state of
+the art. Nord. Pulp Pap. Res. J. 111997, 32-41.
+
+Valderrama, C., Granados, R., Cortina, J.L., 2013. Stabilisation of
+dewatered domestic sewage sludge by lime addition
+as raw material for the cement industry: Understanding process and
+reactor performance. Chem. Eng. J. 232, 458-467.
+
+Wakeman, R.J., Tarleton, E., 1999. Filtration: equipment selection,
+modelling and process simulation. Elsevier.
+
+Watkins, G., Pöykiö, R., Nurmesniemi, H., Dahl, O., 2010. Earth
+construction and landfill disposal options for slaker
+grits. J. Appl. Sci. Eng. Technol. 2, 757–764.
+
+Weaver, D., Ritchie, G., 1994. Phosphorus leaching in soils amended with
+piggery effluent or lime residues from
+effluent treatment. Environ. Pollut. 84, 227–235.
+
+Wirojanagud, W., Tantemsapya, N., Tantriratna, P., 2004. Precipitation
+of heavy metals by lime mud waste of pulp
+and paper mill. Songklanakarin J. Sci. Technol. 26(1), 45-53.
+
+Zakir, T., Tran, H., Papangelakis, V.G., 2013. Formation of pirssonite
+in green liquor handling systems. TAPPI J. 12,
+33–41.
+
+Zambrano, M., Pichún, C., Alvear, M., Villarroel, M., Velásquez, I.,
+Baeza, J., Vidal, G., 2010. Green liquor dregs
+effect on Kraft mill secondary sludge composting. Bioresour. Technol.
+101, 1028–1035.
+
+Zhang, J., Wang, Q., Jiang, J., 2013. Lime mud from paper-making process
+addition to food waste synergistically
+enhances hydrogen fermentation performance. Int. J. Hydrogen Energy. 38,
+2738-2745.
+
+Zhang, J., Zheng, P., Wang, Q., 2014a. Lime mud from papermaking process
+as a potential ameliorant for pollutants
+at ambient conditions: a review. J. Clean. Prod. 103, 828-836.
+
+Zhang, J., Wang, Q., Zheng, P., Wang, Y., 2014b. Anaerobic digestion of
+food waste stabilized by lime mud from
+papermaking process. Bioresour. Technol. 170, 270-277.
+
+Österås, A., Sunnerdahl, I., Greger, M., 2005. The impact of wood ash
+and green liquor dregs application on Ca, Cu,
+Zn and Cd contents in bark and wood of Norway spruce. Water. Air. Soil
+Pollut. 166, 17–29.
+
+
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5],
+link:#6[6], link:#7[7], link:#8[8], link:#9[9], link:#10[10],
+link:#11[11], link:#12[12], link:#13[13], link:#14[14], link:#15[15],
+link:#16[16], link:#17[17], link:#18[18], link:#19[19], link:#20[20],
+link:#21[21], link:#22[22], link:#23[23], link:#24[24], link:#25[25],
+link:#26[26], link:#27[27]

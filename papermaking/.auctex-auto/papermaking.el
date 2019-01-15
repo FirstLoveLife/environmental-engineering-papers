@@ -1,0 +1,31 @@
+(TeX-add-style-hook
+ "papermaking"
+ (lambda ()
+   (LaTeX-add-bibitems
+    "造纸白泥制备陶瓷滤料的技术研究"
+    "article"
+    "Needham_Joseph_1986_Science_and_Civilization_in_China"
+    "World_Archaeological_Congress_eNewsletter"
+    "In_Encyclopædia_Britannica"
+    "Science_and_Civilization_in_China"
+    "Mahdavi_2003"
+    "a_study_of_the_ancient_craft"
+    "Kinnarinen_2016"
+    "andreola11_model_simul_analy_react_system"
+    "brunelle15_evaluat_impac_risin_fertil_prices_crop_yield"
+    "buruberri15_prepar_clink_from_paper_pulp_indus_wastes"
+    "edmondson14_urban_cultiv_allot_maint_soil"
+    "jia14_metal_mobil_tailin_cover_with"
+    "jia13_use_amend_tailin_as_mine_waste_cover"
+    "maekitalo14_charac_green_liquor_dregs_poten"
+    "poykio14_evaluat_bio_acces_non_proces"
+    "qin15_recyc_lime_mud_fly_ash"
+    "ragnvaldsson14_novel_method_reduc_acid_mine"
+    "zhang15_lime_mud_from_paper_proces"
+    "zhang14_anaer_diges_food_waste_stabil"
+    "Handbook_of_pulp"
+    "sthiannopkao09_utiliz_pulp_paper_indus_wastes"
+    "eriksson96_displ_washin_lime_mud"
+    ".06_soil_stabil_fores_roads_sub"))
+ :bibtex)
+

@@ -1,0 +1,864 @@
+Utilization of lime-mud as a filler in paper making +
+
+ +
+ +
+
+Abd EL Aziz A. Said (1),Aref A. M. Aly (1),Adel Abd EL Hameed Ahmed
+(2), +
+and Hazem S. Ahmed (2) +
+(1)Chemistry Department, Faculty of Science, Assuit University, Assuit
+Egypt +
+(2)Quena Paper Industry Company +
+Email: aasaid55@yahoo.com +
+Article history : Received: 26/9/2014; Revised : 23/10/2014; Accepted
+:27/10/2014 +
+; Available Online : 11/11/2014 +
+ +
+Abstract: The utilization of lime-mud as a filler in paper making was
+studied. The
+lime – mud before and after treatment were characterized using laser
+scattering
+particle size distribution technique. The dregs and alkali metal losses
+were removed.
+The final samples were grinded to achieve the proper particle size.
+Finally, the treated
+lime-mud was applied in the research plant as filler on paper sheets.
+
+
+Keywords: Lime-mud, particle size, filler, paper making.
+
+1. INTRODUCTION
+Pulp and paper industry is a source of a
+wide range of solid inorganic and organic
+wastes generated during the various processes
+in bleached Kraft production. Waste handling
+receives a great concern in pulp and paper
+industrial plants either by minimizing the
+generation of this waste or to reuse it,
+whenever practicable.
+Bagasse, the most fibrous raw material
+available and suitable for paper making in
+Egypt, is the sugarcane residue after sugar
+extraction. The ultimate goal of chemical
+pulping is to liberate cellulosic fibers by
+(delignification) without
+lignin
+degrading or
+fibers. Alkaline
+pulping processes are not totally selective for
+lignin, and cellulose is degraded by the
+cooking liquor [1].
+In the Kraft pulping process, bagasse
+mixed with aqueous cooking liquor“white
+
+removing
+
+removal
+
+liquor” composed
+mainly of sodium
+hydroxide (NaOH) and sodium sulfide
+(Na2S). This mixing occurs in a “digester”
+vessel at a
+temperature and pressure
+satisfactory to separate the cellulosic fiber
+from the natural lignins that bind such
+fibers. The dead load chemicals have no
+direct effect on pulping. An increase in dead
+load can result in a decrease in lignin
+removal in pulping [2].
+The liberated fiber is separated from the
+resultant ˝black liquor˝ and is subsequently
+washed,
+and
+eventually transformed into paper. Washing
+filters remove the maximum amount of
+diisolved organic and soluble
+inorganic
+material present with pulp mass to prevent
+any
+or
+papermaking chemicals [3].
+Bleaching is the chemical treatment of
+cellulosic fibers to increase brightness by
+
+interference with
+
+and bleached
+
+screened
+
+bleaching
+
+[#3]#Page 3#
+
+A. A. Said et al. 42
+
+
+
+lignins,
+
+liquor
+
+the black
+
+the colored
+decolorizing or dissolving
+components in pulp, principally lignin to
+increase the visual quality [4]. Bleached pulp
+mixed in a furnish with wood pulp and other
+chemical additives (filler, dye, retention aid,
+AKD, starch) to produce the paper roll [5].
+The separated black liquor contains, aside
+from the original white liquor chemicals,
+lignins and other organic matter. In order to
+recover and recycle these costly pulping
+chemicals, as well as to produce valuable pulp
+mill steam and power from the contained
+organic
+is
+concentrated in multiple-effect evaporators
+and delivered as a concentrated fuel to a
+“chemical recovery boiler.”
+This recovery boiler combusts the organics
+under unique oxidizing/reducing conditions to
+a molten inorganic ash (“smelt”) consisting
+primarily of Na2S and Na2CO3. The co-
+produced high-pressure steam is subsequently
+exhausted via a steam turbine/generator to
+produce mill power and lower pressure mill
+process steams [6]. The smelt is drained from
+the recovery boiler and quenched in water to
+create the “green liquor.” This green liquor is
+subsequently clarified and filtered to remove
+the insoluble impurities whereupon it is
+delivered
+initiate
+conversion of the dissolved Na2CO3 into
+NaOH required in the white liquor. This
+slaking process utilizes calcium oxide CaO to
+convert Na2CO3 into NaOH via the following
+two consecutive reactions:
+
+
+the “slakers”
+
+to
+
+to
+
+2. Experimental
+
+Lime-mud obtained from the recovery
+plant was dried and then the alkali loss was
+measured. It was subjected to full chemical
+analysis, particle size determination and
+optical properties. The study included the
+effect of washing with hot water at different
+temperatures on the removal of alkali and
+dissolved silica then full chemical analysis
+was conducted. The effect of grinding on
+the particle size distribution using constant
+volume and changing the time of grinding
+was also investigated. The optical properties
+which
+brightness, whiteness,
+yellowness, opacity, scattering coefficient
+were determined as well.
+
+include:
+
+Lime-mud, calcium carbonate and calcium
+oxide raw were analyzed according to Tappi
+Standard Methods for pigments sampling
+T657 om-92, free moisture in filler and
+pigments T671 cm-85, analysis of lime T617
+cm-84, analysis of calcium carbonate T660
+wd-79, brightness of pigments T646 om-86,
+opacity T425, and particle size distribution of
+coating pigments T649 cm-90.
+
+2.1. Materials
+
+Lime-mud, calcium carbonate and calcium
+oxide raw materials samples are used in this
+study.
+
+2.2. Apparatus
+
+ Flame photometer, JENNWAY, for
+
+measuring Ca, K, and Na.
+
+ HORIBA laser scattering particle size
+
+distribution analyzer LA-300.
+
+ HORIBA LA-300 grinding mill
+ Thermolyne TZ4ST furnance.
+ Labtech instruments inc. standard sheet
+
+machine, automatic sheet press 400-1
+
+ Technidyne laboratory services (TLS)
+for measuring optical
+
+ISO
+
+model
+properties.
+
+ Roughness tester (BENDTSEN method)
+
+for measuring air permance.
+
+ Burst PTI
+
+laboratory,
+
+equipment
+
+Laborausrustung, range 50 bars.
+
+CaO(s) H2O → Ca (OH)2 (1)
+
+Na2CO3 (aq)  Ca(OH)2→ 2NaOH(aq)  CaCO3(s) (2)
+
+
+recycle, among which are
+
+CaCO3 is the lime mud waste produced
+from chemicals recovery in pulp and paper
+manufacture and can be used as filler of paper
+[7-9]. There are various studies on lime mud
+waste
+land
+application of lime mud [10] and lime mud
+combustion
+[11-12].
+Therefore, the aim of the present study was to
+make use of the lime mud waste with a
+particle size suitable as filler in paper making.
+
+to produce CaO
+
+
+
+
+
+
+
+
+
+[#4]#Page 4#
+
+A. A. Said et al. 43
+
+
+
+ ELMENDORF tearing tester, THWING
+
+ALBERT instrument.
+tensile
+
+ Universal
+
+tester,
+
+KARL
+
+SCHROODER Kg. D-69450.
+
+
+All measurements were performed on the
+above mentioned instrument and apparatus
+available at
+Industry
+Company
+
+
+the Qena Paper
+
+3. Results and Discussion
+
+3.1.On the laboratory scale
+
+b. Washing of lime-mud to remove alkali
+
+Table 2 shows that the chemical loss of
+Na2O decreases from 1.45% to 0.55% which
+then becomes more suitable for paper
+making. From Tables 1 & 2, it is clear that
+washing leads to lowering of the alkali and
+soluble silica.
+
+
+
+Table 2: lime-mud samples before filter, lab washing
+and chemical loss measuring.
+
+Temperature
+
+60°C
+
+70°C
+
+80°C
+
+90°C
+
+a. Characterization of lime-mud before and
+after treatment
+
+Loss as
+Na2O%
+
+1.45% 0.86% 0.84% 0.55%
+
+Table 1 shows the results of the chemical
+analysis of the lime mud (waste generated in
+Quena Paper Industry Company) after drying
+at 100°C, and the other samples after washing
+under continuous stirring. Lime-mud to water
+volume used in washing is 1:2.5 and after the
+disposal of water washing and drying the
+sample was analyzed again as shown in Table
+1. The
+the significant
+reduction in the percentage of soluble silica
+and the increase in CaO%.
+
+illustrate
+
+results
+
+c. Grinding
+
+Table 3 shows a small increase in 2µm
+portion with grinding of lime-mud samples
+without treatment, and high increase in 2µm
+portion with grinding lime- mud samples
+after washing, drying and grinding in order
+to soften the particles size, in comparison
+with CaCO3 filler sample. These facts are
+depicted in Fig. 1.
+
+
+
+
+
+
+
+
+
+
+
+Table 1: Chemical analysis for samples before and after treatment (%)
+
+sample
+
+SiO2 Al2O3 Fe2O3 CaO MgO Na2O K2O SO3 TiO2 P2O5 L.O.I
+
+Dried sample
+
+4.85
+
+
+
+0.01
+
+0.03
+
+51.13
+
+0.01
+
+1.45
+
+0.01 0.39 0.01
+
+0.11
+
+40.95
+
+Washed,
+
+dried sample
+
+3.50
+
+0.01
+
+0.02
+
+54.39
+
+0.01
+
+0.55
+
+0.01 0.01 0.01
+
+0.10
+
+41.28
+
+
+
+
+
+
+
+
+
+
+
+[#5]#Page 5#
+
+A. A. Said et al. 44
+
+
+
+Table 3: Particle size distribution before and after treatment at
+different grinding
+
+times (CaCO3
+
+* is the currently fillerusedin the factory)
+
+
+
+Raw sample
+direct from
+
+the filter
+
+Drying and
+grinding
+for1 min
+
+Washed,
+
+drying and
+grinding
+for 5 min
+
+Washed,
+
+drying and
+
+grinding
+for10 min
+
+CaCO3
+
+*
+
+Filler sample
+
+Median µm
+
+
+
+Diameter on 10% µm
+
+
+
+15.1
+
+4.3
+
+0.6
+
+0.5
+
+0.3985
+
+0.3876
+
+0.2
+
+0.2179
+
+1.6
+
+0.7
+
+
+
+Diameter on 50% µm
+
+15.1
+
+4.3
+
+
+
+Diameter on 90% µm
+
+29.4
+
+10.3
+
+
+
+0.6
+
+
+
+9.3
+
+
+
+0.5
+
+1.6
+
+6.3
+
+
+
+3.7
+
+% On diameter 2µm
+
+15.0 %
+
+32.7 %
+
+70.5 %
+
+71.7 %
+
+73.2%
+
+% On diameter 3µm
+
+15.7 %
+
+39.7 %
+
+74.3 %
+
+77.8 %
+
+95.1%
+
+% On diameter 4µm
+
+16.7 %
+
+47.5 %
+
+77.4 %
+
+82.4 %
+
+99.4%
+
+% On diameter 5µm
+
+17.9 %
+
+55.9 %
+
+80.3 %
+
+86.4 %
+
+% On diameter 10µm
+
+Mean µm
+
+Brightness iso
+
+d98 (Top cut)
+
+
+
+
+
+15.7
+
+
+
+
+
+
+
+5.3
+
+90.2
+
+
+
+90.9
+
+95.903
+
+2.8
+
+
+
+18.2
+
+2.0
+
+92.7
+
+12.4
+
+
+
+
+
+1.9
+
+97.8%
+
+6.9
+
+
+
+
+
+
+3.2. On the pilot scale
+
+Paper making research plant
+
+From the above results it can be
+concluded that the lime mud samples
+after
+treatment and grinding become
+suitable to be used as filler in paper
+making.
+
+In the following (Table 4) are the
+properties of paper sheets using treated
+lime mud as a filler together with those of
+commercial calcium carbonate as a filler.
+
+
+
+
+
+
+
+[#6]#Page 6#
+
+A. A. Said et al. 45
+
+Fig.1. Relation between grinding time and particle size
+
+
+
+
+
+
+
+
+
+
+
+Table 4: Optical and mechanical properties for paper sheets, where
+sample1 is the
+paper sheets made using the commercial calcium carbonate as a filler
+and
+sample 2 represents the paper sheets made by using treated lime mud.
+
+
+
+
+Substance
+Thickness
+
+Bulk
+
+Moisture
+
+Tensile index
+
+Breaking length
+
+Tear index
+Tear factor
+Burst index
+Burst factor
+
+Air permeance
+Opacity (ptg)
+Sc Coefficient
+
+Yellowness
+
+
+
+Sample 1
+
+Sample 2
+
+62.94
+390
+1.55
+5.88
+58.64
+5980
+7.01
+71.52
+3.98
+40.56
+206
+78.73
+34.15
+4.65
+
+66.03
+400
+1.51
+6.67
+53.97
+5500
+7.27
+73.93
+3.93
+40.06
+227
+80.89
+36.99
+5.96
+
+g/m2
+
+µ
+
+cc/g
+%
+
+Nm/g
+
+METER
+mNm2/g
+
+
+
+Kpa m2/g
+
+
+
+ml/min
+
+%
+
+m2/kg
+
+%
+
+
+
+
+
+
+
+
+
+
+
+[#7]#Page 7#
+
+A. A. Said et al. 46
+
+10. J. K. Muse and C.C. Mitchell.
+
+Agronomy Journal 87(1995)432.
+11. J. P. Gorgo, T. N. Adams, Design
+
+and performance of rotary lime
+kilns in the pulp and paper
+industry, Atlanta (1986).
+
+12. G. M. Dorris, J. Pulp and Paper
+
+Sci. 29(2003)185.
+
+
+
+
+
+Conclusion
+
+Tests made in this study showed that
+lime-mud after washing and drying is an
+important source of crude carbonate which
+(due its chemical properties and natural
+potential) can be used in paper making
+industry as a filler in coated paper with the
+following superior properties:
+
+ Some chemical contents and dregs
+
+were removed.
+
+ Brightness is suitable for papermaking.
+
+Lime-mud particles size becomes smaller
+and percent of 2 µm (15.0%) increases
+gradually with increasing time reaching
+71.7 % and thus becomes the carbonate
+more suitable for paper making.
+
+
+References
+
+1. C. H. Matthews, Svensk Papperstid.
+
+77(1974)629.
+
+2. A. Teder, and L. Olm, Paperi puu
+
+4(1981)315.
+
+3. J. H. Perkins, H. S. Welsh, and J. H.
+
+Mappus, Tappi 37(1954)83.
+
+4. D. W. Reeve, Introduction to pulp
+bleaching study guide, Home Study
+Library, TAPPI Press, Atlanta,
+1986.
+
+5. W. H. Griggs, and B. W. Crouse,
+
+Tappi 63(1980)49.
+
+6. P. Gundersby, Proceeding,
+
+Intl.
+Conf. on the Recovery of Pulping
+Chemicals, TAPPI/CPPA, 1985.
+
+7. J. Wang, P. Liu, W. Sun, Bioresour.
+
+7 (2012)5894.
+
+8. H.Konno, H. Goto, K. Takahashi,
+Y. Nanri, TAPPI PaperCon`09
+Conference, St. Louis (2009)1.
+
+9. J. Wang, D. Zhang, Y-J. Xu, Ippta
+
+26 (2014)88.
+
+
+
+
+
+
+
+
+
+View publication stats
+View publication stats
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5],
+link:#6[6], link:#7[7]

@@ -1,0 +1,1310 @@
+[#1]#Page 1#
+
+226 January, 2018 Int J Agric & Biol Eng Open Access at
+https://www.ijabe.org Vol. 11 No.1 +
+
+Ultrasound assisted alkaline pre-treatment of sugarcane filter mud +
+
+ +
+
+for performance enhancement in biogas production +
+
+ +
+
+Zahir Talha1,2, Abdelbagi Hamid2, Dong Guo3, Muhammad Hassan1,4, +
+
+Esmaeil Mehryar1,5, Cedric Okinda1, Weimin Ding1* +
+
+(1. College of Engineering, Nanjing Agricultural University, Nanjing
+210031, Jiangsu, China; +
+
+2. Research and Development, White Nile Sugar Company, Khartoum 11218,
+Sudan; +
+
+3. College of Biotechnology and Pharmaceutical Engineering, Nanjing
+Technology University, Nanjing 211816, Jiangsu, China; +
+
+4. US-Pakistan Centre for Advanced Studies in Energy, National
+University of Science and Technology, Islamabad 44000, Pakistan; +
+
+5. Department of Biosystems Engineering, College of Agriculture, Isfahan
+University of Technology, Isfahan 84156-83111, Iran) +
+
+Abstract: Sugar cane filter mud pre-treated by combined
+ultrasound-alkaline pre-treatment at different NaOH loading rates +
+(0.25%-6%) and pre-treatment time (5 min to 60 min) performed in batch
+reactors under mesophilic conditions ((37±1)°C). +
+
+Central composite design (CCD) was used to assess the effects on the
+chemical oxygen demand (COD) solubilisation, volatile +
+
+fatty acid (VFA) concentration and methane yield. All pre-treatments
+were found significant (p<0.01) to enhance methane +
+
+yield (up to 39.49%) compared to the untreated filter mud. In general,
+results demonstrated the effectiveness of ultrasound +
+
+assisted alkaline pre-treatment while increasing both NaOH loadings and
+pre-treatment time. Pre-treatment also increased the +
+
+CODs solubilisation as well as VFA concentration, the optimal Initial
+CODs and VFA of 12 212 mg/L and 5830.97 mg/L, as +
+
+determined by response surface methodology were noted on E9. Finally,
+modified Gompertz model was applied successfully to +
+
+study kinetic of biogas production data, and showed an excellent fit. +
+
+Keywords: anaerobic digestion, ultrasound-alkaline pre-treatment, biogas
+production, filter mud, enzymatic hydrolysis +
+
+DOI: 10.25165/j.ijabe.20181101.3441 +
+
+ +
+Citation: Talha Z, Hamid A, Guo D, Hassan M, Mehryar E, Okinda C, et al.
+Ultrasound assisted alkaline pre-treatment of +
+sugarcane filter mud for performance enhancement in biogas production.
+Int J Agric & Biol Eng, 2018; 11(1): 226–231. +
+
+ +
+
+ +
+
+1 Introduction +
+
+for +
+
+interest +
+
+in +
+
+fossil +
+
+The significant increase in energy utilization especially in +
+rapidly developing countries has generated +
+the +
+development of alternate fuels. One of the concepts used for +
+recovering the energy is the biological degradation of organic +
+wastes by anaerobic digestion for the generation of methane as a +
+substitute +
+is +
+responsible for production of different types of organic wastes. +
+Cane straw left in the field after harvesting, bagasse, and filter
+mud, +
+bagasse and a small share of straw have already been used as solid +
+fuel in cogeneration systems in general. Meanwhile, the filter +
+mud has been completely unused from the energy point of view[2]. +
+About 3-4 kg of filter mud per 100 kg of sugarcane crushed is +
+left behind as by-product from filtration of the cane juice[3]. The +
+
+The Sugarcane +
+
+fuels[1]. +
+
+Industry +
+
+ +
+Received date: 2017-04-20 Accepted date: 2017-12-03 +
+Biographies: Zahir Talha, PhD candidate, research interests:
+agricultural +
+bioenvironmental and energy engineering, Email:
+eng.zahirtalha@yahoo.com; +
+Abdelbagi Hamid, Master, research +
+interests: biomass energy, Email: +
+abdelbagihamed@yahoo.com; Dong Guo, Master candidate, research
+interests: +
+agricultural +
+resources and environment, Email: 2587101012@qq.com; +
+Muhammad Hassan, PhD, research interests: agricultural bioenvironmental
+and +
+energy engineering, Email: engrhasan74@yahoo.com; Esmaeil Mehryar,
+PhD, +
+research +
+Email: +
+esmaeil.mehryar@gmail.com; Cedric Okinda, PhD candidate, research
+interests: +
+agricultural engineering, Email: cedsean@hotmail.com. +
+*Corresponding author: Weimin Ding, Professor, +
+interests: +
+agricultural bioenvironmental and energy engineering. No.40 Jiangtai
+Road, +
+Pukou District, Nanjing 210031, China. Tel: +86-25 5860 6502, Fax:
++86-25- +
+5860 6699, Email: wmding@njau.edu.cn. +
+
+agricultural mechanization +
+
+engineering, +
+
+interests: +
+
+research +
+
+residual mud is a soft, semi-solid, dark brown to black colored +
+material, composed of inorganic soil particles, residual sugars and +
+small pieces of sugarcane bagasse. It contains 60%-85% moisture, +
+fiber lignocellulose, crude protein, sugar, wax, fat and ash[4,5]. +
+Usually, the filter mud spread on the field as fertilizer or sold as +
+immature compost to farmers. However, this practice is not +
+economically suitable and pollute the environment[6]. According +
+to the characteristics mentioned, anaerobic digestion is a promising +
+strategy to making use of filter mud for the production of biogas. +
+Early studies have been report on the anaerobic digestion of filter +
+mud[7]. Some researchers have also been made to produce the +
+biogas from filter mud by mixing it with bagasse and other +
+wastes[8,9]. +
+
+to microorganisms. +
+
+lignocelluloses materials +
+
+As filter mud contains a considerable amount of fibre, applying +
+different pre-treatment is expected to be useful in making the +
+substrate particles utilizable +
+However, +
+the enzymatic +
+numerous pre-treatment methods based on +
+hydrolysis of +
+including physical, +
+physicochemical, biological as well as chemical methods have been +
+develop. Only a few studies have assessed the effects of different +
+pre-treatment methods on methane production from filter mud[10-12]. +
+To our knowledge, pre-treatment of filter mud by ultrasound +
+assisted alkaline for biogas production in patch reactor has not been +
+studied yet. +
+
+Alkaline, usually employing NaOH, is known to break bond +
+linkages between lignin in the lignocelluloses material, causing +
+cellulose swelling which results in greater accessibility of the +
+cellulose fraction[9]. At the same time, the sodium concentration +
+of filter mud was found to be 8.15 mg/L which is very low than +
+
+[#2]#Page 2#
+
+January, 2018 Talha Z, et al. Ultrasound assisted alkaline pre-treatment
+of sugarcane filter mud for performance enhancement in biogas production
+Vol. 11 No.1 227 +
+
+in +
+
+these possible drawbacks. +
+
+for substrate +
+
+could overcome +
+
+the use of NaOH +
+
+recommended values[13], +
+pre-treatment +
+Ultrasound produces a rapid cycling of pressure. +
+During +
+rarefaction phase of sonication, the pressure differentials within a +
+solution result +
+the formation and growth of cavitation +
+microbubbles in the liquid being sonicated. Bubble collapse is +
+leading to the disruption of cell wall which increases the usability +
+of biomass[14]. Studies concerning a proper combination of +
+ultrasound and alkaline pre-treatments applied to other biomass +
+such as agriculture waste[15], newspaper as a lignocelluloses +
+biomass[16] and sugarcane bagasse[17]. +
+
+Therefore, in this study the effect of ultrasound-alkaline +
+pre-treatment was investigated in batch experiments to enhance the +
+anaerobic digestion of filter mud regarding methane yield, using a +
+central composite design (CCD) statistical experimental design. +
+The effects of the NaOH loading and pre-treatment time on +
+chemical oxygen demand solubilisation CODs and volatile fatty +
+acids +
+for different +
+experimental conditions. +
+
+(VFAs) production were determined +
+
+2 Materials and methods +
+
+2.1 Substrate and inoculum +
+
+Sugarcane filter mud obtained from a White Nile Sugar +
+Company factory (WNSC) in the White Nile state, Sudan during +
+the 2015/2016 season, dried and transported to China in sealed +
+plastic bags and stored at 4oC until its use. The inoculum +
+collected from an anaerobic digestion plant ‘Kaiping Family Farm, +
+Poukou, Nanjing, China’ uses pig waste as substrate and adapted +
+during two weeks to filter mud. The inoculum used in the tests +
+contained 2.01% total solids (TS); 47.90% volatile solids (VS) and +
+pH 7.76. +
+
+2.2 Analytical methods +
+
+to +
+
+the procedures +
+
+(FE20K, Mettler-Toledo, Switzerland) +
+
+All analyses were duplicated, and the results given are mean +
+values. TS, VS, ashes, total organic carbon (TOC), total nitrogen +
+(TN), total phosphorus (TP), and chemical oxygen demand (COD) +
+were determined according +
+in standard +
+methods[18]. The pH was monitored in samples using digital pH +
+meter +
+capable of +
+measurement in liquid substrates. Samples for analysis chemical +
+oxygen demand solubilisation (CODs) and VFA were centrifuged +
+at 10 000 r/min for 4 min in a centrifuge. After centrifugation, +
+only the supernatant was used. VFA was determined by gas +
+chromatography (GC-2014, Shimadzu, Japan), having a column of +
+(DA, 30 m × 0.53 mm × 1 µm Stabilwax) and flame ionization +
+detector (FID), while injector and detector temperature was 150°C +
+and 240°C respectively. The CH4 content measurement was +
+conducted through biogas sampling from reactors by a special +
+syringe and injection to the thermal conductivity detector (TCD) of +
+a gas chromatograph (Agilent 7820A) equipped with PQ 80-100 +
+Mesh column. The operation condition was: 25 mL/min He as the +
+carrier gas, detector temperature 250°C and 90°C of column +
+temperature. +
+The % CODs removal was calculated as a +
+percentage between initial and final CODs. +
+2.3 Pre-treatment conditions +
+
+The pre-treatment process was conducted on a 1 L glass ﬂask. +
+
+Filter mud (48 g TS) was pre-soaked in a NaOH solution at room +
+temperature for 15 min, solid to liquid ratio was 1:8 and treated +
+with ultrasound by using a probe sonicate (HC-SHL-800, Zhejiang, +
+China). The operating frequency and power were 28 kHz and +
+440 W, respectively. The ultrasonic irradiation was transferred +
+through a titanium cylindrical horn 2 cm diameter, introduced into +
+
+the ﬂask through the side neck and submerged 1.0 cm into the +
+mixture. The temperature was controlled using a water bath. +
+Different conditions of NaOH loading (0.25%, 1.09%, 3.13%, +
+5.16% and 6%) and pre-treatment time (5 min, 13.05 min, 32.5 min, +
+51.95 min and 60 min) were used according to a CCD setup in +
+Table 1 (empty cells not tested in the CCD). After pre-treatment, +
+the pre-treated filter mud slurry was neutralized with hydrochloric +
+acid and immediately used for subsequent biochemical methane +
+potential test. +
+
+ +
+
+Table 1 CCD setup +
+
+NaOH loading/g NaOH·(100 g TS)-1 +
+
+0.25 +
+
+1.09 +
+
+3.13 +
+
+5.16 +
+
+ +
+
+ +
+
+E1 +
+
+ +
+
+ +
+
+2 +
+
+ +
+
+E2 +
+
+ +
+
+E3 +
+
+ +
+
+4 +
+
+E4 +
+
+ +
+
+E5 +
+
+ +
+
+E6 +
+
+10 +
+
+ +
+
+E7 +
+
+ +
+
+E8 +
+
+ +
+
+4 +
+
+6 +
+
+ +
+
+ +
+
+E9 +
+
+ +
+
+ +
+
+2 +
+
+Time/min +
+
+5 +
+
+13.05 +
+
+32.5 +
+
+51.95 +
+
+60 +
+
+Total runs +
+
+Note: Duplicated experiments are indicated. +
+
+ +
+
+2.4 CCD and evaluation by response surface methodology +
+(RSM) +
+
+response +
+
+The Central +
+
+composite design of +
+
+surface +
+methodology was used to evaluate the optimum response regions of +
+CODs and to optimize the corresponding variables. The CCD for +
+two factors utilized in the study, presented in Table 1. A total of +
+22 experimental runs including eight tests for factorial points, eight +
+tests for axial points, also, six center points were included along
+the +
+experimental blocks to provide orthogonality and to estimate the +
+experimental error[19]. The effect of two pre-treatment operating +
+variables NaOH concentration (x1) and pre-treatment time (x2) on +
+the two response variables, COD solubilisation, and VFA was +
+determined. +
+fitted using a +
+second-order quadratic equation to correlate the response variable +
+to the independent variables[20]: +
+
+response variable was +
+
+The +
+
+(1) +
+
+where, y is the measured response; b0 is the free or offset term, bi
+is +
+the first-order (linear) main effect; bii is the quadratic (squared) +
+effect; bij is the interaction effect; xi and xj are levels (codes
+values) +
+of independent variables; e is random error. +
+2.5 Anaerobic digesters +
+
+ +
+
+The anaerobic digestion experiments for measuring methane +
+potentials from untreated and pre-treated filter mud were carried +
+out in 1 L bottles used as batch reactors, sealed with two holes +
+rubber stoppers. The total working volume was 800 mL, with 6% +
+TS concentrations. The bottles were filled in with the slurry of +
+treated filter mud sample about 400 mL and complete the volume +
+to 800 mL with the inoculum, which met an inoculum to substrate +
+ratio of about 1:1 in volume basis. One of the holes in the rubber +
+stopper was used to withdrawal sludge sample to analyze the +
+process parameters during anaerobic digestion, and the second hole +
+was connected with the water bottle through a pipe having a port +
+for taking gas samples for GC analysis. Biogas production was +
+measured by water displacement technique which the water was +
+saturated with a brine solution that was prepared with 10% NaCl +
+(w/v) to minimize the dissolution of produced gasses from the +
+reactor. +
+The pH of the substrate after ultrasound-alkaline +
+pre-treatments was found to be higher than 10. It was adjusted +
+one time before starting fermentation in 7.0-8.0 by using HCl. +
+
+201111kkkkiiiiiijijiiijybbxbxbxxe
+
+[#3]#Page 3#
+
+228 January, 2018 Int J Agric & Biol Eng Open Access at
+https://www.ijabe.org Vol. 11 No.1 +
+
+Biogas composition and total biogas production were measured on +
+a daily basis while pH, VFA and COD were done after each three +
+days. Reactors were kept at (37±1)°C in a water bath and shaking +
+manually once daily. +
+2.6 Kinetic evaluation (Modified Gompertz model) +
+
+the biogas production potential of +
+
+In this study, modified Gompertz model were applied to +
+determine +
+the substrate, +
+maximum biogas production rate and the lag phase of the reaction +
+with available experimental results. Gompertz model has been +
+identified as a good empirical non-linear regression model +
+commonly applied in the simulation of CH4 accumulation, because +
+of its good enough precise prediction for different substrates. The +
+equation is given by: +
+
+(2) +
+
+where, G0 is the potential methane production, mL/g VS; Rmax is +
+maximum methane production rate, mL/(g VS·d)); λ is the +
+lag-phase, d; G(t) +
+is the accumulated bio-methane at the time t, +
+mL/g VS; t is measured time, d and e, exp (1)=2.718282. The +
+model’s parameters were determined using the curve fit function in +
+MATLAB R2016a +
+solves +
+nonlinear curve ﬁtting problems using the least squares method. +
+
+software, which +
+
+(9.0.0.341360) +
+
+ +
+
+2.7 Statistical analyses +
+
+All the experiments were conducted by a set of conditions +
+provided through Deign Expert v7. Two-way analysis of variance +
+(ANOVA) was used to test significant differences in mean values +
+for the response variables CODs, VFA and G(t). Furthermore, the +
+data sets were analyzed, and graphical representation was provided +
+by using Analytical Software package (Graph Pad, Prism 6.01.) +
+with a confidence interval of 95%. +
+
+3 Results and discussion +
+
+3.1 Characteristics of the substrate +
+
+Filter mud used as a substrate for biogas production in this +
+study was analyzed for TS, VS, and TOC, pH, TN and sodium +
+contents (Table 2). The moisture content for new sample varied +
+from 54.9% to 58.6% (averaging 56.7%). Dry filter mud +
+contained TS and VS values (95.90% and 45.33% of TS). +
+Depends on the cane variety, soil conditions, and nutrients applied +
+in the field, the process of clarification adopted by WNSC and +
+other environmental +
+filter mud contains various +
+micro-nutrients such as nitrogen and phosphorous (3.09 g/kg and +
+0.87%), respectively. The organic matter equal to 239.53 g/kg. +
+TOC content was higher in comparing to nitrogen, which leads to +
+C/N ratio of 44.95 greater than the optimal value recommended for +
+anaerobic digestion (20-40)[21]. The pH of filter mud slurry before +
+pre-treatment was 5.77. +
+
+factors, +
+
+Table 2 Composition of untreated sugarcane filter mud +
+
+ +
+
+Parameters +
+
+pH +
+
+Total Solids (TS) /% +
+
+Volatile Matter (VS) /% +
+Organic matter /g∙kg-1 +
+Total Organic Carbon (TOC) /g∙kg-1 +
+Total-N /g∙kg-1 +
+Na /mg∙L-1 +
+
+Total-P /% +
+
+C/N Ratio +
+
+Filter mud +
+
+5.77 +
+
+95.90±0.01 +
+
+45.33±0.02 +
+
+239.53 ±3.09 +
+
+138.90±1.81 +
+
+3.09±0.02 +
+
+8.15±0.08 +
+
+0.87 ±0.05 +
+
+44.95 +
+
+Note: Each value represents mean ± STDEV of two replications. +
+
+3.2 Effects of pre-treatment on anaerobic digestion +
+
+Different parameters for the anaerobic digestion process of +
+filter mud were tested to study the effects of pre-treatment (NaOH +
+loadings and time of ultrasound irradiation) on CODs, VFAs and +
+bio-methane production BMP. Experiments were conducted +
+according to CCD as explained before. In general, results +
+demonstrated the effectiveness of ultrasound assisted alkaline +
+pre-treatment while +
+loadings and +
+pre-treatment time (Table 3). +
+
+increasing both NaOH +
+
+ +
+
+Table 3 Effects of pre-treatment on VFAs, COD solubilisation +
+
+and accumulated BMP +
+
+BMP +
+
+Initial CODs +
+
+Initial VAF +
+
+COD removal +
+
+ +
+
+/mL·(g VS)-1 +
+
+/mg·L-1 +
+
+/mg·L-1 +
+
+Untreated +
+
+81.54±1.26 +
+
+5,100±103.18 +
+
+N.D.* +
+
+E1 +
+
+E2 +
+
+E3 +
+
+E4 +
+
+E5 +
+
+E6 +
+
+E7 +
+
+E8 +
+
+E9 +
+
+127.64±6.11 +
+
+6,152±11.31 +
+
+4109.61±340.56 +
+
+127.94±7.71 +
+
+6,912±45.25 +
+
+4155.76±234.28 +
+
+116.01±9.96 +
+
+6,232±79.19 +
+
+3909.63±175.99 +
+
+116.90±2.03 +
+
+6,336±84.85 +
+
+4361.93±437.32 +
+
+128.39±8.47 +
+
+7,648±97.19 +
+
+4582.78±488.98 +
+
+123.70±0.39 +
+
+9,260±84.85 +
+
+3782.51±348.94 +
+
+111.35±2.13 +
+
+8,480±135.76 +
+
+3883.47±110.18 +
+
+123.65±0.13 +
+
+12,076±28.28 +
+
+3816.28±193.42 +
+
+134.77±3.33 +
+
+12,212±96.16 +
+
+4052.42±22.79 +
+
+/% +
+
+69.88 +
+
+85.11 +
+
+87.62 +
+
+83.12 +
+
+80.87 +
+
+79.65 +
+
+81.08 +
+
+87.69 +
+
+85.43 +
+
+84.34 +
+
+Note: * N.D.: not detected. Data expressed as mean ± standard
+deviation. +
+
+ +
+
+3.2.1 COD solubilization and removal +
+
+The behavior for CODs values was examined deeply during +
+the anaerobic digestion process after each three days interval, as +
+shown in Figure 1. In all cases, values for CODs had shown +
+increasing pattern than the CODs for untreated filter mud, due to +
+the effect of pre-treatment in changing the composition of hardly +
+degradable compounds and increase the biodegradable CODs. At +
+the beginning of the experiments, the filter mud was hydrolysed +
+with high strength adapted inoculum, this hydrolysed substrate +
+further acidified and converted into CH4 and CO2 with the help of +
+methanogens. The initial COD values ranged between 6152 +
+mg/L and 11 576 mg/L, in comparison with 5100 mg/L for the +
+control. The highest initial COD solubilisation reached in the +
+current work was obtained for reactor E9, resulting in an increase +
+of 58.24% with respect to untreated filter mud. Lowest +
+solubilisation were found with E1, E2, E3 and E4 reactors. the +
+initial COD values were 6152 mg/L, 6912 mg/L, 6232 mg/L and +
+6336 mg/L, respectively, which is in accordance with previous +
+studies conducted by Jank et al.[12], who found that, the lower +
+NaOH concentration did not show any improvement COD release +
+from filter mud. +
+level of COD +
+concentration started to decrease since the first day of the +
+fermentation process as shown in Figure 1. +
+
+Generally speaking, +
+
+the +
+
+Futhermore, the COD removal efficiency of all pre-treatments +
+and control presented in Table 3. As the results-oriented, the % of +
+COD removal in all the treatments increased at different rates, the +
+highest COD removal of 87.69% was observed for E7 reactors +
+while the least was 69.88% for untreated filter mud. +
+
+Higher levels of delignification (80%) have been reported at a +
+NaOH concentration of 1 N, paper loading of 0.5% (w/v), +
+sonication power of 100 W[16]. During the combination of +
+alkaline and ultrasonic pre-treatment of sewage sludge, the COD +
+solubilisation was increased from 1200 mg/L to 11 000 mg/L after +
+such treatment[22]. The ratio of soluble COD to total COD was +
+increased from 47% in raw leachate to 63% after 45 min sonication +
+at 600 W/L[23]. Cellulose content was also increased by the +
+
+max0()expexp()1oReGtGtG
+
+[#4]#Page 4#
+
+January, 2018 Talha Z, et al. Ultrasound assisted alkaline pre-treatment
+of sugarcane filter mud for performance enhancement in biogas production
+Vol. 11 No.1 229 +
+
+combination of alkaline and ultrasonic pre-treatment of bagasse at +
+1% NaOH with ultrasound 100% duty cycle[15]. +
+
+variation remained unexplained by the quadratic model. +
+3.2.2 VFA concentration +
+
+VFAs are important mid-products in the production of methane, +
+and their concentrations affect in methanogenic population, pH +
+fluctuation, and anaerobic digestion efficiency. To address these +
+effects, acetic acid, propionic acid, butyric acid, iso-butyric acid, +
+valeric acid and iso-valeric acid were intensely observed at each +
+three days interval of the whole digestion period. Figure 3 +
+presented the VFAs concentration level. In the first ten days of +
+the digestion, all reactors showed the highest VFAs production. +
+Maximum VFA was recorded for reactor E9 on the 10th day of +
+digestion that was 5830.97 mg/L while least TVFAs, 300.96 mg/L +
+belonged to the E3 reactor as showed in Figure 3, these VFAs +
+degraded and consumed by methanogens to produce more than +
+81% of the total methane generated during whole digestion period. +
+In the first week of digestion, acetic acid production was higher +
+than the other acids, but on the 10th day of digestion, propionic +
+acid concentration was found increasing rapidly, which affect +
+negatively in the anaerobic digestion process, and the total methane +
+yield consequently became very low (<5 mL). Another study +
+showed that, when the propionic acid concentration was increased +
+to 900 mg/L, significant inhibition effect on methanogenic bacteria +
+growth appeared, these effects resulted in the accumulation of +
+ethanol and VFAs, and the total methane yield consequently +
+became very low[24]. +
+
+ +
+Figure 1 COD concentration profile at different time periods of +
+
+anaerobic digestion process +
+
+ +
+
+The CCD of RSM was used to evaluate the effect of ultrasound +
+time and NaOH loading on initial CODs (Figure 2). The +
+mathematical regression for initial CODs as a function of NaOH +
+loading (A) and sonication time (B) was obtained as follows: +
+
+(3) +
+
+The ANOVA of the quadratic equations for CODs was used to +
+determine the adequacy and significance (Table not shown), which +
+indicated that the interactive model term is insignificant (p>0.05). +
+The main first-order effects of the independent variables A (NaOH +
+loading) and B (ultrasound time) had a positive effect on initial +
+CODs, with factor A exhibiting the highest effect on the response +
+and more significant than their respective quadratic effects. +
+
+Figure 3 VFAs production by filter mud during aerobic digestion +
+
+ +
+
+ +
+
+3.2.3 Biogas and methane production +
+
+period +
+
+All pre-treatments of filter mud used in the present study had +
+significantly increased methane production (p<0.01) as compared +
+with the untreated filter mud, daily methane production and +
+cumulative methane yield were shown in Figure 4, respectively. +
+Methane yield increased by 39.49% from untreated filter mud for +
+pre-treatments E9, followed by E5 with 36.49% methane enhancing +
+capability. There is a significant difference between the results +
+obtained by the highest pre-treatments (E5 and E9) compared to the +
+untreated reactor. The best pre-treatment is, therefore, E5, +
+because fewer reagents as well as less pre-treatment time are +
+required. Methane production by the remainder other pre-treated +
+reactors found significant to enhance the methane, but not +
+significant when compared with each other (Table 3). +
+
+To our knowledge, combined ultrasound-alkaline pre-treatment +
+of filter mud has not yet been reported. Ultrasound alone +
+pre-treatment has been extensively studied to increase biogas yield +
+from waste activated sludge[25]. Recently, several studies have +
+been conducted on the use of ultrasound to pretreat lignocellulosic +
+biomass and other wastes for biogas production; it was shown +
+
+ +
+
+Figure 2 Response surface plot for the effect of NaOH loading (A) +
+
+and ultrasound time (B) +
+
+ +
+
+RSM was made to optimize the process parameters for +
+maximizing the CODs. +
+Point optimization for CODs was +
+attempted with Design Expert version 7.0, which predicted the +
+highest yields of CODs equivalent to 14 072.3 mg/L after +
+enzymatic hydrolysis of the filter mud pre-treated with 6% of +
+NaOH in the presence of ultrasound for 49.19 min. +
+
+The correlation coefficient (R2) value determines the quality of +
+the quadratic model. The value of R2 is always between 0 and 1. +
+It is known that the R2 value greater than 0.75 indicates the +
+accuracy of the model. The R2 and the adjusted correlation +
+coefficient (R2 adj.) for the model were 0.9913 and 0.9884 +
+respectively, which indicated that only less than 1% of the total +
+
+2276481997.77881.401069 750.75A58.75CODsABABB
+
+[#5]#Page 5#
+
+230 January, 2018 Int J Agric & Biol Eng Open Access at
+https://www.ijabe.org Vol. 11 No.1 +
+
+in +
+
+Combined +
+
+biomass[23,26,27]. +
+
+the accumulated methane production over +
+improvement +
+ultrasound-alkaline +
+untreated +
+pre-treatment has however been applied to others substrates with +
+positive results, Wang et al.[28] observed that ultrasound assist low +
+concentration alkaline pre-treatment led to a 68% to 77% increase +
+in biogas yield of rice stalks as compared with untreated stalks. +
+3.3 Kinetic study using Gompertz model +
+
+Biogas production from anaerobic digestion of treated and +
+untreated filter mud was modeled based on modified Gompertz +
+equation. The results of a kinetic study for an experiment using +
+the modified Gompertz model were given in Table 4, which +
+indicated that the modified Gompertz equation can be used to +
+
+the active biodegradation component available +
+
+predict biogas yield potential, maximum daily biogas production, +
+and duration of lag phase. To evaluate the model, the predicted +
+cumulative biogas values were plotted against the measured values, +
+as shown in Figure 4b. The lag phase’s λ was calculated to be in +
+between 0.07 d and 1.37 d, because of the adapted inoculum added, +
+and +
+the +
+pre-treated filter mud. The RMSE value fell within the range of +
+2.086-5.458 and the R2 value fell within the range of 0.9798-0.9946. +
+The difference between the predicted and measured methane yields +
+was in the range of 0.67%-10.86%. Thus, the modified Gompertz +
+model was found to have the better fit to the experimental data for +
+all reactors used in this study. +
+
+in +
+
+ +
+
+Untreated +
+
+E1 +
+
+E2 +
+
+E3 +
+
+E4 +
+
+E5 +
+
+E6 +
+
+E7 +
+
+E8 +
+
+E9 +
+
+λ +
+
+0.93 +
+
+1.37 +
+
+0.26 +
+
+0.18 +
+
+0.20 +
+
+0.66 +
+
+0.11 +
+
+0.65 +
+
+0.43 +
+
+0.07 +
+
+Rmax +
+
+11.13 +
+
+11.30 +
+
+14.56 +
+
+11.77 +
+
+13.55 +
+
+13.59 +
+
+13.86 +
+
+14.71 +
+
+14.49 +
+
+15.68 +
+
+Note: Abbreviations used explained before. +
+
+Table 4 Results from using a modified Gompertz model +
+
+ +
+
+Measure methane yield +
+
+Predicted methane yield +
+
+Difference between measured +
+
+/mL·(g VS)-1 +
+
+/mL·(g VS)-1 +
+
+and predicted/% +
+
+R2 +
+
+RMSE +
+
+81.54±1.26 +
+
+127.64±6.11 +
+
+127.94±7.71 +
+
+116.01±9.96 +
+
+116.90±2.03 +
+
+128.39±8.47 +
+
+123.70±0.39 +
+
+111.35±2.13 +
+
+123.65±0.13 +
+
+134.77±3.33 +
+
+83.50 +
+
+141.50 +
+
+129.70 +
+
+124.80 +
+
+115.70 +
+
+123.00 +
+
+119.90 +
+
+110.60 +
+
+121.40 +
+
+128.70 +
+
+2.40 +
+
+10.86 +
+
+1.37 +
+
+7.58 +
+
+1.03 +
+
+4.20 +
+
+3.07 +
+
+0.67 +
+
+1.82 +
+
+4.50 +
+
+0.9945 +
+
+0.9845 +
+
+0.9808 +
+
+0.9909 +
+
+0.9851 +
+
+0.9798 +
+
+0.9822 +
+
+0.9938 +
+
+0.9946 +
+
+0.9864 +
+
+2.08 +
+
+4.69 +
+
+5.46 +
+
+3.57 +
+
+4.31 +
+
+5.04 +
+
+4.92 +
+
+2.92 +
+
+2.87 +
+
+4.7 +
+
+a. Daily methane production of the filter mud by different
+pre-treatments +
+
+ +
+
+b. Cumulative biogas production – experimental and modified Gompertz
+model +
+Figure 4 Daily methane production and cumulative methane yield +
+
+ +
+
+ +
+
+[#6]#Page 6#
+
+January, 2018 Talha Z, et al. Ultrasound assisted alkaline pre-treatment
+of sugarcane filter mud for performance enhancement in biogas production
+Vol. 11 No.1 231 +
+
+4 Conclusions +
+
+Filter mud was found to be a potential substrate for biogas +
+production. The combined alkaline and ultrasonic treatment, with +
+different NaOH loading and pre-treatment times, were applied to +
+enhance the anaerobic biodegradability of filter mud. Parameters +
+like methane production, VFA, and CODs were monitored during +
+digestion. 39.49% increase in methane yield from untreated filter +
+mud was obtained. +
+the COD +
+solubilisation as well as VFA concentrations. Hence, it was +
+possible to increase methane production through the combination +
+of ultrasound and alkaline pre-treatment followed by subsequent +
+enzymatic hydrolysis. +
+
+Pre-treatment +
+
+increased +
+
+ +
+
+Acknowledgements +
+
+This study was sponsored by the National Science and +
+Technology Support Program (2013BAD08B04). The first author +
+is appreciated to be thankful to White Nile Sugar Company, Sudan +
+for providing the filter mud. +
+ +
+
+[References] +
+
+[1] +
+
+Ionel AECaI. Biomass waste as a renewable source of biogas production +
+experiments: Alternative Fuel. InTech, 2011. +
+
+[2] Gupta N, Tripathi S, Balomajumder C. Characterization of pressmud:
+A +
+
+sugar industry waste. Fuel, 2011; 90(1): 389–394. +
+
+ +
+
+131: 250–257. +
+
+[12] Janke L, Leite A, Batista K, Weinrich S, Sträuber H, Nikolausz M,
+et al. +
+
+Optimization of hydrolysis and volatile fatty acids production from +
+sugarcane filter cake: Effects of urea supplementation and sodium +
+hydroxide pretreatment. Bioresource Technology, 2016; 199: 235–244. +
+
+[13] Chen Y, Cheng J J, Creamer K S. Inhibition of anaerobic digestion +
+
+process. Bioresource Technology, 2008; 99(10): 4044–4064. +
+
+[14] Rehman M S U, Kim I, Chisti Y, Han J I. Use of ultrasound in the +
+production of bioethanol from lignocellulosic biomass. Energy
+Education +
+Science and Technology Part A: Energy Science and Research, 2013;
+30(2): +
+1931–1410. +
+
+[15] Soontornchaiboon W, Kim S M, Pawongrat R. Effects of alkaline +
+combined with ultrasonic pretreatment and enzymatic hydrolysis of +
+agricultural wastes for high reducing sugar production. Sains
+Malaysiana, +
+2016; 45(6): 955–962. +
+
+[16] Subhedar P B, Gogate P R. Alkaline and ultrasound assisted
+alkaline +
+pretreatment for intensification of delignification process from
+sustainable +
+raw-material. Ultrasonics sonochemistry, 2014; 21(1): 216–225. +
+
+[17] Velmurugan R, Muthukumar K. +
+
+alkaline +
+pretreatment of sugarcane bagasse for fermentable sugar production: +
+Optimization +
+Bioresource +
+Technology, 2012; 112: 293–299. +
+
+through response surface methodology. +
+
+Ultrasound-assisted +
+
+[18] Standard Methods for the Examination of Water and Wastewater. +
+
+American Public Health Association, American Water Works Association, +
+Water Environment Federation [APHA], 2005. +
+
+[19] Montgomery D C. Design and Analysis of Experiments. Eighth
+edition +
+
+ed. Library of Congress Cataloging. John Wiley & Sons Inc, 2013. +
+
+[20] Bezerra M A, Santelli R E, Oliveira E P, Villar L S, Escaleira L
+A. +
+
+Response surface methodology (RSM) as a tool for optimization in +
+analytical chemistry. Talanta, 2008; 76(5): 965–977. +
+
+[3] Hugot E. Handbook of cane sugar engineering. Amsterdam, The +
+
+[21] Smith A D, Holtzapple M T. Investigation of the optimal
+carbon-nitrogen +
+
+Netherlands: Elsevier Science Publishers B.V, 1986. +
+
+[4] Karan M A, Barve B R, Khan S S. Biogas from pressmud. IOSR +
+
+Journal of Mechanical and Civil Engineering, 2011; 5: 37–41. +
+
+[5] López González L M, Reyes I P, Romero Romero O, Budde J, Heiermann +
+M, Vervaeren H. Antagonistic effects on the methane yield of liquid +
+hot-water pretreated press mud fractions co-digested with vinasse. +
+Energy & Fuels, 2015; 29(11): 7284–7289. +
+
+ratio and carbohydrate-nutrient blend for mixed-acid batch
+fermentations. +
+Bioresource Technology, 2011; 102(10): 5976–5987. +
+
+[22] Tian X, Wang C, Trzcinski A P, Lin L, Ng W J. Insights on the +
+solubilization products after combined alkaline and ultrasonic
+pre-treatment +
+of sewage sludge. Journal of Environmental Sciences, 2015; 29: 97–105. +
+[23] Oz N A, Yarimtepe C C. Ultrasound assisted biogas production from +
+
+landfill leachate. Waste management, 2014; 34(7): 1165–1170. +
+
+[6] Bhosale P R, Nakade D B, Raut P.D. Studies on physico-chemical +
+characteristics of waxed and dewaxed. ISCA Journal of Biological +
+Sciences, 2012; 1(1): 1–7. +
+
+[24] Wang Y, Zhang Y, Wang J, Meng L. Effects of volatile fatty acid +
+concentrations on methane yield and methanogenic bacteria. Biomass and +
+Bioenergy, 2009; 33(5): 848–853. +
+
+[7] Silva A G, Nam S L. A study on the production of biogas from
+filter +
+press mud. Cuban Sugar Research Institute, GGiro Marrero, Quivicrin, +
+La Habana. 1983: 9. +
+
+[8] Roufa M A, Bajpai P K, Jotshi C K. Optimization of biogas
+generation +
+from press mud in batch reactor. Bangladesh Journal of Scientific and +
+Industrial Research, 2010; 45(4): 371–376. +
+
+[9] Talha Z, Ding W, Mehryar E, Hassan M, Bi J. Alkaline pretreatment
+of +
+sugarcane bagasse and filter mud codigested to improve biomethane +
+production. BioMed Research International, 2016: 1–10. +
+
+[10] González L M L, Reyes I P, Dewulf J, Budde J, Heiermann M, +
+
+Vervaeren H. Effect of liquid hot water pre-treatment on sugarcane
+press +
+mud methane yield. Bioresource Technology, 2014; 169: 284–290. +
+
+[11] González L M L, Vervaeren H, Reyes I P, Dumoulin A, Romero O R, +
+Dewulf J. Thermo-chemical pre-treatment to solubilize and improve +
+anaerobic biodegradability of press mud. Bioresource Technology, 2013, +
+
+[25] Houtmeyers S, Degreve J, Willems K, Dewil R, Appels L. Comparing +
+the influence of low power ultrasonic and microwave pre-treatments on
+the +
+solubilisation and semi-continuous anaerobic digestion of waste
+activated +
+sludge. Bioresource Technology, 2014; 171: 44–49. +
+
+[26] Quiroga G, Castrillon L, Fernandez-Nava Y, et al. Effect of
+ultrasound +
+pre-treatment in the anaerobic co-digestion of cattle manure with food +
+waste and sludge. Bioresource technology, 2014; 154: 74–79. +
+
+[27] Quiroga G, Castrillón L, Fernández-Nava Y, Marañón E, Negral L, +
+Rodríguez-Iglesias J, et al. Optimization of biogas production from
+cattle +
+manure by pre-treatment with ultrasound and co-digestion with crude +
+glycerin. Bioresource Technology, 2011; 102(17): 7845–7849. +
+
+[28] Wang Y Z, Chen X, Wang Z, Zhao J F, Fan T T, Li D S, et al. Effect
+of +
+low concentration alkali and ultrasound combination pretreatment on +
+biogas production by stalk. Advanced Materials Research, 2012; 12: +
+3434–3437. +
+
+ +
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5],
+link:#6[6]
