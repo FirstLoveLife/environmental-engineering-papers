@@ -1,0 +1,474 @@
+[#1]#Page 1#
+
+Universal Journal of Agricultural Research 5(3): 197-201, 2017 +
+DOI: 10.13189/ujar.2017.050303 +
+
+http://www.hrpub.org +
+
+Numerical Study of Anaerobic Digestion Processes and +
+
+Biogas Generation from Fruit and Vegetable Waste +
+
+Puteri Kusuma Wardhani∗, Masaji Watanabe +
+
+Graduate School of Environmental and Life Science, Okayama University,
+Okayama, Japan +
+
+Copyright c(cid:13)2017 by authors, all rights reserved. Authors agree
+that this article remains permanently +
+open access under the terms of the Creative Commons Attribution License
+4.0 International License +
+Abstract Batch experiments with fruit and vegetable +
+waste and sludge from biogas plant as the feedstock were +
+conducted in this study. Mathematical models are introduced +
+here to explain the anaerobic processes, and some unknown +
+parameters were determined by solving inverse problems +
+numerically. Numerical results were compared with the +
+experimental outcomes. We conclude that the results only +
+show for situation where there is no inhibition by intermedi- +
+ate compounds such as volatile fatty acids. +
+
+Keywords Anaerobic Digestion, Kinetics, Inverse Prob- +
+lem, Mathematical Model, Numerical Simulation +
+
+1 +
+
+Introduction +
+
+Solid wastes generated largely in traditional markets, in- +
+clude fruit and vegetable wastes that are mostly disposed in +
+municipal landﬁll or dumping sites. Due to their nature and +
+composition, they degrade rather quickly and cause a foul +
+smell. In some fruit and vegetable waste (FVW) and food +
+waste (FW) samples, the volatile solids (VS) content is 80% +
+- 90%, and the water content is 75% - 95%. The high or- +
+ganic and water contents are the main cause of heavy odor +
+and plenty of leachate during the collection, transportation +
+and landﬁll of municipal solid waste (MSW). Considering the +
+high moisture and organic content, those wastes are treated +
+more effectively in biological treatment such as anaerobic digestion than other techniques such as incineration or composting [1]. +
+
+Anaerobic digestion is a biochemical process in which microorganisms breakdown the biodegradable material into biogas (methane and carbon dioxide) under the absence of oxygen [2]. Those biochemical processes are very complex and difﬁcult to operate into the optimum conditions because numerous parameters must be taken into consideration and be controlled [3]. Additionally, some parameters are difﬁcult to estimate due to technical or economic constraints, i.e., the substrate consumption measurement is expensive, needs three hours and to be done off-line [4]. In this respect, mathematical modeling and computer simulation are a good tool for these purposes. +
+
+Various mathematical models have been constructed for
+anaerobic digestion processes. Since the initial dynamic
+mathematical digester models in the late 1960s by Andrews
+JF (1968) and Graef SP (1974) [6], additional and more
+complex models have been developed to account for significant microbial interactions and inhibitions [5]. These models include additional processes with more detailed kinetics
+with inhibition and various kind of substrates. However, the
+task of achieving valid kinetic constants is difﬁcult, due to
+its complex dynamic process that involves several groups of
+bacteria. The objective of the study reported here is to introduce simulations of anaerobic digestion of fruit and vegetable
+waste, and to determine some unknown parameters from the
+proposed mathematical models [14]. The simplifying model
+proposed by P. Sosnowski et al., [9] was applied to this study,
+in order to obtain a mathematical model simulating the exact
+conditions.
+
+2 Materials and Methods
+2.1
+
+Substrate and Inoculum
+
+The FVW as the substrate was collected from the local
+market, while inoculum was provided from biogas plant located in Tsuyama, Okayama, Japan. The sample consisted
+of bananas, potatoes, paprika, apples, broccoli, lettuce, cabbage, and cucumbers. The samples were prepared into small
+pieces using blender. The ratio between FVW and inoculum
+was 50:50, with initial condition of inoculum and substrate
+concentration was 0.107 g TS/L and 13 g COD/L, respectively.
+
+2.2 Batch Digester Setup
+
+Batch experiment was carried out using 2 L digester made
+of glass. The detail of digester setup is showed in Fig.1.
+The working volume was 1.8 L, inoculated with 0.9 L for
+each FVW and inoculum, respectively. The temperature was maintained at 37◦C with waterbath, and operated for 30 days.
+It was done in one-run experiment, and the experiment was
+terminated after reaching the end of gas production.
+
+Figure 1. Batch Experiment with 2 L digester.
+
+2.3 Analytical Methods
+
+The following parameters were determined: elemental
+analysis (C,H,N), COD, TS, biogas volume, and concentration of CH4 and CO2 which were done every six days (day
+3, day 9, day 15, day 21, and day 27). VFA (volatile fatty
+acid) was not measured during experiment, only determined
+by simulation. Biogas volume was measured by using displacement method. The elemental analysis, COD, TS, and
+concentration of CH4 and CO2 were carried out in accordance to Standard Methods.
+
+For elemental analysis (C,H,N), The PerkinElmer 2400ii
+CHN Elemental Analyzer was used. Concentration of CH4
+and CO2 were determined using gas chromatograph Shimadzu GC-8A1F equipped with a 6m x 2 stainless steel column (FID). The temperature of column was set to be 60◦C.
+The gas sample was injected to the inlet for 500 µL. Argon
+was used as the carrier gas.
+
+3.1 Biogas Production
+
+Anaerobic digestion processes of fruit and vegetable
+wastes were done for 30 days. The measurements of biogas volume, concentration and composition were done on
+day 3, 9, 15, 21, and 27. In the experiment biogas increased
+quickly at the beginning and reached maximum in the day
+three, while it decreased until reached zero in the end of gas
+production (Fig. 2). Figure 3 illustrates that methane and
+carbon dioxide generation was stable after day 21. Methaneproducing bacteria have 14-day regeneration, so they need
+longer time to produce methane [3]. Fruit and vegetable
+wastes are rapidly degraded in the ﬁrst stage and produce
+volatile fatty acids.
+It tends to inhibit methane-producing
+bacteria when the feedstock is not adequately buffered [10].
+From Fig.2, Fig.3, and Fig.4 showed that concentration
+of methane during ﬁve days was low compared to the volume. This conditions show that during start-up phase, anaerobic condition was not fully reached. This phase should be
+proceed slowly until it stable in about one month. It is also
+important to fully maintain and monitor the condition of digester during this phase, such as temperature and pH, especially when the inoculum is not in a good condition [15].
+
+Figure 2. Biogas Volume.
+
+3 Results
+
+The whole feedstock collected has been analyzed before
+it put inside the digester. The high moisture content in the
+fruit and vegetable waste (89%) facilitates the anaerobic digestion process into optimum. CN ratio of the feedstock was
+33,7:1. In fact, the ratio of CN in the feedstock should be
+in the range of 20:1-30:1, because bacteria use up carbon
+25-30 times faster than they use nitrogen [7][12]. The experiment results of CN ratio showed that it is slightly higher
+than the optimal range. The optimal CN ratio in feedstock is
+important to anaerobic process. If it is too high, the nutrient
+deﬁciency for growth and reproduction of anaerobic bacteria
+may occur which will lead to biogas depletion [1][7].
+
+The pH during anaerobic process was not maintained in order to accomplish an anaerobic processes without any interference. A major limitation of anaerobic digestion of FVW is
+the rapid acidiﬁcation due to the lower pH of wastes and the
+larger production of VFA, which reduce the methanogenic
+activity of the reactor. These conditions were also conﬁrmed
+in some investigations, where rapid acidiﬁcation of wastes
+can lead to VFA accumulation, pH decrease and inhibit the
+production of biogas [7][10][13].
+
+3.2 Kinetics of Anaerobic Digestion
+
+The proposed model was based on the stages described in
+paper by P. Sosnowski et al., [9]. First stage, hydrolytic bacteria hydrolyzed the organic compounds into a simple soluble
+compounds and then into volatile fatty acids by acid-forming
+
+[#3]#Page 3#
+
+Universal Journal of Agricultural Research 5(3): 197-201, 2017
+
+199
+
+bacteria. In the second stage, acetogenic bacteria lumped together with methanogenic bacteria converted products from
+previous stage into methane and carbon dioxide.
+
+dCO2
+
+V F A
+
+dt
+
+= YCO2/SkS  YCO2/V F AVV F AX0
+
+KS  V F A
+(4)
+where k is the constant of ﬁrst-order kinetics (d−1), S is
+substrate concentration (g/L), V F A is volatile fatty acids
+concentration (g/L), YV F A/S is the yield factor of V F A
+from S, VV F A is the maximum speciﬁc utilization of V F A
+rate, KS is the saturation constant (g/L), X0 is the biomass
+concentration (g/L), YCH4/V F A is the yield factor of CH4
+from V F A, YCO2/S is the yield factor of CO2 from S, and
+YCO2/V F A is the yield factor of CO2 from V F A.
+
+Figure 3. Biogas Concentration.
+
+Initial value problems for proposed model (Eq.1-4) were
+solved with Adams- Bashforth-Moulton Predictor-Corrector
+method in conjunction with the Runge-Kutta method to generate values of numerical solutions at the ﬁrst three steps,
+while kinetic parameters were analyzed by trial-error methods. The fourth-order Adams-Bashforth-Moulton PECE
+(Predictor-Evaluate Corrector-Evaluate) mode is a fourth order method. That means that numerical values of the solution
+at previous four steps are used to generate the value at the
+new step. It is necessary to generate numerical values of the
+solution at the ﬁrst three steps. The Runge-Kutta method was
+applied for that purpose [8][11]. In particular, there are ﬁve
+parameters.
+
+k : [kmin; kmax]
+
+Y V F A/S : [Y vf amin; Y vf amax]
+V V F A : [V vf amin; V vf amax]
+Y CH4/V F A : [Y ch4vmin; Y ch4vmax]
+Y CO2/V F A : [Y co2vmin; Y co2vmax]
+
+An interval was set for each of those parameters. Each
+of those intervals were divided into 10 subintervals of equal
+length. The values of the parameters which minimizes the
+error for all ﬁve experimental points for each methane and
+carbon dioxide:
+
+Figure 4. Biogas Composition.
+
+The model included carbon dioxide formation both in hydrolysis and methanogenesis stages. The hydrolysis was described by the ﬁrst-order kinetics. The methanogenesis was
+treated as Monod-like reaction. Those processes were described by the following system of differential equations:
+
+= −kS
+
+dS
+dt
+
+= YV F A/SkS − VV F AX0
+
+dV
+dt
+
+dCH4
+
+dt
+
+= YCH4/V F AVV F AX0
+
+V F A
+
+KS  V F A
+
+V F A
+
+KS  V F A
+
+(1)
+
+(2)
+
+(3)
+
+(cid:113)
+
+(CH4exp − CH4num)2  (CO2exp − CO2num)2
+
+(5)
+
+It was sought among the sets of the parameter values
+
+k = kmin  i(cid:52)k
+
+YV F A/S = YV F A/S  i(cid:52)YV F A/S
+VV F A = VV F A  i(cid:52)VV F A
+YCH4/V F A = YCH4/V F A  i(cid:52)YCH4/V F A
+YCO2/V F A = YCO2/V F A  i(cid:52)YCO2/V F A
+
+with i = 0,1,...,n
+
+where
+
+[#4]#Page 4#
+
+200
+
+Numerical Study of Anaerobic Digestion Processes and Biogas Generation
+from Fruit and Vegetable Waste
+
+(cid:52)k =
+(cid:52)YV F A/S =
+(cid:52)VV F A =
+(cid:52)YCH4/V F A =
+(cid:52)YCO2/V F A =
+
+,
+
+n
+
+n
+
+kmax − kmin
+Y vsmax − Y vsmin
+,
+V vf amax − V vf amin
+,
+Y ch4vmax − Y ch4vmin
+Y co2vmax − Y co2vmin
+
+n
+
+n
+
+lead to accumulation of VFA which decrease the pH further.
+Fig. 6 illustrates VFA degradation in ideal condition where
+there are no inhibitions. Anaerobic digestion processes without inhibitions mean the methanobacteria are able to convert
+all VFA to methane.
+
+(6)
+
+,
+
+n
+
+,
+
+for n = 12000. Results of parameter estimation are
+
+explained in Table 1.
+
+Table 1. Description of Kinetics Parameter Used in the Model
+
+Kinetics Parameters
+
+Value
+
+k
+KS
+
+YV F A/S
+
+YCH4/V F A
+
+VV F A
+YCO2/S
+
+YCO2/V F A
+
+0.000208
+
+11.25
+35.3
+0.46
+
+0.00307
+
+0.29
+0.34
+
+Unit
+
+day−1 (* numerical)
+
+g/l (** [9])
+
+- (* numerical)
+- (* numerical)
+
+day−1 (* numerical)
+
+- (** [9])
+
+- (*)
+
+The comparison between experimental and simulation results for CH4 and CO2 concentration are shown in Fig. 5,
+while simulation results for concentration of substrate and
+volatile fatty acids are shown in Fig. 6, respectively. As
+stated before, FVW contains low cellulose, which can lead
+to a rapid acidiﬁcation process. If it is not maintained properly, the pH digester will decrease and inhibit the methane
+bacteria [1].
+
+Figure 5. Comparison between Numerical and Experimental. (line:
+simulation, dots: experimental.)
+
+VFAs are produced as the end products of bacterial
+metabolism of protein, fat, and carbohydrate. These products are converted to methane by methanobacteria (methaneproducing bacteria). The inhibition of methane bacteria can
+
+Figure 6. Degradation of Substrate (red) and Volatile Fatty Acid
+(green):
+Simulation.
+
+Fig. 5 illustrates that the proposed model lack of ﬁt with
+the experimental data. The generation of methane and carbon dioxide starts very slowly from the beginning of experiments, while the simulations show that it generates rapidly
+until it reaches maximum and then stops producing at the end
+of the process. The Monod kinetic proposed here is incapable
+of describing the anaerobic digestion processes under inhibitions.
+
+4 Conclusions
+
+Batch experiments were conducted in laboratory scale
+bioreactor with fruit and vegetable waste and sludge from
+biogas plants as the feedstock.
+It was found that the biogas production increased rapidly at the beginning of experiments until it decreased at the end of experiments, and the
+concentration of methane and carbon dioxide was stable after
+day 21. The experiment results also showed that the compositions of methane and carbon dioxide were low. Fruit and
+vegetable waste contains small amounts of cellulose, which
+caused rapid acidiﬁcation and lead to the increase of volatile
+fatty acid and pH decrease. This may inhibit the production
+of methane. pH monitoring is need to be done in order to
+maintain the production of volatile fatty acid and prevent the
+digester failure.
+
+The mathematical models introduced here can be a good
+tool to explain the whole anaerobic processes. However,
+Monod kinetics is incapable of describing the anaerobic digestion processes under inhibitions. Some investigations
+were introduced to explain kinetics of anaerobic digestion
+under inhibition [13] which can be considered in the future
+investigations.
+
+[#5]#Page 5#
+
+Universal Journal of Agricultural Research 5(3): 197-201, 2017
+
+201
+
+Batch experiments are commonly used in anaerobic digestion process for kinetic parameter estimation. However, the
+main disadvantage of batch test for parameter estimation is
+the lack of input, since the only input is the initial condition.
+This can be mitigated by using different sets of initial condition [14].
+
+Acknowledgements
+
+In this study, inoculum was provided by the Okayama Prefectural Livestock Research Institute (Chikusan Kenkyuujo).
+
+REFERENCES
+
+[1] B. Sitorus, Sukandar, Panjaitan, Seno D. Biogas Recovery
+from Anaerobic Digestion Process of Mixed Fruit-Vegetable
+Wastes. International Conference on Sustainable Energy Engineering and Application, ICSEEA 2012. Energy Procedia,
+vol. 32, pp. 176-182, 2013.
+
+[2] E.C. Price and R.N. Cheremissinoff. Biogas-Production and
+
+Utilization. Ann Arbor Science Publ., 1981.
+
+[3] D. Deublein and A. Steinhauser. Biogas from Waste and Renewable Resources. A John Wiley and Sons, Inc. Publication.
+ISBN 978-3-527-31841-4, 2008.
+
+[4] S. Carlos-Hernandes, et al. Fuzzy Observers for Anaerobic
+WWTP: Development and Implementation. Control Engineering Practice, vol. 17, pp. 690-702, 2009.
+
+[5] Yu, L., Christian Wensel, P., Ma, J., Chen, S. Mathematical
+Modeling in Anaerobic Digestion-AD. Journal of Bioremediation and Biodegradation. ISSN 2155-6199 JBRB, 2013.
+
+[6] Mata-Alvarez, J., Mtz.-Viturtia, A., Llabres-Luengo, P., Cecchi, F.. Kinetic and Performance Study of Fruit and Vegetable
+Wastes. Biomass and Bioenergy, vol. 5, no. 6, pp. 481-488,
+1993.
+
+[7] Lin, J., Zuo, J., Gan, L., Li, P., Liu, F., Wang, K., Chen, L.,
+Gan, H. Effects of Mixture Ratio on Anaerobic Co-Digestion
+
+with Fruit and Vegetable Waste and Food Waste of China.
+Journal of Environmental Sciences, vol. 23, no. 8, pp. 14031408, ISSN 1001-0742 CN11-2629/X, 2011.
+
+[8] P.K. Wardhani. Modeling and Simulation of Biogas Production from Anaerobic Digestion of Fruit and Vegetable Waste.
+Thesis, Okayama University, 2014.
+
+[9] P. Sosnowski, et al. Kinetic Investigations of Methane CoFermentation of Sewage Sludge and Organic Fraction of Municipal Solid Waste. Bioresource Technology, vol. 99, pp.
+5731-5737, 2008.
+
+[10] H. Bouallagui, et al. Bioreactor Performance in Anaerobic Digestion of Fruit and Vegetable Waste. Process Biochemistry,
+vol. 40, pp. 989-995, 2005.
+
+[11] P.K. Wardhani, M. Watanabe. Numerical Study on Anaerobic
+Digestion of Fruit and Vegetable Waste: Biogas Generation. AIP Conference Proceeding, 1707, 050017, doi:
+10.1063/1.4940849, 2016.
+
+[12] C. Polprasert. Organic Waste Recycling, Technology
+ISBN
+
+IWA Publishing,
+
+and Management, 3rdEdition.
+184339121X, 2007.
+
+[13] H. N. Gavala, I. Angelidaki, B.K. Ahring. Kinetics and Modeling of Anaerobic Digestion Process. Advances in Biochemical Engineering/Biotechnology, vol. 81, pp. 57-93, 2003.
+
+[14] A. Donoso-Bravo, J. Mailier, C. Martin, J. Rodriguez, C. A.
+Aceves-Lara, A. V. Wouver. Model Selection, Identiﬁcation
+and Validation in Anaerobic Digestion: A review. Water Research, vol. 45, pp. 5347-5363, 2011.
+
+[15] M. H. Gerardi. The Microbiology of Anaerobic Digesters.
+Wastewater Microbiology Series. ISBN 0-471-20693-8. 2003
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5]

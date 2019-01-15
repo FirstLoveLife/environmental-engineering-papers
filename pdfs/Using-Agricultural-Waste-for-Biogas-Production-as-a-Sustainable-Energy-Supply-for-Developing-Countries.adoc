@@ -1,0 +1,595 @@
+Using Agricultural Waste for Biogas Production
+
+as a Sustainable Energy Supply for Developing Countries
+
+
+
+The paper focuses on the research, development, and application of
+simple, reliable, efficient, and
+low-maintenance technology for the production of biogas from local
+organic agricultural wastes in the Republic
+of Togo. This technology is intended as a sustainable decentralised
+energy supply, which should meet
+the economic and social conditions of developing countries in the West
+African region. The paper briefly outlines
+the current state of small-scale biogas production in Africa. Several
+reviews of the already existing and operated
+facilities in the mentioned area are named and evaluated. Specific
+opportunities, limitations, and experience are
+discussed and the results of the biogas production studies using
+pineapple waste, carried out at Augsburg
+University of Applied Sciences and at Brno University of Technology, are
+presented.
+
+1. Introduction
+
+Togo’s recent economic performance has been relatively robust with the
+gross domestic product growth being,
+on average, 5.5 % in the last five years. Such economic development
+requires a stable energy supply; however,
+the country’s electrification ratio remains low and the electricity
+supply is unreliable. In 2014, about 46 % of the
+population of Togo (in the rural areas only 16 %) had access to
+electricity, which was primarily supplied through
+thermal power plants, imports from Nigeria and Ghana, and some
+hydropower plants. Although the share of
+renewable sources in the total energy consumption is relatively high,
+72.8 %, this includes over 50 % of
+traditional solid biomass that is not sustainably used (The World Bank,
+2018). Still, the potential of Togo (or
+other West African countries) in terms of decentralised renewable energy
+resources is significant. The present
+research therefore focuses on the development of simple and efficient
+biogas production technology from
+pineapple solid wastes, which would represent a sustainable alternative
+to the conventional energy sources
+used in Togo such as imported heavy fuel oil or natural gas. The
+objective is to find the conditions leading to
+the maximum biogas production and to develop a reliable technology
+featuring low investment and operating
+costs, which would be usable in developing countries.
+About 100 plants with different digester sizes between 10 m3 and 30 m3
+were installed in 2011 in Ghana
+according to Arthur et al. (2011). In these plants, the input material
+consists of liquid and solid residues of animal
+farming, human excreta, agricultural residues, and kitchen waste. Arthur
+et al. also state that, in general, only
+three main digester types are employed – fixed dome digester, floating
+drum digester, and Puxin digester – and
+that the biogas is used mainly for cooking purposes where no gas
+purification is necessary. The reason for this
+is that production of electricity, where gas purity is essential
+(Sakhmetova et al., 2017), biogas upgrading (Miltner
+et al., 2016), biogas synthesis networks (Čuček et al., 2017), or other,
+more advanced technologies are often
+hard to implement in the discussed conditions. As for the bio-slurry on
+the output side, typically it is used as a
+fertiliser. What is more, half of the 100 plants mentioned by Arthur et
+al. have been visited by these authors and
+they point out that only half of those (i.e., 25) are running entirely
+without technical issues. The problems and causes of the failures of African biogas production facilities are
+described in detail by Amigun et al. (2008) and
+are as follows:
+
+• Poor design and construction of digesters, incorrect operation, lack
+of maintenance.
+• Poor dissemination strategy and the lack of project monitoring and
+follow-up by the promoters.
+• Poor ownership responsibility by users.
+• Failure by government to support biogas technology through a focused
+energy policy.
+
+A detailed study regarding drivers and barriers for the dissemination of
+biogas digesters in Ethiopia was given
+by Kamp and Bermúdez Forn (2016). In their paper they state that only
+around 40 % of the 1,000 biogas
+production plants with digester sizes ranging from 2.5 m3 to 200 m3
+installed in the last two decades are still
+being operated. In Uganda, socio-economic, demographic, and political
+topics related to the adoption of biogas
+production as a sustainable fuel source for cooking purposes and
+lighting were surveyed by Walekhwa et al.
+(2009). This study mentions that family-size digesters, which use mainly
+cow dung and other organic wastes
+from agriculture, show high potential but are not as wide-spread as they
+could be. Such digesters seem to have
+a more intense application in rural areas of India, Nepal, and China,
+where the different digester types are
+named after their local origin or inventors. Literature is available
+regarding application and optimization of their
+operation – e.g. Kalia (1988) compared the biogas yield of an advanced
+biogas plant type and the conventional
+fixed-dome type without any moving parts that is also known as Janata
+model. Construction details for the whole
+system, which comprised a material investment of about 500 US$ in 1988,
+were given. With an average
+temperature of less than 20 °C at the location where the discussed study
+was carried out, the performance in a
+West African climate would be very interesting.
+Example of a well-running, small-scale biogas production plant in a
+rural community in India was described by
+Reddy (2004). The whole community contribute with cow dung and as a
+reward people get biogas for cooking
+and lighting at an affordable price, and drinking water, which is
+provided by an electrical pump. Electricity is
+generated by a diesel engine with the generator being fuelled by a
+mixture of diesel and the produced biogas.
+Rajendran et al. (2012) presented an overall view of the employed
+digester types in different regions in the
+world. Advantages, disadvantages, construction details, and cost
+estimates were given for each of these types.
+Possibilities of using the biogas were described and, again, it was
+emphasized that careful operation of the
+digester was crucial for successful biogas production. Similarly, Hoo et
+al. (2017) reviewed successful biogas
+implementations in Bangladesh, China, India, Malaysia, Thailand, Japan,
+and some European countries where
+effective government support policies were in place. As for Malaysia in
+particular, being the second largest
+producer of palm oil in the world, Kwee et al. (2017) discussed biogas
+generation from palm oil mill effluent in
+the rural areas where it could be effectively used as an alternative
+source of energy.
+In terms of biogas production solely from fruit and vegetable wastes,
+for example Tahir et al. (2015) showed
+that a mixed fruit waste provides a 10 % larger biogas yield than a
+mixed fruit-vegetable waste. The same paper
+also discussed a scalable method to increase the methane content in the
+produced biogas to over 70 % using
+Ca(OH)2 as a way fulfil the Pakistan's energy demands with sustainable
+management of organic fraction of
+municipal solid waste.
+From all these studies as well as many others available it is clear that
+the commonly employed techniques are
+good enough to reach acceptable biogas yields; however, in terms of
+reliability and maintenance there still
+is much room for improvement. This is why it is important to develop a
+low-maintenance technology which would
+be simple yet reliable and efficient.
+
+2. Biogas production from pineapple wastes
+
+Seasonal processing of pineapples in Togo takes place primarily in
+decentralised small- and medium-sized
+enterprises such as the one shown in Figure 1. In 2016 the pineapple
+production in Togo was 1,908 t
+(FAOSTAT, 2018). A typical enterprise processes 1–2 t/d of fresh
+pineapples. The manufactured pineapple
+products are dried fruits and fruit juice and are mainly exported.
+The resulting pineapple waste is about 40 % related to the fresh weight,
+i.e., typically 400–800 kg/d can be used
+for biogas production. The biodegradable organic waste comprises peels,
+cores, stems, crown waste products,
+and discarded fruits with high moisture content. Since pineapple waste
+is rich in lignin, cellulose, hemicellulose,
+and other carbohydrates, it is appropriate to utilise anaerobic
+digestion. However, these compounds form stable
+incrustations, essentially complicating the biological decomposition of
+organic substances by hydrolysis, and
+therefore a pre-treatment of the waste by crushing before it is fed into
+the digester is recommended.
+Although the produced biogas is primarily intended for utilisation as a
+decentralised source of renewable energy,
+it can also be used as a fuel for the process of drying of the fruits.
+Moreover, biogas generation from the
+mentioned wastes contributes to improved waste management and,
+consequently, also to lesser environmental
+pollution in developing countries. Given the typical African climate,
+the liquid digestate is used directly, but in terms of developing countries with less dry climates its thickening via
+various evaporation methods (Vondra et
+al., 2016) could be beneficial.
+The main goal is to make the microbiological conversion of pineapple
+wastes into energy-rich biogas via
+hydrolysis, acidogenesis, acetogenesis, and methanogenesis as effective,
+stable, and safe as possible. The
+parameters, which influence this process, were discussed e.g. by
+Baranowski (2017). In order to explore how
+exactly they affect the performance of biogas production,
+laboratory-scale experiments were carried out in the
+first phase of the present research.
+
+3. Materials and methods
+
+All experiments were conducted at a laboratory-scale at temperatures
+corresponding to the mean ambient
+temperature in Togo. The influences of different process parameters on
+quantity and composition of biogas in a
+semi-batch reactor were investigated.
+In total, three test series – A, B, and C – with different substrate
+compositions have been successfully carried
+out at Augsburg University of Applied Sciences. Hydraulic retention
+times of 92 d, 73 d, and 67 d were used for
+the following analyses. The samples of the substrates evaluated in the
+laboratories had relatively low dry matter
+content (less than 8 wt.%) and therefore no pumps were required.
+Fermentation was carried out in digesters
+with effective volumes of 1–3 L with inlets for feeding and outlets for
+biogas and effluent. Because efficient
+microbiological decomposition of organic substances requires enlargement
+of the specific surface of the
+substrate, the pineapple waste was machine-minced into 1–3 mm
+particles.
+Cow dung was used as inoculation material and co-substrate at the ratios
+from 1:2.4 to 1:4 based on weight.
+The compositions of the substrates are listed in Tables 1–3. Dry matter
+fraction and moisture content of the
+substrates were determined via drying in an oven at 105 °C until a
+constant weight was obtained. For the
+determination of organic dry matter (ODM) fraction, the dried solid
+samples were combusted at 220 °C for 30 min
+and thereafter at 550 °C for 2 h. Fermentation took place at the
+temperature of (31.0–32.4)  2.0 °C and pH
+values between 6 and 8. The pH value was regulated through the addition
+of sodium hydrogen carbonate to
+ensure stability of the digestion process. Twice a day the substrate was
+carefully homogenized by manual
+stirring. Fermentation liquid was checked for pH value using a pH meter
+even though for plant control purposes
+the ratio of volatile organic acids to total inorganic carbon (VOA/TIC)
+is more suitable. The VOA/TIC value was
+determined by endpoint titration using dilute sulfuric acid. During
+experiments, gas samples were taken from
+the sampling ports for analysis at regular intervals. The actual gas
+compositions were identified using gas
+chromatography mass spectrometry. Temperature, pH value, and biogas and
+methane productions during
+fermentation were determined.
+
+Table 1: Properties of a substrate digested in the digester with
+effective volume of 3 L and hydraulic retention
+time of 92 d (test series A)
+
+Substrate
+Pineapple waste
+Cow dung
+Water
+Total
+
+Weight [g] Mass fraction [%]
+
+Dry matter [wt.%]
+
+Organic dry matter [wt.%]
+
+438.2
+1040.5
+2413.0
+3463.7
+
+11.26
+26.74
+62.00
+100.00
+
+1.61
+3.84
+
+0
+
+5.45
+
+60.10
+119.68
+
+0
+
+179.78
+
+447
+
+[#4]#Page 4#
+
+Table 2: Properties of a substrate digested in the digester with
+effective volume of 1 L and hydraulic retention
+time of 73 d (test series B)
+
+Substrate
+Pineapple waste
+Cow dung
+Water
+Total
+
+Weight [g] Mass fraction [%]
+
+Dry matter [wt.%]
+
+Organic dry matter [wt.%]
+
+80.0
+319.7
+760.0
+1,159.7
+
+6.90
+27.57
+65.53
+100.00
+
+0.99
+3.96
+
+0
+
+4.95
+
+10.97
+36.77
+
+0
+
+47.74
+
+Table 3: Properties of a substrate digested in the digester with
+effective volume of 2 L and hydraulic retention
+time of 67 d (test series C)
+
+Substrate
+Pineapple waste
+Cow dung
+Water
+Total
+
+Weight [g] Mass fraction [%]
+
+Dry matter [wt.%]
+
+Organic dry matter [wt.%]
+
+203.3
+508.3
+1,713.6
+2,425.2
+
+8.38
+20.96
+70.66
+100.00
+
+1.20
+3.01
+
+0
+
+4.21
+
+27.88
+58.47
+
+0
+
+86.35
+
+4. Results and discussion
+
+It was found that pineapple waste can be used successfully for biogas
+generation under anaerobic conditions.
+The produced raw biogas contained 41.0–70.5 vol.% of methane, 7.0–55.9
+vol.% of carbon dioxide, as well as
+water vapor, oxygen, nitrogen, and other components. The performance
+evaluation of anaerobic digestion
+in terms of all the performed test series A, B, and C can be made on the
+basis of methane yield related to the
+organic dry matter content as shown in Figure 2. In test series A, which
+used the digesting substrate according
+to Table 1, the highest methane yield of around 113.8 L/kg ODM after 92
+d was achieved due to the larger
+digester volume, while methane yields in test series B and C taking 73 d
+and 67 d remained significantly lower.
+Furthermore, the rates of methane formation vary greatly. In the test
+series A, the pineapple wastes were mixed
+with fresh cow dung as inoculation material and fed into the digester.
+In contrast, in the other two cases, B and
+C, cow dung had been stored for a few days before being mixed with
+pineapple wastes so that the growth of
+methanogenic microorganisms had already started and, subsequently, the
+increase rates of methane formation
+were higher. As for the adjustment carbon to nitrogen ratio (C/N),
+values between 25.8:1 and 31.8:1 were found
+to be suitable for biogas generation from the various substrates
+examined in this study.
+
+Figure 2: Effects of digester volume, V, temperature, t, and carbon to
+nitrogen ratio (C/N) on methane yield
+based on organic dry matter (ODM).
+
+
+
+448
+
+[#5]#Page 5#
+
+As for the temperature and pH value profiles, these were similar in all
+the three tests series. In terms of e.g. the
+test series A, the profiles are shown in Figure 3. Here, the substrate
+temperature was 32.3 ± 2.0 °C during the
+entire experimental period. This corresponds to the mesophilic operating
+conditions for which the reaction rate
+is slow but more robust and stable than biogas production at
+thermophilic conditions (Schnürer and Jarvis,
+2009). Considering the pH, according to Rao et al. (2010) the optimal
+efficiency of the methanogens is reached
+within the pH range of 6.5–8.0, while in case of acetogens the
+respective range is 5.0 – 8.5. Korres and Nizami
+(2013), on the other hand, reported that the optimum operating pH range
+for anaerobic digesters should be
+between 7.0 and 8.5. Because the pH value fell sharply due to hydrolysis
+and acidification at the beginning of
+the tests, a total of 32 g of sodium hydrogen carbonate were added to
+adjust the pH value between 6.0 and 7.6
+in the course of the first 6 d. The formation of methane started after
+48 d and took place mainly at the pH around
+7.3 (see also Figure 4). Apart from that, Figure 4 also shows for the
+test series A the corresponding cumulative
+biogas and methane productions depending on the hydraulic retention
+time. It can be seen that virtually no
+methane was formed within the first 48 d (the generated biogas consisted
+almost exclusively of carbon dioxide
+and hydrogen). The fluctuating rate of methane formation in the
+following 44 d was caused by repeated gas
+sampling. The gas formation period ended after 92 d, during which 49.00
+L of biogas and 20.46 L of methane
+were formed. This corresponds to the methane concentration of 41.7
+vol.%.
+
+Figure 3: Profiles of temperature and pH value during fermentation of
+the substrate according to Table 1 (test
+series A).
+
+
+
+Figure 4: Cumulative biogas and methane production and methane formation
+rate from the substrate according
+to Table 1 (test series A).
+
+
+
+449
+
+[#6]#Page 6#
+
+5. Conclusions
+
+In this study, the conversion of pineapple solid wastes into energy-rich
+biogas by means of laboratory-scale
+anaerobic digestion was investigated. It was found that pineapple waste
+has a high potential for biogas
+production. The process parameters significantly influencing the
+quantity and quality of biogas formation using
+a semi-batch process were identified. The goal was to obtain the highest
+possible methane yield from
+the available pineapple waste, which was achieved using a digester
+having the effective volume of 3 L and
+a pineapple waste to cow dung ratio of 1:2.4. The resulting methane
+yield was 113.8 L/kg ODM after the
+hydraulic retention time of 92 d. The methane content of the produced
+biogas ranged from 41.0 vol.%
+to 70.5 vol.%. As for the feasibility of biogas technology in Togo, the
+next steps are the scale-up of the obtained
+laboratory results and the construction of a pilot plant. This low-cost
+plant has already been manufactured and
+is equipped with a 60 L digester able to treat substrate volumes of 50 –
+55 L.
+
+Acknowledgement
+
+The authors gratefully acknowledge financial support within the project
+NETME CENTRE PLUS (LO1202) which
+was co-funded by the Czech Ministry of Education, Youth and Sports
+within the support programme National
+Sustainability Programme I.
+
+References
+
+Arthur R., Baidoo M.F., Antwi E., 2011, Biogas as a potential renewable
+energy source: a Ghanaian case study,
+
+Renewable Energy, 36, 1510–1516.
+
+Amigun B., Sigamoney R., Blottnitz H.V., 2008, Commercialisation of
+biofuel industry in Africa: A review,
+
+Renewable and Sustainable Energy Reviews, 12, 690–711.
+
+Baranowski C., 2017, BEng Thesis, Augsburg University of Applied
+Sciences, Augsburg, Germany.
+Čuček L., Hjaila K., Klemeš J.J., Kravanja Z., 2017, Onion diagram
+implementation to the synthesis of a biogas
+
+production network, Chemical Engineering Transactions, 61, 1687–1692.
+
+FAOSTAT,
+
+2018,
+
+<www.factfish.com/statistic/pineapples%2C%20production%20quantity>
+
+accessed
+
+22.03.2018.
+
+Hoo P.Y., Hashim H., Ho W.S., Tan S.T., 2017, Successful biogas
+implementation – a mini-review on biogas
+
+utilization, energy policies and economic incentives, Chemical
+Engineering Transactions, 61, 1495–1500.
+
+Kamp L.M., Bermúdez Forn E., 2016, Ethiopia׳s emerging domestic biogas
+sector: Current status, bottlenecks
+
+and drivers, Renewable and Sustainable Energy Reviews, 60, 475–488.
+
+Kalia A.K., 1988, Development and evaluation of a fixed dome plug flow
+anaerobic digester, Biomass, 16, 225–
+
+235.
+
+Korres N.E, Nizami A.S., 2013, Variability in anaerobic digestion: The
+need for process monitoring, Chapter In:
+Korres N.E., O'Kiely P., Benzie J.A., West J.S. (Eds.), bioenergy
+production by anaerobic digestion using
+agricultural biomass and organic waste, Routledge (Taylor and Francis
+Group), Oxford, UK, 194–231.
+
+Kwee L.M., Hashim H., Ying H.P., Shin H.W., Yunus N.A., Shiun L.J.,
+2017, Biogas generated from palm oil mill
+effluent for rural electrification and environmental sustainability,
+Chemical Engineering Transactions, 61,
+1537–1542.
+
+Miltner M., Makaruk A., Harasek M., 2016, Selected methods of advanced
+biogas upgrading, Chemical
+
+Engineering Transactions, 52, 463–468.
+
+Rajendran K., Aslanzadeh S., Taherzadeh M.J., 2012, Household biogas
+digesters – A review, Energies, 5,
+
+2911–2942.
+
+Rao P.V., Baral S.S., Dey R., Mutnuri S., 2010, Biogas generation
+potential by anaerobic digestion for
+
+sustainable energy development in India, Renewable and Sustainable
+Energy Reviews, 14, 2086–2094.
+
+Reddy A.K., 2004, Lessons from the Pura community biogas project, Energy
+for Sustainable Development, 8,
+
+68–73.
+
+Sakhmetova G., Brener A., Shinibekova R., 2017, Scale-up of the
+installations for the biogas production and
+
+purification, Chemical Engineering Transactions, 61, 1453–1458.
+
+Schnürer A., Jarvis Å., 2009, Microbiological handbook for biogas
+plants, Swedish Waste Management
+
+U2009:03, Report 207, Swedish Gas Centre, Malmö, Sweden.
+
+Tahir M.S., Shahzad K., Shahid Z., Sagir M., Rehan M., Nizami A., 2015,
+Producing methane enriched biogas
+
+using solvent absorption method, Chemical Engineering Transactions, 45,
+1309–1314.
+
+The World Bank, 2018, Global tracking framework. country data – Togo,
+<gtf.esmap.org/country/togo>
+
+accessed 26.02.2018.
+
+Vondra M., Máša V., Bobák P., 2016, The potential for digestate
+thickening in biogas plants and evaluation
+
+of possible evaporation methods, Chemical Engineering Transactions, 52,
+787–792.
+
+Walekhwa P.N., Mugisha J., Drake L., 2009, Biogas energy from
+family-sized digesters in Uganda: Critical
+
+factors and policy implications, Energy Policy, 37, 2754–2762.
+
+450
+
+Page: link:#1[1], link:#2[2], link:#3[3], link:#4[4], link:#5[5],
+link:#6[6]
