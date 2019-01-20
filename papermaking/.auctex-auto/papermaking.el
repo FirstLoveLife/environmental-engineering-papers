@@ -2,7 +2,7 @@
  "papermaking"
  (lambda ()
    (LaTeX-add-bibitems
-    "造纸白泥制备陶瓷滤料的技术研究"
+    "Application_ofLim_eM_ud_forPreparation_ofCeram_sites"
     "article"
     "Needham_Joseph_1986_Science_and_Civilization_in_China"
     "World_Archaeological_Congress_eNewsletter"

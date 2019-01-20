@@ -76,6 +76,16 @@ gampi。在喜马拉雅山脉，纸张是由lokta植物制成的。今天，这�
 的再利用是最常用的方法。由于环境和经济原因，未来应该改善这种情况。cite:Kinnarinen_2016
 
 * 白泥（lime mud)的定义
+造纸 白泥 (Limemud)是造 纸工业 中的一种副
+产品，来源于碱 回收过程 中的苛化反应0 ，其主要
+化学成分是碳酸钙 ，具有较高碱性 ，pH值介于 9．7～
+13．5，且存在 cr、Mn、Fe等碱性金 属[2-4]，因此被
+认为是一种有害的固体废弃物 。目前我国每年产生的
+白泥多达 1000万 t，这些 白泥 中只有少部分 得到利
+用 。绝大多数企业将 白泥堆放或填埋 ，不但 占用
+了土地资源 ，还会对土壤 、地下水造成污染 ，也浪费
+了白泥中大量的资源。cite:Application_ofLim_eM_ud_forPreparation_ofCeram_sites
+
 白泥（lime mud)是造纸工业中碱回收过程的苛化反应过程中产生的一种废物。白泥（lime mud)和粉煤灰被重新
 用作原料，通过固态反应制造钙长石陶瓷。烧结温度和白泥（lime mud)含量均影响制备的陶瓷中的结
 晶相。钙长石是所有样品中的主要相（样品L36，L40，L50和L60），并且在样品L36（含有
@@ -156,12 +166,6 @@ Ca2SiO4（几乎30w-％），CaNa2（CO3）2·2H2O（约20-30w-％），Ca（OH�
 - [[https://git-scm.com/][git]] -- 本文在书写中使用git来进行版本控制，虽然大部分push等操作都是通过emacs的
   magit来完成的。好处是可以回滚至任一commit， 且能备份防灾。
 
-
-bibliographystyle:alpha
-bibliography:manuscript.bib
-
-
-linktest: cite:造纸白泥（lime mud)制备陶瓷滤料的技术研究
 
 bibliography:papermaking.bib
 bibliographystyle:alpha

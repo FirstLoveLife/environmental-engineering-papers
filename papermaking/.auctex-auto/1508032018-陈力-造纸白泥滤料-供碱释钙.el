@@ -30,21 +30,20 @@
     "float"
     "ctex")
    (LaTeX-add-labels
-    "sec:orgdf47a05"
-    "sec:org15b2c37"
-    "sec:org76d7326"
-    "sec:org1fb37f7"
-    "sec:org5aea3b7"
-    "sec:org297b497"
-    "sec:org3ae0676"
-    "sec:org1eb26ad"
-    "sec:orgf60a219"
-    "sec:orga911ae8"
-    "sec:org032ba38"
-    "sec:org578c846"
-    "sec:org6f04307")
+    "sec:orgbfc1aa0"
+    "sec:org2e0285b"
+    "sec:orgbfccf4f"
+    "sec:org6c1ae40"
+    "sec:org11e291b"
+    "sec:org758e024"
+    "sec:org1879875"
+    "sec:org350a906"
+    "sec:orge38e1ae"
+    "sec:org39adcac"
+    "sec:orga598813"
+    "sec:orgbf17c81"
+    "sec:org1eb94cb")
    (LaTeX-add-bibliographies
-    "manuscript"
     "papermaking"))
  :latex)
 
