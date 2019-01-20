@@ -1,0 +1,3 @@
+* build
+
+git clone my emacs-config, then <kbd>C-c C-e l l C-c C-e l o</kbd>
