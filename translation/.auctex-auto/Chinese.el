@@ -30,16 +30,16 @@
     "float"
     "ctex")
    (LaTeX-add-labels
-    "sec:orgc686a7c"
-    "sec:orga9c576e"
-    "sec:org6aa854c"
-    "sec:org4ae9519"
-    "sec:org3009fa0"
-    "sec:org4e54e98"
-    "sec:org0755e36"
-    "sec:org6f134f6"
-    "sec:orgfec6faf"
-    "sec:org1424aba")
+    "sec:orgd4a0af2"
+    "sec:org09b26ae"
+    "sec:org66c6a9e"
+    "sec:org4216069"
+    "sec:org5d674b0"
+    "sec:org09e0eeb"
+    "sec:org7a375db"
+    "sec:org1d5806a"
+    "sec:orgede5c8c"
+    "sec:orgaa62f8f")
    (LaTeX-add-bibliographies
     "man"))
  :latex)
