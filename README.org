@@ -1,3 +1,39 @@
 * build
 
-git clone my emacs-config and doom-emacs develop branch, then ~C-c C-e l l C-c C-e l o~
+git clone [[github:FirstLoveLife/Black-RX][my emacs-config]]and [[github:hlissner/doom-emacs/][doom-emacs develop(clone then checkout) branch]],
+
+then =org-export-dispatch=
+- ~C-c C-e l l~
+- ~C-c C-e l o~
+
+* my org to tex configs:
+https://github.com/FirstLoveLife/Black-RX/blob/master/config.el#L402:
+
+#+BEGIN_SRC lisp
+(setq reftex-default-bibliography '("~/bibliography/references.bib"))
+
+(setq org-ref-bibliography-notes "~/bibliography/notes.org"
+      org-ref-default-bibliography '("~/bibliography/references.bib")
+      org-ref-pdf-directory "~/bibliography/bibtex-pdfs/")
+
+
+
+(setq org-latex-pdf-process
+      '(
+        "rm -fr %b.out  %b.bbl %b.log %b.aux %b.blg %b.toc auto texput.log"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "bibtex %b"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
+        "rm -fr %b.out %b.bbl %b.log %b.aux %b.blg %b.toc auto texput.log"
+        ))
+(setq org-latex-compiler "xelatex")
+#+END_SRC
