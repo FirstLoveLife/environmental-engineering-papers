@@ -1,6 +1,6 @@
 * build
 
-git clone [[github:FirstLoveLife/Black-RX][my emacs-config]]and [[github:hlissner/doom-emacs/][doom-emacs develop(clone then checkout) branch]],
+git clone [[https://github.com/FirstLoveLife/Black-RX][my emacs-config]] then [[https://github.com/hlissner/doom-emacs/tree/develop/][doom-emacs develop(clone then checkout) branch]]
 
 then =org-export-dispatch=
 - ~C-c C-e l l~
