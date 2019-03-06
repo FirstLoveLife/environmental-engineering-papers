@@ -39,17 +39,17 @@
     "natbib"
     "ctex")
    (LaTeX-add-labels
-    "sec:org3c4677e"
-    "sec:org30b7f8a"
-    "sec:orgf118cac"
-    "sec:orgddfb468"
+    "sec:orgcbde3f0"
+    "sec:orga0215d2"
+    "sec:org0a50eb5"
+    "sec:org29c3860"
     "tab:title"
-    "sec:orgc61bcba"
-    "sec:orgda4daff"
-    "sec:orgf951b0a"
-    "sec:org6d1a1c0"
-    "sec:orge4d909d"
-    "sec:org4f8c39c")
+    "sec:org0978821"
+    "sec:org284a800"
+    "sec:org17ca30e"
+    "sec:org93a0056"
+    "sec:orgd4f9b7f"
+    "sec:orgc15e583")
    (LaTeX-add-bibliographies
     "man"))
  :latex)
