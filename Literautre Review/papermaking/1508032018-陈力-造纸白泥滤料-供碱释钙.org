@@ -1,4 +1,4 @@
-#+TITLE: 1508032018-陈力-造纸白泥(lime mud)滤料-供碱释钙－文献宗述
+#+TITLE: 1508032018-陈力-造纸白泥(lime mud)滤料-供碱释钙－文献综述
 #+latex_header: \usepackage{float}
 #+LATEX_HEADER: \usepackage[UTF8]{ctex}
 #+LATEX_HEADER: \setCJKmainfont{Sarasa Mono T CL}
