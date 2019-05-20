@@ -1,7 +1,18 @@
+#+BEGIN_SRC python
+
+plt.figure(1)
+plt.plot(1, 2)
+plt.xlabel(u'我是横坐标')
+plt.ylabel(u'我是纵坐标')
+plt.show()
+#+END_SRC
+
+#+RESULTS:
+: None
 
 - $\frac{V \times M \times 100.8 \times 1000}{V_w}$
 - \[C_{EDTA} = 0.0089 \text{mol}/L\]
-- \[V_{No.4} = 50 ml = 0.05L\]
+- \[V_{新4号} = 50 ml = 0.05L\]
 - X: 钙离子浓度(以 $CaCO_3$ 计), mg/L;
 - V: 滴定时EDTA标准溶液消耗的体积, mL;
 - M = 0.0089: EDTA标准溶液的浓度, mol/L;
@@ -53,23 +64,6 @@
 |280h    |7.27    |4.0021     |7.65      |7.70      |7.68    |11.67   |123.7082      |
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 
-#+NAME: fig:No4
-#+BEGIN_SRC python :results file :exports results :session 4号
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-plt.plot([0.5, 1, 2, 3, 6, 8, 10, 12, 16, 20, 24, 28, 40, 52, 64, 88, 136, 192, 280], [4.127, 8.433, 9.868, 16.686, 33.732, 39.832, 41.447, 44.215, 51.494, 59.107, 61.722, 71.769, 81.100, 78.946, 84.509, 106.219, 130.082, 137.439, 123.7082], 'ro', label='line 1', linewidth=2)
-plt.axis([0, 300, 0, 200])
-plt.savefig('No4', transparent=False, bbox_inches='tight')
-'No4.png'
-#+END_SRC
-#+CAPTION: 新4号的静态释钙数据
-#+LABEL: fig:No4
-#+ATTR_LATEX: :width 1.0\textwidth
-#+RESULTS: fig:No4
-[[file:No4.png]]
-
-
 * DONE 新4号 3g/100ml 初始pH为超纯水:
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 |time    |pH      |ceramsites |edta 1(ml)|edta 2(ml)|average |pH(end) |result(mg/L)  |
@@ -94,6 +88,7 @@ plt.savefig('No4', transparent=False, bbox_inches='tight')
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 |136h    |7.73    |9.9246     |9.33      |9.35      |9.34    |11.13   |167.582       |
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
+
 * DONE 新4号 pH=4.13:
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 |time    |pH      |ceramsites |edta 1(ml)|edta 2(ml)|average |pH(end) |result(mg/L)  |
@@ -150,25 +145,12 @@ plt.savefig('No4', transparent=False, bbox_inches='tight')
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 |112h    |7.45    |3.9403     |4.70      |4.99      |4.86    |11.14   |87.200        |
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
+|136h    |7.48    |3.9420     |4.70      |4.99      |4.86    |11.14   |92.205        |
++--------+--------+-----------+----------+----------+--------+--------+--------------+
 |192h    |7.41    |3.9268     |5.98      |5.70      |5.84    |11.43   |104.783       |
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 |280h    |7.29    |4.0212     |5.90      |5.93      |5.92    |11.98   |95.3584       |
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
-#+NAME: fig:l60
-#+BEGIN_SRC python :results file :exports results :session l60
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-plt.plot([0.5, 1, 2, 3, 6, 8, 10, 12, 16, 20, 24, 32, 40, 52, 64, 88, 112, 192, 280], [2.153, 8.792, 12.739, 13.636, 16.507, 23.684, 32.296, 30.681, 32.193, 42.882, 46.112, 51.674, 55.263, 66.028, 71.770, 75.358, 87.200, 104.783, 95.3584], 'ro', label='line 1', linewidth=2)
-plt.axis([0, 300, 0, 200])
-plt.savefig('l60', transparent=False, bbox_inches='tight')
-'l60.png'
-#+END_SRC
-#+CAPTION: l60的静态释钙数据
-#+LABEL: fig:l60
-#+ATTR_LATEX: :width 1.0\textwidth
-#+RESULTS: fig:l60
-
 
 * DONE L60 3g/100ml 初始pH为超纯水:
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
@@ -200,6 +182,7 @@ plt.savefig('l60', transparent=False, bbox_inches='tight')
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
 |136h    |9.88    |4.0518     |4.95      |5.00      |4.98    |11.14   |89.353        |
 +--------+--------+-----------+----------+----------+--------+--------+--------------+
+
 * 蠕动泵流速
 - 0.1转速: 240ml/24h                10
 - 0.2转速: 15.5h 330ml              21.29
@@ -216,7 +199,7 @@ plt.savefig('l60', transparent=False, bbox_inches='tight')
 * To Ask
 1. 原料配比具体指哪些
    强度, 空隙结构影响因素
-* TODO 动态 :待整理:
+* DONE 动态
 ** 4号
 35min 9.96
 1:23 10.05
@@ -242,9 +225,8 @@ plt.savefig('l60', transparent=False, bbox_inches='tight')
 ** l60
 35min 10.63
 1:23 10.83
-2:00 10.84
 2:00 10.84  3.0
-3:00 10.99 4.20
+*3:00 10.99 4.20*
 4:30 11.11
 5:00 11.13 5.62
 9:00 11.26 7.03
@@ -269,7 +251,300 @@ plt.savefig('l60', transparent=False, bbox_inches='tight')
 
  0.00002477mol * 336.21 = 0.0083279217 g / 3.1ml = 0.00799
 
- 陈力的关于l60和4号供碱释钙的数据部分, 选择用浏览器打开.html
+* 出图
+** 静态
+*** 时间变量
+**** 释钙
+#+BEGIN_SRC python :results file :exports results :session time-Conllldff
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
 
- 我也需要你们做的数据来分析, 比如 表观密度，24小时吸水率，表观孔隙率，圆柱体压缩强度
- 和可用石灰含量, XRD的结果(各个物质的含量比), SEM的图. 這些我新4号和l60都要
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+matplotlib.rc('font', family='Source Han Sans CN')
+
+fig, ax = plt.subplots()
+
+plt.plot([0.5, 1, 2, 3, 6, 8, 10, 12, 16, 20, 24, 32, 40, 52, 64, 88, 112, 136, 192, 280], [2.153, 8.792, 12.739, 13.636, 16.507, 23.684, 32.296, 30.681, 32.193, 42.882, 46.112, 51.674, 55.263, 66.028, 71.770, 75.358, 87.200, 92.205, 104.783, 95.3584], marker='s', markerfacecolor='blue', markersize=6, color='skyblue', label='l60')
+plt.plot([0.5, 1, 2, 3, 6, 8, 10, 12, 16, 20, 24, 28, 40, 52, 64, 88, 136, 192, 280], [4.127, 8.433, 9.868, 16.686, 33.732, 39.832, 41.447, 44.215, 51.494, 59.107, 61.722, 71.769, 81.100, 78.946, 84.509, 106.219, 130.082, 137.439, 123.7082], marker=10, label='新4号', color='olive', markersize=6)
+plt.legend(loc='lower right')
+plt.xlabel('时间(h)')
+plt.ylabel('浓度(mg/L)')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+
+fig.savefig("time-Concentration.png")
+'time-Concentration.png'
+#+END_SRC
+
+**** pH
+#+BEGIN_SRC python :results file :exports results :session time-hhhdf
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+plt.plot([0.5, 1, 2, 3, 6, 8, 10, 12, 16, 20, 24, 32, 40, 52, 64, 88, 112, 192, 280], [8.00, 8.27, 9.79, 9.84, 10.22, 10.32, 10.34, 10.52, 10.46, 10.50, 10.61, 10.67, 10.76, 10.74, 10.84, 10.96, 11.11, 11.14, 11.67], marker=10, label='新4号', color='olive', markersize=6 )
+plt.plot([0.5, 1, 2, 3, 6, 8, 10, 12, 16, 20, 24, 28, 40, 52, 64, 88, 136, 192, 280], [9.52, 9.66, 10.18, 10.36, 10.38, 10.71, 10.86, 10.74, 10.79, 10.82, 10.95, 11.00, 11.04, 11.00, 11.15, 11.11, 11.14, 11.43, 11.98], marker='s', markerfacecolor='blue', markersize=6, color='skyblue', label='l60')
+
+plt.legend(loc='lower right')
+plt.xlabel('时间(h)')
+plt.ylabel('终点pH')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+
+fig.savefig("time-pH.png")
+'time-pH.png'
+#+END_SRC
+
+*** 投加量变量
+**** 4号 5g/100ml
+***** 释钙
+#+NAME: fig:No4-5g-time-Concentration
+#+BEGIN_SRC python :results file :exports results :session No4-5g-time-Concentration-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+plt.plot([3, 16, 40, 136], [38.935, 115.370, 168.120, 167.582], marker='s', markerfacecolor='blue', markersize=6, color='skyblue',  label='新4号')
+plt.legend(loc='lower right')
+plt.xlabel('时间(h)')
+plt.ylabel('浓度(mg/L)')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+fig.savefig("No4-5g-time-Concentration.png")
+'No4-5g-time-Concentration.png'
+#+END_SRC
+
+***** pH
+#+NAME: fig:No4-5g/100-time-pH
+#+BEGIN_SRC python :results file :exports results :session No4-5g-100-time-pH-again-again-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+plt.plot([3, 16, 40, 136], [10.27, 10.78, 10.95, 11.13], marker=10, label='新4号', color='olive', markersize=6 )
+plt.legend(loc='lower right')
+plt.xlabel('时间(h)')
+plt.ylabel('终点pH')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+fig.savefig("No4-5g-100-time-pH.png")
+'No4-5g-100-time-pH.png'
+#+END_SRC
+
+**** 释钙
+#+NAME: fig:dosage-Concentration
+#+BEGIN_SRC python :results file :exports results :session dosage-Concentration-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+plt.plot([2, 3, 4, 5], [130.082, 147.128, 170.632, 167.582], marker='s', markersize=6,  label='新4号')
+plt.plot([2, 3, 5], [92, 104.963, 131.877], marker='s', markersize=6,  label='l60')
+
+plt.legend(loc='lower right')
+plt.xlabel('投加量(g/100ml)')
+plt.ylabel('浓度(mg/L)')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+fig.savefig("dosage-Concentration.png")
+'dosage-Concentration.png'
+#+END_SRC
+
+**** pH
+#+NAME: fig:dosage-pH
+#+BEGIN_SRC python :results file :exports results :session No4-dosage-pH-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+# ax.yaxis.set_major_formatter(FormatStrFormatter('%.2f'))
+# ax.xaxis.set_major_formatter(FormatStrFormatter('%.1f'))
+
+plt.plot([2, 3, 4, 5], [11.11, 11.06, 11.12, 11.13], marker='s', markersize=6,  label='新4号')
+plt.plot([2, 3, 5], [11.25, 11.38, 11.45], marker='s', markersize=6,  label='l60')
+
+
+plt.legend(loc='lower right')
+plt.xlabel('投加量(g/100ml)')
+plt.ylabel('终点pH')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+plt.savefig('dosage-pH', transparent=False, bbox_inches='tight')
+'dosage-pH.png'
+#+END_SRC
+#+CAPTION: dosage-pH
+#+LABEL: fig:dosage-pH
+#+ATTR_LATEX: :width 1.0\textwidth
+#+RESULTS: fig:dosage-pH
+[[file:dosage-pH.png]]
+
+*** pH变量
+**** 释钙
+#+NAME: fig:pH-Concentration
+#+BEGIN_SRC python :results file :exports results :session pH-Concentration-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+# ax.yaxis.set_major_formatter(FormatStrFormatter('%.2f'))
+# ax.xaxis.set_major_formatter(FormatStrFormatter('%.3f'))
+
+plt.plot([2.09, 4.13, 7.6, 9.97], [85.944, 109.987, 130.082,103.866], marker='s', markersize=6,  label='新4号')
+plt.plot([1.98, 3.93, 7.45, 9.88], [147.666, 97.786, 92.20, 89.353], marker='s', markersize=6,  label='l60')
+
+plt.legend(loc='lower right')
+plt.xlabel('初始pH')
+plt.ylabel('浓度(mg/L)')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+plt.savefig('pH-Concentration', transparent=False, bbox_inches='tight')
+'pH-Concentration.png'
+#+END_SRC
+#+CAPTION: pH-Concentration
+#+LABEL: fig:pH-Concentration
+#+ATTR_LATEX: :width 1.0\textwidth
+#+RESULTS: fig:pH-Concentration
+[[file:pH-Concentration.png]]
+**** pH
+#+NAME: fig:pH-pH
+#+BEGIN_SRC python :results file :exports results :session pH-pH-ph-ph
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+# ax.yaxis.set_major_formatter(FormatStrFormatter('%.2f'))
+# ax.xaxis.set_major_formatter(FormatStrFormatter('%.2f'))
+
+plt.plot([2.09, 4.13, 7.6, 9.97], [9.19, 10.83, 11.11, 10.97], marker='s', markersize=6,  label='新4号')
+plt.plot([1.98, 3.93, 7.45, 9.88], [8.20, 11.18, 11.25, 11.14], marker='s', markersize=6,  label='l60')
+
+plt.legend(loc='lower right')
+plt.xlabel('初始pH')
+plt.ylabel('终点pH')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+plt.savefig('pH-pH', transparent=False, bbox_inches='tight')
+'pH-pH.png'
+#+END_SRC
+#+CAPTION: pH-pH
+#+LABEL: fig:pH-pH
+#+ATTR_LATEX: :width 1.0\textwidth
+#+RESULTS: fig:pH-pH
+[[file:pH-pH.png]]
+
+** 动态
+*** 释钙
+#+NAME: fig:dynamic-time-Concentration
+#+BEGIN_SRC python :results file :exports results :session dynamictime-Concentration-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+# ax.yaxis.set_major_formatter(FormatStrFormatter('%.3f'))
+# ax.xaxis.set_major_formatter(FormatStrFormatter('%.1f'))
+
+plt.plot([2.77, 5, 9, 11, 12, 24, 28, 37, 47, 78, 123, 155, 195, 219, 270], [4.05, 11, 16.8, 18.8, 19.8, 23.4, 26.3, 24.16, 22.80, 16.96, 9.8, 8.5, 4.8, 6.3, 5.7], marker=10,  label='新4号', color='olive', markersize=10)
+plt.plot([2, 3, 5, 9, 11, 12, 24, 28, 37, 47, 78, 123, 155, 195, 219, 270], [3.0, 4.20, 5.62, 7.03, 8.17, 8.22, 7.28, 7.38, 8.02, 7.84, 7.20, 4.60, 5.20, 7.50, 6.25, 5.60], marker='s', markerfacecolor='blue', markersize=6, color='skyblue',  label='l60')
+
+plt.legend(loc='lower right')
+plt.xlabel('时间(h)')
+plt.ylabel('浓度(mg/L)')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+plt.savefig('dynamic-time-Concentration', transparent=False, bbox_inches='tight')
+'dynamic-time-Concentration.png'
+#+END_SRC
+
+*** pH
+#+NAME: fig:dynamic-time-pH
+#+BEGIN_SRC python :results file :exports results :session dynamic-time-pH-again
+import matplotlib.pyplot as plt
+plt.rcParams['font.sans-serif']=['Source Han Serif CN'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+fig, ax = plt.subplots()
+
+# ax.yaxis.set_major_formatter(FormatStrFormatter('%.3f'))
+# ax.xaxis.set_major_formatter(FormatStrFormatter('%.1f'))
+
+
+plt.plot([0.5833, 1.3833, 2, 2.77, 4.5, 5, 9, 11, 12, 24, 28, 37, 47, 78, 123, 155, 195, 219, 270], [9.96, 10.05, 10.16, 10.24, 10.50, 10.59, 10.72, 10.87, 10.89, 10.97, 10.95, 11.03, 11.10, 10.95, 11.07, 11.10, 11.50, 11.67, 11.66], marker=10, label='新4号', color='olive', markersize=6)
+plt.plot([0.5833, 1.3833, 2, 3, 4.5, 5, 9, 11, 12, 24, 28, 37, 47, 78, 123, 155, 195, 219, 270], [10.63, 10.83, 10.84, 10.99, 11.11, 11.13, 11.26, 11.34, 11.39, 11.21, 11.27, 11.35, 11.40, 11.20, 11.28, 11.33, 11.72, 11.84, 11.85], marker='s', markerfacecolor='blue', markersize=6, color='skyblue',  label='l60')
+
+plt.legend(loc='lower right')
+plt.xlabel('时间')
+plt.ylabel('终点pH)')
+ax.tick_params(axis="x", direction="in")
+ax.tick_params(axis="y", direction="in")
+
+plt.savefig('dynamic-time-pH', transparent=False, bbox_inches='tight')
+'dynamic-time-pH.png'
+#+END_SRC
+
+* 实验装置图片
+[[file:dynamic.jpg]]
