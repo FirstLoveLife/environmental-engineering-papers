@@ -3,7 +3,6 @@
 #+AUTHOR: Wei Guan，Fangying Jin，Qingkong Chen，Peng Yan，Qian Zhang
 #+options: top:nil
 #+DATE:
-#+options: toc:nil
 #+latex_header: \usepackage{float}
 #+latex_header:\usepackage{indentfirst}
 #+latex_header:\setlength{\parindent}{2.0cm}
@@ -254,20 +253,6 @@ Ca^{2+}浓度，CSH: Ca/Si = 1.6和CSH: Ca/Si = 2.2分别为2.10, 3.56, 4.91mg/g
 \par
 
 * 总结
-\setlength{\parindent}{1.0cm}
-采用动态水热法，采用碳化物残渣和白炭黑合成了多孔硅酸钙水合物。Ca/Si摩尔比对多孔硅酸钙水合物的磷回收性能产生显着影响。多孔硅酸钙水合物的Ca/Si摩尔比为1.6更适合回收磷。多孔硅酸钙水合物可以回收磷，磷含量为18.64%。
-\par
-
-
-\setlength{\parindent}{1.0cm}
-Ca^{2+}和OH^{-}释放规律是磷回收效率的关键。Ca/Si摩尔比的变化导致不同的孔结构。比表面积的增加和Ca^{2+}释放浓度的增加彼此非常一致。
-\par
-
-
-\setlength{\parindent}{1.0cm}
-XRD的进一步分析表明，两种情况影响了Ca^{2+}释放规律。一方面，低Ca/Si摩尔比导致形成富Si层。另一方面，Ca(OH)_{2}会由于高Ca/Si摩尔比而形成。
-\par
-
 
 bibliography:man.bib
 bibliographystyle:ieeetr

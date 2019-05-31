@@ -1,4 +1,4 @@
-% Created 2019-03-06 Wed 19:03
+% Created 2019-05-20 Mon 15:14
 % Intended LaTeX compiler: xelatex
 \documentclass[11pt]{article}
 \usepackage{graphicx}
@@ -35,11 +35,13 @@
  pdftitle={多孔硅的制备及磷回收性能},
  pdfkeywords={},
  pdfsubject={},
- pdfcreator={Emacs 26.1 (Org mode 9.2.1)}, 
+ pdfcreator={Emacs 26.2 (Org mode 9.2.2)}, 
  pdflang={English}}
 \begin{document}
 
 \maketitle
+\tableofcontents
+
 \noindent\rule{\textwidth}{0.5pt}
 \begin{abstract}
 
@@ -54,41 +56,41 @@
 \noindent\rule{\textwidth}{0.5pt}
 
 \section{简介}
-\label{sec:orgcbde3f0}
-磷不仅在水体富营养化中起着重要作用，而且是一种不可再生和不可替代的资源。\cite{Suzuki_2007} 全球磷
+\label{sec:org1f5286c}
+磷不仅在水体富营养化中起着重要作用，而且是一种不可再生和不可替代的资源。cite:Suzuki\textsubscript{2007} 全球磷
 矿资源将在100年内完全耗尽。因此，废水回收被认为是开发可持续磷资源的唯一途径。
-\cite{Efficiency_and_mechanism_of_phosphorus_removal_by_coagulation_of_iron_manganese_composited_oxide,song07_seed_selec_cryst_calcium_phosp_phosp_recov}
+cite:Efficiency\textsubscript{and}\textsubscript{mechanism}\textsubscript{of}\textsubscript{phosphorus}\textsubscript{removal}\textsubscript{by}\textsubscript{coagulation}\textsubscript{of}\textsubscript{iron}\textsubscript{manganese}\textsubscript{composited}\textsubscript{oxide,song07}\textsubscript{seed}\textsubscript{selec}\textsubscript{cryst}\textsubscript{calcium}\textsubscript{phosp}\textsubscript{phosp}\textsubscript{recov}
 以羟基磷灰石形式从废水中回收磷是一种常见且简单的方法。
-\cite{chen09_phosp_remov_recov_throug_cryst,muench01_contr_struv_cryst_remov_phosp,song06_calcit_seeded_cryst_calcium_phosp_phosp_recov}
+cite:chen09\textsubscript{phosp}\textsubscript{remov}\textsubscript{recov}\textsubscript{throug}\textsubscript{cryst,muench01}\textsubscript{contr}\textsubscript{struv}\textsubscript{cryst}\textsubscript{remov}\textsubscript{phosp,song06}\textsubscript{calcit}\textsubscript{seeded}\textsubscript{cryst}\textsubscript{calcium}\textsubscript{phosp}\textsubscript{phosp}\textsubscript{recov}
 然而，在羟基磷灰石的形成
-过程中，超饱和是一种常见现象。羟基磷灰石形成的最佳pH值范围为10.5-12.5 \cite{liu03_influen_ph_temper_morph_hydrox} 这个pH
-值太高，生化处理系统的pH值在6.0到9.0之间。\cite{hood01_bioch_hypot_explain_respon_enhan} 对于通过化学方法辅助的生物处理过程去
-除磷，较高的pH值也增加了碳酸盐和钙之间的显着竞争。\cite{battistoni00_struv_cryst}
-同时，化学处理成本增加，最终产品的有效磷组分减少。\cite{sengupta11_selec_remov_phosp_from_wastew}
+过程中，超饱和是一种常见现象。羟基磷灰石形成的最佳pH值范围为10.5-12.5 cite:liu03\textsubscript{influen}\textsubscript{ph}\textsubscript{temper}\textsubscript{morph}\textsubscript{hydrox} 这个pH
+值太高，生化处理系统的pH值在6.0到9.0之间。cite:hood01\textsubscript{bioch}\textsubscript{hypot}\textsubscript{explain}\textsubscript{respon}\textsubscript{enhan} 对于通过化学方法辅助的生物处理过程去
+除磷，较高的pH值也增加了碳酸盐和钙之间的显着竞争。cite:battistoni00\textsubscript{struv}\textsubscript{cryst}
+同时，化学处理成本增加，最终产品的有效磷组分减少。cite:sengupta11\textsubscript{selec}\textsubscript{remov}\textsubscript{phosp}\textsubscript{from}\textsubscript{wastew}
 
 硅酸钙-水合物(CSH)作为晶种可用于通过羟基磷灰石结晶去除废
-水中的磷。\cite{battistoni01_phosp_remov_from_real_anaer} Ca\textsuperscript{2+}和OH\textsuperscript{-}从CSH中释放出来并在pH = 8.5-9.5的条件下与磷酸盐反应生成羟基
+水中的磷。cite:battistoni01\textsubscript{phosp}\textsubscript{remov}\textsubscript{from}\textsubscript{real}\textsubscript{anaer} Ca\textsuperscript{2+}和OH\textsuperscript{-}从CSH中释放出来并在pH = 8.5-9.5的条件下与磷酸盐反应生成羟基
 磷灰石。然而，在实际应用中，CSH的磷含量太低而不能回收磷。
-\cite{renman10_long_term_phosp_remov_by,de-bashan04_recen_advan_remov_phosp_from}  Ca\textsuperscript{2+}和OH\textsuperscript{-}的释放效率与
-CSH \cite{yin11_phosp_remov_from_wastew_by} 的孔结构有关，影响磷的回收性能。
-\cite{westholm06_subst_phosp_remov_poten_benef,baur04_dissol_precip_behav_ettrin_monos}
+cite:renman10\textsubscript{long}\textsubscript{term}\textsubscript{phosp}\textsubscript{remov}\textsubscript{by,de}-bashan04\textsubscript{recen}\textsubscript{advan}\textsubscript{remov}\textsubscript{phosp}\textsubscript{from}  Ca\textsuperscript{2+}和OH\textsuperscript{-}的释放效率与
+CSH cite:yin11\textsubscript{phosp}\textsubscript{remov}\textsubscript{from}\textsubscript{wastew}\textsubscript{by} 的孔结构有关，影响磷的回收性能。
+cite:westholm06\textsubscript{subst}\textsubscript{phosp}\textsubscript{remov}\textsubscript{poten}\textsubscript{benef,baur04}\textsubscript{dissol}\textsubscript{precip}\textsubscript{behav}\textsubscript{ettrin}\textsubscript{monos}
 Ca/Si摩尔比对CSH
-\cite{chen04_solub_struc_calcium_silic_hydrat,soyer-uzun11_compos_evolut_calcium_silic_hydrat,richardson04_tober_tober_hydrox_based_model}
+cite:chen04\textsubscript{solub}\textsubscript{struc}\textsubscript{calcium}\textsubscript{silic}\textsubscript{hydrat,soyer}-uzun11\textsubscript{compos}\textsubscript{evolut}\textsubscript{calcium}\textsubscript{silic}\textsubscript{hydrat,richardson04}\textsubscript{tober}\textsubscript{tober}\textsubscript{hydrox}\textsubscript{based}\textsubscript{model}
 的孔结构具有显着影响。在磷回
 收性能方面，尚未确定Ca/Si摩尔比与磷回收性能之间的系统关系。Ca/Si摩尔比对磷回收性
 能影响的机理以及Ca\textsuperscript{2+}和OH\textsuperscript{-}释放规律尚不清楚。因此，确定CSH的适当Ca/Si摩尔比以回收磷是一项挑战。
 
 该研究的主要目的是找到适当的CSH回收磷的Ca/Si的摩尔比。本文的原创性和重要性由以下三点强调:
 \begin{enumerate}
-\item 采用动态水热法，采用碳化物残渣和白炭黑合成了多孔硅酸钙水合物。 \cite{li04_format_micro_porous_spher_partic,mansur10_prepar_charac_cytoc_bioac_coatin} 研究了Ca/Si摩尔比对磷回收性能的影响。
+\item 采用动态水热法，采用碳化物残渣和白炭黑合成了多孔硅酸钙水合物。 cite:li04\textsubscript{format}\textsubscript{micro}\textsubscript{porous}\textsubscript{spher}\textsubscript{partic,mansur10}\textsubscript{prepar}\textsubscript{charac}\textsubscript{cytoc}\textsubscript{bioac}\textsubscript{coatin} 研究了Ca/Si摩尔比对磷回收性能的影响。
 \item 通过Avrami动力学模型建立了孔隙结构与Ca\textsuperscript{2+}和OH\textsuperscript{-}释放规律之间的关系。
 \item 在深入研究的基础上，通过FESEM，EDS，BET和XRD研究了磷的回收机理。
 \end{enumerate}
 
 \section{材料和方法}
-\label{sec:orga0215d2}
+\label{sec:orgdf89ce5}
 \subsection{多孔硅酸钙水合物的制备}
-\label{sec:org0a50eb5}
+\label{sec:org5675872}
 用碳化物残余物(提供Ca)和白炭黑(提供Si)合成多孔硅酸钙水合物。碳化物残渣(钙
 质，灰白和粉末)从重庆长寿化学有限公司获得，并在700℃下煅烧2小时。白炭黑(粒径均
 匀的球形颗粒)购自重庆建峰化工有限公司。碳化物残渣和白炭黑的化学成分见表1。雪硅钙
@@ -100,11 +102,11 @@ Ca/Si摩尔比对CSH
 将Ca/Si摩尔比为0.6, 1.0 ,1.6和2.2的制备样品分别表示为CSH: Ca/Si = 0.6，CSH: Ca/Si
 = 1.0，CSH: Ca/Si = 1.6和CSH: Ca/Si = 2.2。
 \subsection{评估磷回收性能}
-\label{sec:org29c3860}
+\label{sec:org537a8b6}
 将合成溶液(1L)分别加入瓶中。将一定质量的样品(500，1000，2000，3000，4000，5000和
 6000mg)分别加入这些瓶中，并在受控温度条件(20℃)下以40r/min摇动。使用Unico分
 光光度计(UV 2102PCS，Shanghai Unico Instruments Co.，Ltd.，中国)，
-\cite{gustafsson08_phosp_remov_by_miner_based} 根据钼 - 蓝抗坏血酸法(数据的相对
+cite:gustafsson08\textsubscript{phosp}\textsubscript{remov}\textsubscript{by}\textsubscript{miner}\textsubscript{based} 根据钼 - 蓝抗坏血酸法(数据的相对
 误差为0.3\%)测量上清液的磷浓度。然后将反应后的固体样品与除去的合成溶液分离，并再
 次加入初始磷浓度为100mg/L的合成溶液中。重复该实验数次，直到加入样品使磷浓度保持不
 变。最后，将产生的沉淀物与除去的合成溶液分离，干燥并称重。通过方程式计算磷回收后的
@@ -112,7 +114,7 @@ Ca/Si摩尔比对CSH
 
 \[P = \frac{(c_{0} - c_{t})v}{w} 100\% \ \ \  (1)\]
 
-将4g样品(CSH: Ca/Si = 0.6，CSH: Ca/Si = 1.0，CSH: Ca/Si = 1.6，CSH: Ca/Si = 2.2和雪硅钙石)浸入分别包含在其中的1L去离子水中。一个玻璃瓶，生成溶液浓度为4克/升的样品。将瓶子放在搅拌台上并在控制温度条件(20℃)下以40r/min摇动。在搅拌5,10,15,20,40,60,80和100分钟后取出溶液样品。通过EDTA滴定测定样品的Ca\textsuperscript{2+}浓度(数据的相对误差为0.05\%)。\cite{kim03_effec_ph_sulfat_sodium_edta_titrat_calcium}
+将4g样品(CSH: Ca/Si = 0.6，CSH: Ca/Si = 1.0，CSH: Ca/Si = 1.6，CSH: Ca/Si = 2.2和雪硅钙石)浸入分别包含在其中的1L去离子水中。一个玻璃瓶，生成溶液浓度为4克/升的样品。将瓶子放在搅拌台上并在控制温度条件(20℃)下以40r/min摇动。在搅拌5,10,15,20,40,60,80和100分钟后取出溶液样品。通过EDTA滴定测定样品的Ca\textsuperscript{2+}浓度(数据的相对误差为0.05\%)。cite:kim03\textsubscript{effec}\textsubscript{ph}\textsubscript{sulfat}\textsubscript{sodium}\textsubscript{edta}\textsubscript{titrat}\textsubscript{calcium}
 
 \noindent\rule{\textwidth}{0.5pt}
 
@@ -122,14 +124,14 @@ Ca/Si摩尔比对CSH
 \noindent\rule{\textwidth}{0.5pt}
 
 \subsection{表征方法}
-\label{sec:org0978821}
+\label{sec:org65ad314}
 \setlength{\parindent}{1.0cm}
 使用CuKα辐射在XD-2仪器(Persee，China)中收集XRD图案。在S-4800场发射扫描电子显微镜(日立，日本)上收集FESEM图像。在ASAP-2010吸附装置(Micromeritics，USA)上通过氮吸附在77.35K下测量BET表面积。
 \par
 \section{结果和讨论}
-\label{sec:org284a800}
+\label{sec:org908a915}
 \subsection{多孔硅酸钙水合物的磷回收性能}
-\label{sec:org17ca30e}
+\label{sec:orgac4ab57}
 \setlength{\parindent}{1.0cm}
 反应时间对抑制磷浓度的影响如图1所示。在最初的20分钟内观察到磷浓度急剧下降。随着时间的延长，磷浓度略有下降。当反应在60分钟达到平衡时，抑制磷浓度的差异是显着的。当Ca/Si摩尔比为0.6时，抑制磷浓度达到22.19mg/L。随着Ca/Si摩尔比的增加，样品的除磷能力显着提高。当Ca/Si摩尔比为2.2时，抑制磷浓度为2.16mg/L。
 \par
@@ -174,10 +176,10 @@ CSH相比，Ca/Si = 1.6具有更高的磷回收性能: Ca/Si = 2.2.样品的磷�
 \par
 
 \subsection{多孔硅酸钙水合物的孔结构}
-\label{sec:org93a0056}
+\label{sec:orgce8d57f}
 \setlength{\parindent}{1.0cm}
 样品上的氮吸附 - 解吸等温线如图5所示。结果表明吸附滞后环现象。这意味着样品上存
-在中孔或窄间隙孔\cite{Poreestructure_and_surface_fractal_characteristics_of_calcium_silicate_hydrates_contained_organic_macromolecule。在mespore中的吸附主要发生在中压区域}(0:4op = p0o0:9).
+在中孔或窄间隙孔cite:Poreestructure\textsubscript{and}\textsubscript{surface}\textsubscript{fractal}\textsubscript{characteristics}\textsubscript{of}\textsubscript{calcium}\textsubscript{silicate}\textsubscript{hydrates}\textsubscript{contained}\textsubscript{organic}\textsubscript{macromolecule}。在mespore中的吸附主要发生在中压区域(0:4op = p0o0:9).
 随着Ca/Si摩尔比的增加，吸附磁滞回线现象变得明显，吸附曲线增大。CSH的比表面积:
 Ca/Si = 0.6，CSH: Ca/Si = 1.0，CSH: Ca/Si = 1.6，CSH: Ca/Si = 2.2和雪硅
 钙石分别为11.91, 59.67, 113.36, 121.03和49.85m2/g，分别。这些样品的孔体积相应
@@ -224,11 +226,11 @@ CSH: Ca/Si = 2.2除了纤维网络结构外还有大块的片状晶体。EDS分�
 
 
 \subsection{Ca\textsuperscript{2+}释放动力学}
-\label{sec:orgd4f9b7f}
+\label{sec:org0e03bc0}
 \setlength{\parindent}{1.0cm}
 实验表明，Ca\textsuperscript{2+}浓度随着Ca/Si摩尔比的增加而增加(图7)。从雪硅钙石释放的
 Ca\textsuperscript{2+}浓度，CSH: Ca/Si = 1.6和CSH: Ca/Si = 2.2分别为2.10, 3.56, 4.91mg/g。
-根据Avrami动力学模型方程(方程(2)绘制Ca\textsuperscript{2+}释放的实验能力)。\cite{demirkıran07_dissol_kinet_ulexit_perch_acid_solut}
+根据Avrami动力学模型方程(方程(2)绘制Ca\textsuperscript{2+}释放的实验能力)。cite:demirkıran07\textsubscript{dissol}\textsubscript{kinet}\textsubscript{ulexit}\textsubscript{perch}\textsubscript{acid}\textsubscript{solut}
 \par
 
 \[-\ln(1-x) = kt^{n} \ \ \ (2)\]
@@ -251,7 +253,7 @@ Ca\textsuperscript{2+}浓度，CSH: Ca/Si = 1.6和CSH: Ca/Si = 2.2分别为2.10,
 \[-\ln(1-x) = 0.022S^{0.292}t^{0.9019} \ \ \ (4)\]
 
 \setlength{\parindent}{1.0cm}
-根据方程(4)，Ca\textsuperscript{2+}释放浓度与比表面积有关。该结果证明了Ca/Si摩尔比对磷回收能力的影响。Ca/Si摩尔比影响孔结构和Ca\textsuperscript{2+}释放能力。由于比表面积较大，Ca\textsuperscript{2+}释放得更快。多孔结构提供了维持高浓度Ca\{2+\}释放的局部条件。比较CSH: Ca/Si = 1.6与CSH: Ca/Si = 2.2，前者具有较高的磷回收性能。因此，Ca\textsuperscript{2+}释放规律是磷回收性能的关键。CSH: Ca/Si = 1.6可以释放适当浓度的Ca\textsuperscript{2+}和OH\textsuperscript{-}以维持pH值在8.5-9.5之间。磷酸盐以这些pH值范围内的HPO\textsuperscript{2-}\textsubscript{4}形式存在.\cite{liu12_remov_high_concen_phosp_by_calcit} Ca\textsuperscript{2+}，OH\textsuperscript{-}和HPO\textsuperscript{2-}\textsubscript{4}形成高浓度的局部条件。这种条件(pH = 8.5-9.5)有利于羟基磷灰石的形成。
+根据方程(4)，Ca\textsuperscript{2+}释放浓度与比表面积有关。该结果证明了Ca/Si摩尔比对磷回收能力的影响。Ca/Si摩尔比影响孔结构和Ca\textsuperscript{2+}释放能力。由于比表面积较大，Ca\textsuperscript{2+}释放得更快。多孔结构提供了维持高浓度Ca\{2+\}释放的局部条件。比较CSH: Ca/Si = 1.6与CSH: Ca/Si = 2.2，前者具有较高的磷回收性能。因此，Ca\textsuperscript{2+}释放规律是磷回收性能的关键。CSH: Ca/Si = 1.6可以释放适当浓度的Ca\textsuperscript{2+}和OH\textsuperscript{-}以维持pH值在8.5-9.5之间。磷酸盐以这些pH值范围内的HPO\textsuperscript{2-}\textsubscript{4}形式存在.cite:liu12\textsubscript{remov}\textsubscript{high}\textsubscript{concen}\textsubscript{phosp}\textsubscript{by}\textsubscript{calcit} Ca\textsuperscript{2+}，OH\textsuperscript{-}和HPO\textsuperscript{2-}\textsubscript{4}形成高浓度的局部条件。这种条件(pH = 8.5-9.5)有利于羟基磷灰石的形成。
 \par
 
 \setlength{\parindent}{1.0cm}
@@ -285,22 +287,8 @@ Ca\textsuperscript{2+}浓度，CSH: Ca/Si = 1.6和CSH: Ca/Si = 2.2分别为2.10,
 \par
 
 \section{总结}
-\label{sec:orgc15e583}
-\setlength{\parindent}{1.0cm}
-采用动态水热法，采用碳化物残渣和白炭黑合成了多孔硅酸钙水合物。Ca/Si摩尔比对多孔硅酸钙水合物的磷回收性能产生显着影响。多孔硅酸钙水合物的Ca/Si摩尔比为1.6更适合回收磷。多孔硅酸钙水合物可以回收磷，磷含量为18.64\%。
-\par
+\label{sec:orgfe1cc80}
 
-
-\setlength{\parindent}{1.0cm}
-Ca\textsuperscript{2+}和OH\textsuperscript{-}释放规律是磷回收效率的关键。Ca/Si摩尔比的变化导致不同的孔结构。比表面积的增加和Ca\textsuperscript{2+}释放浓度的增加彼此非常一致。
-\par
-
-
-\setlength{\parindent}{1.0cm}
-XRD的进一步分析表明，两种情况影响了Ca\textsuperscript{2+}释放规律。一方面，低Ca/Si摩尔比导致形成富Si层。另一方面，Ca(OH)\textsubscript{2}会由于高Ca/Si摩尔比而形成。
-\par
-
-
-\bibliography{man}
-\bibliographystyle{ieeetr}
+bibliography:man.bib
+bibliographystyle:ieeetr
 \end{document}

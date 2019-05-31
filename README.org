@@ -304,7 +304,7 @@ ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
 
-fig.savefig("time-Concentration.png")
+fig.savefig("time-Concentration.png", dpi=1000)
 'time-Concentration.png'
 #+END_SRC
 
@@ -330,7 +330,7 @@ ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
 
-fig.savefig("time-pH.png")
+fig.savefig("time-pH.png", dpi=1000)
 'time-pH.png'
 #+END_SRC
 
@@ -356,7 +356,7 @@ plt.ylabel('浓度(mg/L)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-fig.savefig("No4-5g-time-Concentration.png")
+fig.savefig("No4-5g-time-Concentration.png", dpi=1000)
 'No4-5g-time-Concentration.png'
 #+END_SRC
 
@@ -406,7 +406,7 @@ plt.ylabel('浓度(mg/L)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-fig.savefig("dosage-Concentration.png")
+fig.savefig("dosage-Concentration.png", dpi=1000)
 'dosage-Concentration.png'
 #+END_SRC
 
@@ -436,7 +436,7 @@ plt.ylabel('终点pH')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-plt.savefig('dosage-pH', transparent=False, bbox_inches='tight')
+plt.savefig('dosage-pH', transparent=False, bbox_inches='tight', dpi=1000)
 'dosage-pH.png'
 #+END_SRC
 #+CAPTION: dosage-pH
@@ -471,7 +471,7 @@ plt.ylabel('浓度(mg/L)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-plt.savefig('pH-Concentration', transparent=False, bbox_inches='tight')
+plt.savefig('pH-Concentration', transparent=False, bbox_inches='tight', dpi=1000)
 'pH-Concentration.png'
 #+END_SRC
 #+CAPTION: pH-Concentration
@@ -504,7 +504,7 @@ plt.ylabel('终点pH')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-plt.savefig('pH-pH', transparent=False, bbox_inches='tight')
+plt.savefig('pH-pH', transparent=False, bbox_inches='tight', dpi=1000)
 'pH-pH.png'
 #+END_SRC
 #+CAPTION: pH-pH
@@ -539,7 +539,7 @@ plt.ylabel('浓度(mg/L)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-plt.savefig('dynamic-time-Concentration', transparent=False, bbox_inches='tight')
+plt.savefig('dynamic-time-Concentration', transparent=False, bbox_inches='tight', dpi=1000)
 'dynamic-time-Concentration.png'
 #+END_SRC
 
@@ -569,7 +569,7 @@ plt.ylabel('终点pH)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-plt.savefig('dynamic-time-pH', transparent=False, bbox_inches='tight')
+plt.savefig('dynamic-time-pH', transparent=False, bbox_inches='tight', dpi=1000)
 'dynamic-time-pH.png'
 #+END_SRC
 

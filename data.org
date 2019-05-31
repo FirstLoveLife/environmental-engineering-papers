@@ -8,7 +8,6 @@ plt.show()
 #+END_SRC
 
 #+RESULTS:
-: None
 
 - $\frac{V \times M \times 100.8 \times 1000}{V_w}$
 - \[C_{EDTA} = 0.0089 \text{mol}/L\]
@@ -277,9 +276,12 @@ ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
 
-fig.savefig("time-Concentration.png")
+fig.savefig("time-Concentration.png", dpi=1200)
 'time-Concentration.png'
 #+END_SRC
+
+#+RESULTS:
+[[file:time-Concentration.png]]
 
 **** pH
 #+BEGIN_SRC python :results file :exports results :session time-hhhdf
@@ -303,9 +305,12 @@ ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
 
-fig.savefig("time-pH.png")
+fig.savefig("time-pH.png", dpi=1200)
 'time-pH.png'
 #+END_SRC
+
+#+RESULTS:
+[[file:time-pH.png]]
 
 *** 投加量变量
 **** 4号 5g/100ml
@@ -329,9 +334,12 @@ plt.ylabel('浓度(mg/L)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-fig.savefig("No4-5g-time-Concentration.png")
+fig.savefig("No4-5g-time-Concentration.png", dpi=1200)
 'No4-5g-time-Concentration.png'
 #+END_SRC
+
+#+RESULTS: fig:No4-5g-time-Concentration
+[[file:No4-5g-time-Concentration.png]]
 
 ***** pH
 #+NAME: fig:No4-5g/100-time-pH
@@ -353,9 +361,12 @@ plt.ylabel('终点pH')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-fig.savefig("No4-5g-100-time-pH.png")
+fig.savefig("No4-5g-100-time-pH.png", dpi=1200)
 'No4-5g-100-time-pH.png'
 #+END_SRC
+
+#+RESULTS: fig:No4-5g/100-time-pH
+[[file:No4-5g-100-time-pH.png]]
 
 **** 释钙
 #+NAME: fig:dosage-Concentration
@@ -379,9 +390,12 @@ plt.ylabel('浓度(mg/L)')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-fig.savefig("dosage-Concentration.png")
+fig.savefig("dosage-Concentration.png", dpi=1200)
 'dosage-Concentration.png'
 #+END_SRC
+
+#+RESULTS: fig:dosage-Concentration
+[[file:dosage-Concentration.png]]
 
 **** pH
 #+NAME: fig:dosage-pH
@@ -409,7 +423,7 @@ plt.ylabel('终点pH')
 ax.tick_params(axis="x", direction="in")
 ax.tick_params(axis="y", direction="in")
 
-plt.savefig('dosage-pH', transparent=False, bbox_inches='tight')
+plt.savefig('dosage-pH', transparent=False, bbox_inches='tight', dpi=1200)
 'dosage-pH.png'
 #+END_SRC
 #+CAPTION: dosage-pH
@@ -516,6 +530,9 @@ plt.savefig('dynamic-time-Concentration', transparent=False, bbox_inches='tight'
 'dynamic-time-Concentration.png'
 #+END_SRC
 
+#+RESULTS: fig:dynamic-time-Concentration
+[[file:dynamic-time-Concentration.png]]
+
 *** pH
 #+NAME: fig:dynamic-time-pH
 #+BEGIN_SRC python :results file :exports results :session dynamic-time-pH-again
@@ -545,6 +562,9 @@ ax.tick_params(axis="y", direction="in")
 plt.savefig('dynamic-time-pH', transparent=False, bbox_inches='tight')
 'dynamic-time-pH.png'
 #+END_SRC
+
+#+RESULTS: fig:dynamic-time-pH
+[[file:dynamic-time-pH.png]]
 
 * 实验装置图片
 [[file:dynamic.jpg]]
